@@ -560,9 +560,9 @@
 					</tr>
 					<tr>
 						<td>
-							As well, because the lines b.a and a.d are likewise extended from point b, which is the center of the circle c.a.d, up to its circumference, they will also
-							be equal; therefore because each of the two lines a.d and b.d equal the line a.b as is demonstrated: they will be equal among themselves through the
-							<span class="conceptiones">first conception</span>. Therefore we have assembled an equilateral triangle over the given line; which is the intention.
+							And likewise, because the lines b.a and a.d are extended from point b, which is the center of the circle c.a.d, up to its circumference, they will also be
+							equal; therefore because each of the two lines a.d and b.d equal the line a.b as is demonstrated: they will be equal among themselves through the
+							<span class="conceptiones">first conception</span>. Therefore, we have assembled an equilateral triangle over the given line; which is the intention.
 						</td>
 						<td>
 							Similiter quoque: quia a puncto .b. quod est centrum circuli .c.a.d. protractae sunt lineae .b.a. et .a.d. usque ad eius circumferentiam ipsae erunt etiam
@@ -1303,14 +1303,14 @@
 						<td>
 							¶&nbsp;Sit .a. punctus signatus extra lineam: b.c. a quo ad ipsam oportet deducere perpendicularem; protraham ergo lineam .b.c. in utramque partem quantum
 							libuerit. et super punctum .a. describam circulum .b.c. sic ut secet lineam datam in punctis .b.c. et protraham lineas .a.b. et .a.c. et dividam angulum
-							.b.a.c. per aequalia per lineam .a.d. per <span class="propositio">.9.</span>. dico quod .a.d. est perpendicularis super lineam .b.c.
+							.b.a.c. per aequalia per lineam .a.d. per <span class="propositio">.9.</span> dico quod .a.d. est perpendicularis super lineam .b.c.
 						</td>
 					</tr>
 					<tr>
 						<td>
 							I note the two triangles a.b.d and a.c.d, and because the two sides a.b and a.d of the triangle a.b.d are equal to the two sides a.c and a.d of the
 							triangle a.c.d, and one angle a is equal to the other angle a, by means of the 4th the base b.d will equal the base d.c and the angle a.d.b will equal the
-							angle d.b.c [sic], whereby both of them are right, and the line a.d is perpendicular over the line b.c by the <span class="definitio">definition of a right
+							angle a.d.c, whereby both of them are right, and the line a.d is perpendicular over the line b.c by the <span class="definitio">definition of a right
 							angle</span> and <span class="definitio">of a perpendicular line</span>. Which is the intention.
 						</td>
 						<td>
@@ -1453,14 +1453,15 @@
 							¶&nbsp;Suppose the two lines, a.b and c.d, intersect each other at point e. I say that the angle d.e.b is equal to the angle a.e.c and the angle b.e.c is
 							equal to the angle a.e.d. For the two angles a.e.c and c.e.b will, by means of the <span class="propositio">13th</span>, be equal to two right angles, and
 							likewise the two angles c.e.b and d.e.b are equal to two right angles by means of the same; wherefor the first two are equal to the last two inasmuch that
-							all right angles are reciprocally equal by the <span class="petitiones">4th petition</span> [sic]: therefore by removing the common angle that is c.e.b,
+							all right angles are reciprocally equal by the <span class="petitiones">3rd petition</span>: therefore by removing the common angle that is c.e.b,
 							the angle a.e.c will be equal to the angle d.e.b.
 						</td>
 						<td>
 							¶&nbsp;Sint duae lineae .a.b. et .c.d. se invicem secantes in puncto .e. dico quod angulus .d.e.b. est aequalis angulo .a.e.c. et angulus .b.e.c. est
 							aequalis angulo .a.e.d. erunt enim per <span class="propositio">.13.</span> duo anguli .a.e.c. et .c.e.b. aequales duobus rectis: itemque duo anguli
 							.c.e.b. et .d.e.b. aequales duobus rectis per eandem: quare duo primi sunt aequales duobus postremis eo quod omnes recti sunt adinuicem aequales per
-							<span class="petitiones">.4. petitionem</span> [sic]: dempto ergo communi angulo quod est .c.e.b. erit angulus .a.e.c. aequalis angulo .d.e.b.
+							<span class="petitiones">.4.</span> [sic] <span class="petitiones">petitionem</span>: dempto ergo communi angulo quod est .c.e.b. erit angulus .a.e.c.
+							aequalis angulo .d.e.b.
 						</td>
 					</tr>
 					<tr>
@@ -1499,12 +1500,12 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Let the side a.b. of the triangle a.b.c be extended up until d. I say that the angle d.b.c is greater than either of the two angles from within and
-							opposite itself, which are b.a.c and b.c.a. For I will divide by means of the <span class="propositio">10th</span> the line c.b by equals at point e, and I
-							will extend a.e up until f so e.f may be made equal to a.e, and I will extend the line f.b. And I note the two triangles, c.e.a and b.e.f, and because the
-							two sides a.e and e.c of the triangle a.e.c are equal to the two sides f.e and e.b of the triangle f.e.b, and the angle e of one is equal to the angle e of
-							the other through the preceding (because the angles are placed opposite) by the <span class="propositio">4th</span> the angle e.c.a will be equal to the
-							angle e.b.f and for that reason the angle e.b.d will be greater than the angle b.c.a.
+							¶&nbsp;Suppose that side a.b. of the triangle a.b.c is extended up until d. I say that the angle d.b.c is greater than either of the two angles from within
+							and opposite itself, which are b.a.c and b.c.a. For I will divide by means of the <span class="propositio">10th</span> the line c.b by equals at point e,
+							and I will extend a.e up until f so e.f shall be made equal to a.e, and I will extend the line f.b. And I note the two triangles, c.e.a and b.e.f, and
+							for that the two sides a.e and e.c of the triangle a.e.c are equal to the two sides f.e and e.b of the triangle f.e.b, and that the angle e of one is equal
+							to the angle e of the other by the preceding (for the angles are placed opposite) then by the <span class="propositio">4th</span> the angle e.c.a will
+							equal the angle e.b.f, thus the angle e.b.d will be greater than angle the b.c.a.
 						</td>
 						<td>
 							¶&nbsp;Sit ut trianguli .a.b.c. latus .a.b. protrahatur usque ad .d. dico quod angulus .d.b.c. maior est utroque duorum angulorum intrinsecorum sibi
@@ -1517,12 +1518,12 @@
 					</tr>
 					<tr>
 						<td>
-							Similarly, it will be proved as well that it is greater than the angle c.a.b, for I will divide a.b by equals at point g by the <span class="propositio">
-							10th </span> and I will extend the line g.h equal to the line c.g by the <span class="propositio">3rd</span>, then I will extend h.b.k, and of the two
-							triangles that are a.g.c and b.g.h: the two sides a.g and g.c of the first will be equal to the two sides b.g and b.h of the second; and the angle g of one
-							to the angle g of the other by the <span class="propositio">15th</span>, therefore by the <span class="propositio">4th</span> the angle b.c.a [sic] is equal
-							to the angle g.b.h and wherefor by the <span class="propositio">15th</span> to the angle k.b.d. And because the angle c.b.d. is greater than the angle
-							k.b.d. it will also be greater than the angle b.a.c, which is the intent.
+							It likewise will be similarly proved that it is greater than the angle c.a.b, for I will divide a.b by equals at point g by the
+							<span class="propositio">10th </span> and extend the line g.h equal to the line c.g by the <span class="propositio">3rd</span>. Then I will extend h.b.k,
+							and of the two triangles that are a.g.c and b.g.h, the two sides a.g and g.c of the first will be equal to the two sides b.g and b.h of the second,
+							and the angle g of one to the angle g of the other by the <span class="propositio">15th</span>, therefore, by the <span class="propositio">4th</span> the
+							angle g.a.c is equal to the angle g.b.h and so by the <span class="propositio">15th</span> to the angle k.b.d. And because the angle c.b.d is greater than
+							the angle k.b.d, it will also be greater than the angle b.a.c, which is the intent.
 						</td>
 						<td>
 							Similiter quoque probabitur quod est maior angulo .c.a.b. nam dividam .a.b. per aequalia in puncto .g. per <span class="propositio">.10.</span> et
@@ -1832,12 +1833,12 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Let the given line be f.e, which is on the preceding figure, and lines b and a shall be contain the given angle to which I will subtend the base c.
+							¶&nbsp;Let the given line be f.e, which is on the preceding figure, and the lines b and a shall contain the given angle to which I will subtend the base c.
 							Over point f on the line e.f I shall bid to make an angle equal to the given angle; to the line e.f I am to join f.d, equal to line a, and select f.g from
 							f.e equal to b, and select g.h from g.e equal to c. And over point f and g I draw out two circles, d.k and k.h, following the length of the two lines f.d
-							and g.h, and they intersect each other at point k, just as the preceding demonstrated, and in so drawing the lines k.f and k.g, the two sides k.i [sic] and
-							f.g of the triangle k.f.g will be equal to the two sides a and b of the triangle a.b.c, and the base g.k will be equal to the base c. Therefore, by means of
-							the <span class="propositio">eighth</span> I contend the angle k.f.g shall be equal to the angle from a and b, which is the intention.
+							and g.h, and they intersect each other at point k, just as the preceding demonstrated, and in so drawing the lines k.f and k.g, the two sides k.f and f.g
+							of the triangle k.f.g will be equal to the two sides a and b of the triangle a.b.c, and the base g.k will be equal to the base c. Therefore, by the
+							<span class="propositio">eighth</span> the angle k.f.g shall equal the angle contained at a and b, which is the intention.
 						</td>
 						<td>
 							¶&nbsp;Sit data linea .f.e. quae est in superiori figura: et sint lineae .b.a. continentes angulum datum cui subtendam basim .c. super punctum .f. lineae
@@ -1845,7 +1846,7 @@
 							.g.h. aequalem .c. et super puncta .f. et .g. describo duos circulos .d.k. et k.h. secundum quantitatem duarum linearum .f.d. et .g.h. et intersecantes se
 							in puncto .k. sicut docuit praecedens ductisque lineis .k.f. et .k.g. erunt aequalia duoo latera .k.i. [sic] et .f.g. trianguli .k.f.g. duobus lateribus
 							.a. et .b. trianguli .a.b.c. et basis .g.k. aequalis basi .c. ergo per <span class="propositio">octavam</span> angulus .k.f.g. aequalis erit angulo
-							contendo ab .a. et .a.b. quod est propositum.
+							contendo ab .a. et .a.b. [sic] quod est propositum.
 						</td>
 					</tr>
 				</tbody>
@@ -2156,7 +2157,7 @@
 					<tr>
 						<td>
 							Therefore first let the angle d.g.a equal the angle f.h.g, and by the <span class="propositio">15th</span> the angle c.g.h will be equal to that same angle
-							f.h.g whereby through the preceding, d [sic] and e.f are equidistant.
+							f.h.g whereby through the preceding, c.d and e.f are equidistant.
 						</td>
 						<td>
 							Sit ergo primo angulus .d.g.a. aequalis angulo .f.h.g. eritque per <span class="propositio">.15.</span> angulus .c.g.h. aequalis eidem angulo .f.h.g. quare
@@ -2292,7 +2293,7 @@
 					</tr>
 					<tr>
 						<td>
-							Therefore suppose they are all on one surface: and so I will extend the line g.h, intersecting the lines a.b and [sic] c.d at points k, l, and m. And
+							Therefore suppose they are all on one surface: and so I will extend the line g.h, intersecting the lines a.b, e.f, and c.d at points k, l, and m. And
 							because a.b is equidistant to e.f the angle b.k.l will be equal to the angle e.l.k by the first part of the preceding, since they will be coalternate. And
 							as c.d is equidistant to e.f, the exterior angle k.l.e  will equal the interior angle l.m.c by means of the second part of the preceding. Therefore the
 							angle b.k.l is equal to the angle c.m.l, which, as they are coalternate by <span class="propositio">27</span>, the lines a.b and c.d are equidistant: which
@@ -2463,13 +2464,13 @@
 					<tr>
 						<td class="additio">
 							the pentagon is a.b.c.d.e, from whose angle a I shall draw lines to the angles c and d, opposite itself. And the whole pentagon will be resolved into three
-							triangles, a.b.c, a.c.d, and a.d.e, wherewith any angles [sic] are equal to two right angles, and the angles of the pentagon will be equal to six right
-							angles (that is twice its number from which was first, or twice the number of its angles or sides thenceforth subtracting).
+							triangles, a.b.c, a.c.d, and a.d.e, where the angles of each shall equal two right angles, and the angles of the pentagon will equal six right angles (that
+							is twice its number from which was first, or twice the number of its angles or sides thenceforth subtracting).
 						</td>
 						<td class="additio">
 							Pentagonus .a.b.c.d.e. a cuius angulo .a. ducam lineas ad angulos .c.d. sibi oppositos: eritque totus penthagonus resolutus in triangulos .a.b.c.a.c.d. et
-							.a.d.e. quorum cum cuiuslibet sint anguli [sic] aequales duobus rectis erunt pentagoni anguli aequales sex rectis: quod est duplum eius numeri quo a prima
-							distat: sive duplum numeri angulorum aut laterum eius inde dempto.
+							.a.d.e. quorum cum cuiuslibet sint anguli aequales duobus rectis erunt pentagoni anguli aequales sex rectis: quod est duplum eius numeri quo a prima distat:
+							sive duplum numeri angulorum aut laterum eius inde dempto.
 						</td>
 					</tr>
 					<tr>
@@ -2575,7 +2576,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the two lines, a [sic] and b.d.c [sic], are equal and equidistant, the ends of which shall be joined by the lines a.c and b.d. I say those
+							¶&nbsp;Suppose the two lines, a.b and c.d, are equal and equidistant, the ends of which shall be joined by the lines a.c and b.d. I say those
 							are to be equal and equidistant. For, I will extend the line a.d, and because the lines a.b and c.d are equidistant, the angle b.a.d will equal the angle
 							a.d.c by the <span class="propositio">first part</span> of <span class="propositio">29</span>. Therefore the two sides, a.b and a.d, of the triangle a.b.d
 							will be equal to the two sides, d.c and d.a, of the triangle d.c.a, and the angle [d] of the first will equal the angle d of the second, and so by the
@@ -2883,8 +2884,8 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the two triangles a.b.c and d.e.f [sic] are constructed over the base b.c, and are both out of one side, and that they are equal: then I say
-							they are to be between equidistant lines, and this is a <span class="propositio">converse</span> of <span class="propositio">37</span>. From point a I will
+							¶&nbsp;Suppose the two triangles a.b.c and d.b.c are constructed over the base b.c, and are both out of one side, and that they are equal: then I say they
+							are to be between equidistant lines, and this is a <span class="propositio">converse</span> of <span class="propositio">37</span>. From point a I will
 							extend a line equidistant to the line b.c, which, if it shall traverse by way of point d, the intention is clear.
 						</td>
 						<td>
@@ -4035,8 +4036,8 @@
 					<tr>
 						<td>
 							<h3>If a line is divided into two parts, that produced from a drawing of the whole according to itself together with that which is from a drawing of one
-							part according to itself, is equal to that which is from a drawing of the whole line according to that same part twice, and from a drawing of the other
-							part according to itself.</h3>
+							part according to itself, is equal to twice that which is from a drawing of the whole line according to that same part and from a drawing of the other part
+							according to itself.</h3>
 						</td>
 						<td>
 							<h3>Si linea in duas partes dividatur. quod fit ex ductu totius in seipsam cum eo quod est ex ductu alterius partis in seipsam. aequum est quae eis ex ductu
@@ -4048,9 +4049,9 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the line a.b is divided into two parts at point c. I say that the quadrate of the whole of a.b along with the quadrate b.c is equal to twice
-							that produced from a.b according to b.c, along with the quadrate a.c. The quadrate of the whole, that is a.b.d.e, is defined and the diameter b.d is drawn
-							out. And c.f, equidistant to b.e, intersects the diameter at point g, and k.g.h is drawn equidistant to a.b. And because the quadrate a.e with the quadrate
-							c.h is so much as the quadrate k.f with the two surfaces a.h and g.e [sic], the intention is evident.
+							that produced from a.b according to b.c, with the quadrate a.c. The quadrate of the whole, that is a.b.d.e, is drawn out and the diameter b.d extended. And
+							c.f, equidistant to b.e, intersects the diameter at point g, and k.g.h is drawn equidistant to a.b, and because the quadrate a.e with the quadrate c.h is
+							so much the quadrate k.f with the two surfaces, a.h and c.e, the proposition is evident.
 						</td>
 						<td>
 							¶&nbsp;Sit linea .a.b. divisa in duas partes in puncto .c. dico quod quadratum totius .a.b. cum quadrato .b.c. aequum est ei quod fit ex .a.b. in .b.c. bis
@@ -4942,8 +4943,8 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose that on the circumference of a circle as a.b, whose center is c, there are two points marked, which are a and b. I say that a straight
-							line connecting one with the other will divide the circle.
+							¶&nbsp;Suppose that on the circumference of a circle as a.b, whose center is c, there are two points marked, which are a and b. I say that a straight line
+							connecting one with the other will divide the circle.
 						</td>
 						<td>
 							¶&nbsp;Sit ut in circumferentia circuli .a.b. cuius centrum sit .c. signata sint duo puncta quae sunt .a. et .b. dico quod linea recta coniungens unum cum
@@ -5024,8 +5025,8 @@
 					<tr>
 						<td>
 							Moreover, that by the <span class="propositio">5th</span> of the <span class="liber">first</span> the angle c.a.d is equal to the angle c.b.d and the side
-							c.a equal to the side c.b, by the <span class="propositio">26th</span> of the <span class="liber">first</span>, of the <span class="liber">same</span>,
-							the line a.d will equal the line d.b, which is the intention.
+							c.a equals the side c.b, by the <span class="propositio">26th</span> of the <span class="liber">first</span> the line a.d will equal the line d.b, which
+							is the intention.
 						</td>
 						<td>
 							At quia per <span class="propositio">.5.</span> <span class="liber">primi</span> angulus .c.a.d. est aequalis angulo .c.b.d. et latus .c.a. aequale lateri
@@ -5642,11 +5643,11 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose that within the circle a.b.c.d, whose center is e, the two lines a.b and c.d [sic] are equal. I say that they are equidistant from the
-							center, and vise versa.
+							¶&nbsp;Suppose that within the circle a.b.c.d, whose center is e, the two lines a.d and b.c are equal. I say that they are equidistant from the center,
+							and vise versa.
 						</td>
 						<td>
-							¶&nbsp;Sit ut in circulo .a.b.c.d. cuius centrum sit .e. duae lineae .a.b. et .c.d. [sic] sint aequales. dico quod ipsae aequidistant a centro et
+							¶&nbsp;Sit ut in circulo .a.b.c.d. cuius centrum sit .e. duae lineae .a.b. [sic] et .c.d. [sic] sint aequales. dico quod ipsae aequidistant a centro et
 							econverso.
 						</td>
 					</tr>
@@ -5693,8 +5694,8 @@
 					</tr>
 					<tr>
 						<td>
-							Therefore, suppose e.f is equal to e.g, which is to distance them equally from the center. I say then that a.d is equal to b.c.d.e [sic] because the
-							quadrates of the two lines e.d and e.c (being equal) removed from the quadrates of the two lines e.f and e.g (being equal), means by the
+							Therefore, suppose e.f is equal to e.g, which is to distance them equally from the center. I say then that a.d is equal to b.c, because the quadrates of
+							the two lines e.d and e.c (being equal) removed from the quadrates of the two lines e.f and e.g (being equal), means by the
 							<span class="propositio">penultimate</span> of the <span class="liber">first</span> the quadrates of the two lines f.d and g.c remain, thus through common
 							knowledge it is necessary that they are to be equal. Therefore, f.d is equal to g.c and so double f.d, which is a.d, is equal to double g.c, which is b.c,
 							and this is the second part of the proposition.
@@ -6981,7 +6982,6 @@
 							than right, and the angle contained by the arc d.a and the chord a.c is less than right. The line of the diameter is drawn and the line b.a extended up
 							until f, and by the first part of <span class="propositio">this</span> the angle b.a.c is right.
 						</td>
-						</td>
 						<td>
 							¶&nbsp;Quartum et quintum sic. Sint in circulo .a.b.c.d. cuius centrum .e. portio .a.b.c. cuius corda .a.c. maior semicirculo et portio .a.d.c. cuius eadem
 							corda .a.c. minor semicirculo dico angulum contentum ab arcu .b.a. et corda .a.c. esse maiorem recto et angulum contentum ab arcu .d.a. et corda .a.c. esse
@@ -7337,7 +7337,7 @@
 						<td>
 							dempto ergo utrique quadrato lineae .f.g. erit quod fit ex .b.e. in e.d. cum quadrato lineae .g.e. aequale quadrato lineae .g.c. sed per
 							<span class="propositio">.5.</span> <span class="liber">secundi</span> quod fit ex .a.e. in .e.c. cum quadrato lineae .g.e. est aequum ei quod fit ex .a.e.
-							in .e.c. cum quadrato eiusdem .g.e. [sic]
+							in .e.c. cum quadrato eiusdem .g.e. [sic].
 						</td>
 					</tr>
 					<tr>
@@ -7603,22 +7603,22 @@
 					</tr>
 					<tr>
 						<td>
-							And if a.b.d does not pass through the center, then from point a, a line is drawn passing through the center, and because that made thus from the whole
-							according to its extrinsic part is equal to that made from d.a according to a.b, by the <span class="propositio">preceding</span> that will equal the
+							¶&nbsp;And if a.b.d does not pass through the center, then from point a, a line is drawn passing through the center, and because that made thus from the
+							whole according to its extrinsic part is equal to that made from d.a according to a.b, by the <span class="propositio">preceding</span> that will equal the
 							quadrate of the line a.c, and just as before, a.c will be touching the circle.
 						</td>
 						<td>
-							Si autem .a.b.d. non transit per centrum ducatur a puncto .d. [sic] linea transiens per centrum. et quia quod fit ex hac tota in eius partem extrinsecam est
-							aequale ei quod fit ex .d.a. in .a.b. per <span class="propositio">praemissam</span> ipsum erit aequale quadrato lineae .a.c. quare ut prius .a.c. erit
-							contingens ciruculum.
+							¶&nbsp;Si autem .a.b.d. non transit per centrum ducatur a puncto .d. [sic] linea transiens per centrum. et quia quod fit ex hac tota in eius partem
+							extrinsecam est aequale ei quod fit ex .d.a. in .a.b. per <span class="propositio">praemissam</span> ipsum erit aequale quadrato lineae .a.c. quare ut prius
+							.a.c. erit contingens ciruculum.
 						</td>
 					</tr>
 					<tr>
 						<td>
-							The third book ends.
+							¶&nbsp;The third book ends.
 						</td>
 						<td>
-							Explicit liber tertius.
+							¶&nbsp;Explicit liber tertius.
 						</td>
 					</tr>
 				</tbody>
@@ -7644,7 +7644,7 @@
 					}
 				}
 				
-				for (node of nodes) {
+				for (let node of nodes) {
 					r.setStart(node, 0);
 					r.setEndAfter(node);
 					while (r.toString().includes(search)) {
@@ -7679,9 +7679,9 @@
 					}
 				
 					console.log(`selector ${selector} needs smashed`);
-					elements = document.querySelectorAll(selector);
+					let elements = document.querySelectorAll(selector);
 					let id = 0;
-					for (el of elements) {
+					for (let el of elements) {
 						if (el.classList.contains("noli")) {
 								continue;
 						}
