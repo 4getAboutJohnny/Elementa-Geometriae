@@ -424,7 +424,7 @@
 						<td>
 							<ol class="organizedList" start="6">
 								<li>
-									¶&nbsp;If two things are equal to one, they will equal mutually one another.
+									¶&nbsp;If two things are equal to one, they will mutually equal one another.
 								</li>
 							</ol>
 						</td>
@@ -7621,6 +7621,91 @@
 						</td>
 						<td>
 							¶&nbsp;Explicit liber tertius.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The third book begins.
+						</td>
+						<td>
+							¶&nbsp;Incipit liber tertius.
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="tOc">
+			<h2>Book IV</h2>
+		</div>
+		<div class="mensa">
+			<table id="liber-iv">
+				<tbody class="noli">
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;A figure within a figure is said to be <span class="definitio">inscribed</span> when that which is inscribed is of that in which it is inscribed, and
+							the sides contain every one of the inscribed angles within the interior part.
+						</td>
+						<td>
+							¶&nbsp;Figura intra figuram dicitur <span class="definitio">inscribi</span> quando ea quae inscribitur eius in qua inscribitur. latera uno quoque suorum
+							angulorum ab interiore parte contingit.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;But the figure of a figure is said to be circumscribed whenever the very figure which is <span class="definitio">circumscribed</span> contains every
+							angle of that within all its sides.
+						</td>
+						<td>
+							¶&nbsp;<span class="definitio">Circumscribi</span> vero figura figurae perhibetur quotiens ea quidem figura eius cui circumscribitur suis lateribus omnibus
+							omnes angulos contingit.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 1</h1>
+						</td>
+						<td>
+							<h1>Propositio .1.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Within a given circle, to fit a right line equal to a given right line that is no greater than the diameter.</h3>
+						</td>
+						<td>
+							<h3>Intra datum circulum datae lineae rectae quae diametro minime maior existat aequam rectam lineam coaptare.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the given line is a.b and the given circle c.d.e, whose diameter is c.d, which is not greater than the line a.b. I wish to fit a line equal
+							to a.b within the given circle which, if it were equal to the diameter, then the intention is certain. But if d.f is assumed less than the diameter, then
+							over point d the circle f.e.g is drawn following a length equal to it, cutting the given circle at points g and e, and a line is drawn to one of them from
+							point d, as d.e or d.g, and either the two of them will equal the line a.b and so both of them are equal to the line d.f by the definition of the circle,
+							whereby we have the intention.
+							
+						</td>
+						<td>
+							¶&nbsp;Sit linea data .a.b. circulusque datus .c.d.e. cuius diameter .c.d. qua non est maior linea .a.b. volo intra datum circulum coaptare lineam aequalem
+							.a.b. quae si fuerit aequalis diametro constat propositum. si autem minor ex diametro sumatur .d.f. sibi aequalis et super punctum .d. secundum quantitatem
+							lineae .d.f. describatur circulus .f.e.g. secans datum circulum in punctis .g. et .e. ad alterum quorum ducatur linea a puncto .d. ut .d.e. vel .d.g.
+							eritque utralibet earum aequalis lineae .a.b. eo quod utraque earum est aequalis lineae .d.f. per diffinitionem circuli: quare habemus propositum.
 						</td>
 					</tr>
 				</tbody>
