@@ -7694,7 +7694,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the given line is a.b and the given circle c.d.e, whose diameter is c.d, which is not greater than the line a.b. I wish to fit a line equal
+							¶&nbsp;Suppose the given line is a.b and the given circle c.d.e, whose diameter is c.d, which is not greater than the line a.b. I want to fit a line equal
 							to a.b within the given circle which, if it were equal to the diameter, then the intention is certain. But if d.f is assumed less than the diameter, then
 							over point d the circle f.e.g is drawn following a length equal to it, cutting the given circle at points g and e, and a line is drawn to one of them from
 							point d, as d.e or d.g, and either the two of them will equal the line a.b and so both of them are equal to the line d.f by the definition of the circle,
@@ -7706,6 +7706,50 @@
 							.a.b. quae si fuerit aequalis diametro constat propositum. si autem minor ex diametro sumatur .d.f. sibi aequalis et super punctum .d. secundum quantitatem
 							lineae .d.f. describatur circulus .f.e.g. secans datum circulum in punctis .g. et .e. ad alterum quorum ducatur linea a puncto .d. ut .d.e. vel .d.g.
 							eritque utralibet earum aequalis lineae .a.b. eo quod utraque earum est aequalis lineae .d.f. per diffinitionem circuli: quare habemus propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 2</h1>
+						</td>
+						<td>
+							<h1>Propositio .2.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Within an assigned circle, to assemble a triangle equiangular to an assigned triangle.</h3>
+						</td>
+						<td>
+							<h3>Intra assignatum circulum triangulum triangulo assignato aequiangulum collocare.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the assigned triangle is a.b.c and the assigned circle d.e.f. Within this circle I want to assemble one triangle equiangular to the triangle
+							a.b.c, and it is not necessary for it to be equilateral, though it is possible. I draw g.d.h contacting the circle at point d, upon which I produce the
+							angle h.d.f with the drawn line d.f, equal to angle c, and the angle g.d.e with the drawn line d.e, equal to angle b, and I extend the line e.f. And by the
+							<span class="propositio">33rd</span> of the <span class="liber">third</span> angle e will equal angle c since each is equal to the angle h.d.f, thus c, by
+							position, shall indeed equal e by the <span class="propositio">31st</span> of the <span class="liber">third</span>. By the same rationale, angle f will
+							equal angle b and so by the <span class="propositio">32nd</span> of the <span class="liber">first</span>, the third d will equal the third a, whereby we
+							have the intention.
+						</td>
+						<td>
+							¶&nbsp;Sit assignatus triangulus .a.b.c. assignatusque circulus .d.e.f. volo intra hunc circulum collocare unum triangulum aequiangulum triangulo .a.b.c.
+							aequilaterum enim non est necessarium esse sed est possibile. produco .g.d.h. contingentem circulum in puncto .d. super quem facio angulum .h.d.f. ducta
+							linea .d.f. aequalem angulo .c. et angulum .g.d.e. ducta linea .d.e. aequalem angulo .b. et protraho lineam .e.f. eritque per
+							<span class="propositio">.31.</span> [sic] <span class="liber">tertii</span> angulus .e. aequalis angulo .c. quia uterque est aequalis angulo .h.d.f.c.
+							quidem per positionem .e. vero per <span class="propositio">.31.</span> <span class="liber">tertii</span> eadem ratione erit angulus .f. aequalis angulo
+							.b. quare per <span class="propositio">.32.</span> <span class="liber">primi</span> .d. tertius erit aequalis  .a. tertio. quare habemus propositum.
 						</td>
 					</tr>
 				</tbody>
