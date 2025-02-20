@@ -7736,8 +7736,8 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the assigned triangle is a.b.c and the assigned circle d.e.f. Within this circle I want to assemble one triangle equiangular to the triangle
-							a.b.c, and it is not necessary for it to be equilateral, though it is possible. I draw g.d.h contacting the circle at point d, upon which I produce the
-							angle h.d.f with the drawn line d.f, equal to angle c, and the angle g.d.e with the drawn line d.e, equal to angle b, and I extend the line e.f. And by the
+							a.b.c, and it is not necessary for it to be equilateral, though it is possible. I draw g.d.h contacting the circle at point d, upon which I produce angle
+							h.d.f with the drawn line d.f, equal to angle c, and angle g.d.e with the drawn line d.e, equal to angle b, and I extend the line e.f. And by the
 							<span class="propositio">33rd</span> of the <span class="liber">third</span> angle e will equal angle c since each is equal to the angle h.d.f, thus c, by
 							position, shall indeed equal e by the <span class="propositio">31st</span> of the <span class="liber">third</span>. By the same rationale, angle f will
 							equal angle b and so by the <span class="propositio">32nd</span> of the <span class="liber">first</span>, the third d will equal the third a, whereby we
@@ -7750,6 +7750,78 @@
 							<span class="propositio">.31.</span> [sic] <span class="liber">tertii</span> angulus .e. aequalis angulo .c. quia uterque est aequalis angulo .h.d.f.c.
 							quidem per positionem .e. vero per <span class="propositio">.31.</span> <span class="liber">tertii</span> eadem ratione erit angulus .f. aequalis angulo
 							.b. quare per <span class="propositio">.32.</span> <span class="liber">primi</span> .d. tertius erit aequalis  .a. tertio. quare habemus propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 3</h1>
+						</td>
+						<td>
+							<h1>Propositio .3.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Around an assigned circle, to describe a triangle equiangular to an assigned triangle.</h3>
+						</td>
+						<td>
+							<h3>Circa assignatum circulum assignato triangulo triangulum aequiangulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose as before the assigned triangle is a.b.c and the assigned circle d.e.f, whose center is g. Around this circle I want to describe one
+							triangle equiangular to the triangle a.b.c, and it is not necessary that it is equilateral, though it is possible. I will lengthen the base b.c at both
+							ends so that two extrinsic angles are produced, and from the center g I will draw the line g.d to the circumference, and construct angle d.g.e with the
+							drawn line g.e, equal to angle b from without, and d.g.f with the drawn line g.f, equal to c from without, and from points d, e, and f, I will draw lines
+							orthogonally in each direction that by a corollary of the <span class="propositio">15th</span> of the <span class="liber">third</span> shall contact the
+							circle, and those lines I will extend until they meet at points h, k, and l. And it is necessary they are to meet, for since each of the angles that are at
+							d and each of those that are at e shall be right, if it is intended for the line d.e to be lengthened, then the two angles that are at part h will be less
+							than two rights, and so by the <span class="petitiones">penultimate petition</span> lines l.d.h and k.e.h will meet at that side of the protraction. By the
+							same rationale, the two lines h.d.l and k.f.l will meet when each of the angles that are at f are also right.
+						</td>
+						<td>
+							¶&nbsp;Sint ut prius assignatus triangulus .a.b.c. assignatusque circulus d.e.f. cuius centrum .g. circa hunc circulum volo describere unum triangulum
+							aequiangulum triangulo .a.b.c. aequilaterum enim non est necessarium sed est possibile. producam basim .b.c. in utramque partem. ut fiant duo anguli
+							extrinseci. et a centro .g. producam lineam .g.d. ad circumferentiam. et constituam angulum .d.g.e. ducta linea .g.e. aequalem angulo .b. extrinseco. et
+							.d.g.f. ducta linea .g.f. aequalem .c. extrinseco. et a punctis .d.e.f producam in utranque partem lineas orthogonaliter quae per correlarium
+							<span class="propositio">.15.</span> <span class="liber">tertii</span> erunt contingentes circulum quas contingentes protraham quousque concurrant in
+							punctis .h.k.l. neccesse est enim ipsas concurrere. cum enim uterque angulorum qui sunt ad .d. et uterque eorum qui sunt ad .e. sit rectus si intelligatur
+							protrahi linea .d.e. erunt duo anguli qui sunt ad partem .h. minores duobus rectis. quare per <span class="petitiones">penultimam petitionem</span> in
+							partem illam protractae concurrent lineae .l.d.h.k.e.h. eadem ratione concurrent duae lineae .h.d.l.k.f.l. cum uterque angulorum qui sunt. ad .f. sit etiam
+							rectus.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Since, then, the two angles d and e in the quadrilateral h.d.e.g are right, the two angles g and h will equal two right angles because the four angles of
+							any quadrilateral are equal to four rights, as is previously demonstrated by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span>. And because the two angles at b, within and without, are likewise equal to two rights by the
+							<span class="propositio">13th</span> of the <span class="liber">first</span>, and moreover, the extrinsically placed is equal to d.g.e, then b from without
+							will equal h. And by the same rationale c from within will equal l, and because the two angles b and c from within are less than two rights by the
+							<span class="propositio">17th</span> of the <span class="liber">first</span>, the two angles h and l will also be less than two rights, whereby through the
+							<span class="petitiones">penultimate petition</span> the two extended lines, h.e and l.f, meet at point k, and so the triangle h.k.l is made.
+							And since angle h is equal to angle b from within and angle l to angle c from within, by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span>, angle k will equal angle a, thus we have the intention.
+						</td>
+						<td>
+							Quia ergo in quadrilatero .h.d.e.g. duo anguli .d. et .e. sunt recti. erunt duo anguli .g. et .h. aequales duobus rectis. cuiuslibet enim quadrilateri
+							quatuor anguli sunt aequales quatuor rectis. ut monstratum est supra <span class="propositio">.32.</span> <span class="liber">primi</span>: et quia duo
+							anguli .b. intrinsecus et extrinsecus sunt similiter aequales duobus rectis per <span class="propositio">.13.</span> <span class="liber">primi</span>: at
+							vero .b. extrinsecus positus est aequalis .d.g.e. erit intrinsecus .b. aequalis .h. simili quoque ratione erit .c. intrinsecus aequalis .l. et quia duo
+							anguli .b. et c. intrinsecui sunt minores duobus rectis. per <span class="propositio">.32.</span> [sic] <span class="liber">primi</span>: erunt similiter
+							duo anguli .h. et .l. minores duobus rectis. quare per <span class="petitiones">penultimam petitionem</span> duae lineae .h.e. et .l.f. protractae
+							concurrent in puncto .k. fietque triangulus .h.k.l. et quia angulus .h. est aequalis angulo .b. intrinseco. et angulus .l. angulo .c. intrinseco. erit per
+							<span class="propositio">.32.</span> <span class="liber">primi</span>: angulus .k. aequalis angulo .a. quare habemus propositum.
 						</td>
 					</tr>
 				</tbody>
