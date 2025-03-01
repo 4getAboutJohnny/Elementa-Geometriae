@@ -7825,6 +7825,58 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 4</h1>
+						</td>
+						<td>
+							<h1>Propositio .4.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle within a given triangle.</h3>
+						</td>
+						<td>
+							<h3>Intra datum triangulum circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the assigned triangle is a.b.c, wherewithin I want to describe a circle. This is somewhat a converse of the
+							<span class="propositio">second</span>, for I divide two of its angles, a and b, by equals, that is, a by the drawn line a.d and b with the drawn line d.b,
+							which shall meet at point d, from where I shall draw perpendiculars to the three sides of the triangle, indeed, d.e to a.b, d.f to b.c, and d.g to a.c. And
+							for that of the two triangles, e.a.d and g.a.d, the angle a of one is equal to angle a of the other, and since both of the angles e and g are right, and
+							the side a.d is common, then by the <span class="propositio">26th</span> of the <span class="liber">first</span> the line d.e will equal the line d.g.
+							By the same rationale, when of the two triangles, e.b.d and f.b.d, the angle b of one shall equal angle b of the other and both of the angles e and f are
+							right, and the side d.b is common, then by the <span class="propositio">same</span>, the line e.d will equal the line d.f, thus the three lines, d.e, d.f,
+							and d.g, are equal. And so when placing the center at d with the circle described according to the extent of one of them, then by the
+							<span class="propositio">9th</span> of the <span class="liber">third</span> it will traverse the bounds of the remaining two, and for that by a corollary
+							of the <span class="propositio">15th</span> of the <span class="liber">third</span> each of the lines a.b, b.c, and c.a, will contact the circle, it is
+							evident the intention has been achieved.
+						</td>
+						<td>
+							¶&nbsp;Sit assignatus triangulus .a.b.c. volo intra ipsum circulum describere haec est quasi conversa <span class="propositio">secundae</span>. divido enim
+							duos eius angulos .a. et .b. per aequalia .a. quidam ducta linea .a.d.b. vero ducta linea .b.d. quae concurrant in puncto .d. a quo ducam perpendiculares
+							ad tria latera ipsius .d.e. quidem: ad .a.b.d.f. ad .b.c. et .d.g. ad .a.c. et quia duorum triangulorum .e.a.d. et .g.a.d. angulus .a. unius est aequalis
+							angulo .a. alterius. et uterque angulorum .e. et .g. rectus et latus .a.d. commune. erit per <span class="propositio">.26.</span>
+							<span class="liber">primi</span>: linea .d.e. aequalis lineae .d.g. eadem ratione cum duorum triangulorum .e.b.d. et .f.b.d. angulus .b. unius sit aequalis
+							angulo .b. alterius et uterque angulorum .e. et .f. rectus: latus quoque .d.b. commune: erit per <span class="propositio">eandem</span>. linea .e.d.
+							aequalis lineae .d.f. quare tres lineae .d.e.d.f.d.g. sunt aequalis. posito ergo centro in .d. et descripto circulo secundum quantitatem unius earum
+							transibit per <span class="propositio">.9.</span> <span class="liber">tertii</span> per reliquarum duarum extremitates: et quia per correlarium
+							<span class="propositio">.15.</span> <span class="liber">tertii</span> unaquaeque linearum .a.b.b.c. et .c.a. erit contingens circulum. patet perfectum
+							esse propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 			<script>
