@@ -7877,6 +7877,154 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 5</h1>
+						</td>
+						<td>
+							<h1>Propositio .5.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle around an assigned triangle, whether it may be orthogonal, amblygonal, or oxygonal.</h3>
+						</td>
+						<td>
+							<h3>Circa trigonum assignatum sive illud sit orthogonium sive ambligonium. sive oxigonium circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the assigned triangle is a.b.c, around which I want to describe a circle. This is somewhat a converse of the
+							<span class="propositio">third</span>. I divide two of its sides, a.b and a.c, by equals, that is, a.b at point d and a.c at point e, from where I draw out
+							perpendiculars to the lines a.b and a.c, which I extend until they meet at point f. And d.f and e.f shall meet for that when each of the two angles d and e
+							are right, if it were intended for line d.e to be extended then the two angles at either end to which they are extended would be less than two rights,
+							whereby they will meet by the <span class="petitiones">penultimate petition</span>. Thus, from point f, which is the convergence point that I say is to be
+							the center of the desired circle, I extend lines to the separate angles, which are f.a, f.b, and f.c. And since within the triangle a.d.f the two
+							sides a.d and d.f are equal to the two sides b.d and d.f of the triangle b.d.f, and the angle d of one equals angle d of the other for that they are both
+							right, then by the <span class="propositio">fourth</span> of the <span class="liber">first</span> f.a will equal f.b. By the same rationale f.a will equal
+							f.c through the shared sides and angles of the two triangles a.e.f and c.e.f, therefore, by the <span class="propositio">9th</span> of the
+							<span class="liber">third</span> point f will be the center of the desired circle. This is a universal demonstration for all types of triangles.
+						</td>
+						<td>
+							¶&nbsp;Sit trigonus assignatus .a.b.c. volo circa ipsum describere circulum haec est quasi conversa <span class="propositio">tertiae</span>. divido duo
+							eius latera .a.b. et .a.c. per aequalia .a.b. quidem in puncto .d. et .a.c. in puncto .e. a quibus punctis produco perpendiculares ad lineas .a.b. et .a.c.
+							quas protraho quousque concurrant in puncto .f. sintque .d.f. et .e.f. concurrent enim quoniam cum uterque angulorum .d. et .e. sit rectus si intelligatur
+							protrahi linea .d.e. fient duo anguli ad partem in quam protrahuntur minores duobus rectis: quare concurrent per
+							<span class="petitiones">penultimam petitionem</span> igitur a puncto .f. qui est punctus concursus quem dico esse centrum circuli quaesiti. protraho
+							lineas ad singulas angulos quae sunt .f.a.f.b.f.c. et quia in triangulo .a.d.f. duo latera .a.d. et .d.f. sunt aequalia duobus lateribus .b.d. et .d.f.
+							trianguli .b.d.f. et angulus .d. unius angulo .d. alterius: quia uterque rectus: erit per <span class="propositio">quartam</span>
+							<span class="liber">primi</span> .f.a. aequalis .f.b. eadem ratione erit .f.a. aequalis .f.c. conpartis lateribus et angulis duorum triangulorum .a.e.f. et
+							.c.e.f. ergo per <span class="propositio">.9.</span> <span class="liber">tertii</span> punctum .f. erit centrum circuli quaesiti. haec is universalis
+							demonstratio ad omnes species trigoni.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;However, because the author seems to want to vary the means through disjunction between orthogonal, amblygonal, and oxygonal, each of them is singly
+							demonstrated.
+						</td>
+						<td>
+							¶&nbsp;Quia tamen auctor videtur velle medium variare disiungendo inter orthogonium ambligonium et oxigonium. de quolibet eorum singillatim est
+							demonstrandum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Suppose then the proposed triangle is orthogonal and angle a is right. I divide the side b.c respecting this right angle by equals at f, and from
+							this point that I say is to be the center of the circle to the midpoint of either the remaining sides, which shall be d, I draw the line f.d. And because
+							the line f.d divides the two sides a.b and b.c of the triangle a.b.c by equals, it will be equidistant to the third, namely, the line a.c, for this is
+							previously demonstrated in the <span class="propositio">39th</span> of the <span class="liber">first</span>. And that angle a is presupposed right, by the
+							second part and by the third of the <span class="propositio">29th</span> of the <span class="liber">first</span>, both of the angles that are at d are
+							right. The line f.a is thus drawn and by the <span class="propositio">fourth</span> of the <span class="liber">first</span> the line a.f equals the line b.f
+							when the sides and angles of the triangles a.d.f and b.d.f are mutually compared, and because the line b.f is equal to the line c.f, the 3 lines, b.f, a.f,
+							and c.f, are equal to one another, wherefore by the <span class="propositio">9th</span> of the <span class="liber">third</span> f will be the center of the
+							desired circle.
+						</td>
+						<td>
+							¶&nbsp;Sit ergo trigonus propositus orthogonius sitque angulus .a. rectus: latus .b.c. respiciens hunc angulum rectum divido per aequalia in .f. a quo
+							puncto quae dico esse centrum circuli ad medium punctum utriusque duorum reliquorum laterum qui sit .d. duco lineam .f.d. et quia linea .f.d. dividit duo
+							latera .a.b. et .b.c. trianguli .a.b.c. per aequalia: ipsa erit aequidistans tertio. videlicet lineae .a.c. hoc enim demonstratum est supra
+							<span class="propositio">.39.</span> <span class="liber">primi</span>: et quia angulus .a. positus est rectus. erit per secundam partem et per tertiam
+							<span class="propositio">.29.</span> <span class="liber">primi</span>: uterque angulorum qui sunt ad .d. rectus: ducatur igitur linea .f.a. eritque per
+							<span class="propositio">quartam</span> <span class="liber">primi</span>: linea .a.f. aequalis lineae .b.f. comparatis adinvicem lateribus et angulis
+							triangulorum .a.d.f.b.d.f. et quia linea .b.f. est aequalis lineae .c.f. erunt .3. lineae .b.f.a.f.c.f. adinvicem aequales. quare per
+							<span class="propositio">.9.</span> <span class="liber">tertii</span> erit .f. centrum circuli quaesiti.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Now suppose the triangle a.b.c is amblygonal and angle a obtuse. I divide the side respecting this obtuse angle, b.c, by equals at point h, from
+							where I draw the lines h.d and h.e to the middle points of the two remaining sides, which are d and e, and d.h will be equidistant to a.c and e.h
+							equidistant to a.b according to that which is previously demonstrated in the <span class="propositio">39th</span> of the <span class="liber">first</span>,
+							namely, that a line dividing two sides of any triangle by equals is equidistant to the third, whereby through the second part of the
+							<span class="propositio">29th</span> of the <span class="liber">first</span>, each of the two angles, b.d.h and c.e.h, will equal angle a and so each is
+							obtuse, therefore, in drawing the perpendiculars d.f to the line a.b and e.f to the line e.c until they meet at point f, I say that to be the center of the
+							circle.
+						</td>
+						<td>
+							¶&nbsp;Sit rursus trigonus .a.b.c. ambligonius. sitque angulus .a. obtusus latus .b.c. respiciens hunc angulorum obtusum. divido per aequalia in puncto .h.
+							a quo ad media puncta duorum reliquorum laterum quae sunt .d. et .e. duco lineas .h.d. et .h.e. eritque .d.h. aequidistans .a.c. et .e.h. aequidistans
+							.a.b. propter id quod demonstratum est supra <span class="propositio">.39.</span> <span class="liber">primi</span>: videlicet quod linea secans duo latera
+							alicuius trianguli per aequalia. tertio est aequidistans: quare per secundam partem <span class="propositio">.29.</span> <span class="liber">primi</span>
+							erit uterque duorum angulorum .b.d.h. et .c.e.h. aequalis angulo .a. et ideo uterque obtusus. ductis igitur perpendicularibus .d.f. ad lineam .a.b. et
+							.e.f. ad lineam .a.c. quousque concurrant in puncto .f. quem dico esse centrum circuli.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For it is manifest they are to meet for the reason previously stated, and the line b.c, which respects the obtuse angle, will cut both of them and they
+							will meet outside the triangle a.b.c. Thus from point f, which is the convergence point of them, I produce the lines f.a, f.b, and f.c that by the
+							<span class="propositio">fourth</span> of the <span class="liber">first</span> will be twice assumed equal: first when the sides and angles of the two
+							triangles a.d.f and b.d.f are compared, and then those of the other two, a.e.f and c.e.f, wherefore by the <span class="propositio">9th</span> of the
+							<span class="liber">third</span> f is the center of the desired circle.
+						</td>
+						<td>
+							Manifestum est enim eas concurrere propter causam prius dictam. secabit utraque earum lineam .b.c. quae respicit obtusum et concurrent extra triangulum
+							.a.b.c. igitur a puncto .f. qui est punctus concursus earum: produco lineas .f.a.f.b.f.c. quae per <span class="propositio">quartam</span>
+							<span class="liber">primi</span> bis asumptam erunt aequales comparatis primo lateribus et angulis duorum triangulorum .a.d.f.b.d.f. deinde aliorum duorum
+							.a.e.f.c.e.f. quare per <span class="propositio">.9.</span> <span class="liber">tertii</span> .f. est centrum circuli quaesiti.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Again, suppose that the triangle a.b.c is oxygonal. With all its sides divided by equals, namely, the side a.b at point d, and the side a.c at point
+							e, and b.c at point h, I draw out lines d.e, d.h, and e.h. And d.h is equidistant to a.c and e.h to a.b for that by the previous demonstration in the
+							<span class="propositio">39th</span> of the <span class="liber">first</span>, and so by the second part of the <span class="propositio">39th</span> of the
+							first, both of the angles, b.d.h and c.e.h, will equal the angle a and thus are acute. Therefore, by drawing the perpendiculars, d.f to line a.b and e.f to
+							line a.c, it is plain they shall meet within the triangle a.b.c. And point f shall be the convergence point that I say to be the center of the circle, so I
+							produce the lines f.a, f.b, and f.c, which by the <span class="propositio">fourth</span> of the <span class="liber">first</span> shall as before be twice
+							assumed equal, and so by the <span class="propositio">9th</span> of the <span class="liber">third</span> f will be the center of the desired circle.
+						</td>
+						<td>
+							¶&nbsp;Esto iterum ut trigonus .a.b.c. sit oxigonius divisis omnibus eius lateribus per aequalia: videlicet latus .a.b. in puncto .d. et latus .a.c. in
+							puncto .e. et .b.c. in puncto .h. protraho lineas .d.e.d.h. et .e.h. eritque .d.h. aequidistans .a.c. et .e.h.a.b. propter id quod demonstratum est super
+							<span class="propositio">.39.</span> <span class="liber">primi</span>: quare per secundum partem <span class="propositio">.39.</span> 
+							<span class="liber">primi</span>: uterque angulorum .b.d.h.c.e.h. erit aequalis angulo .a. et ideo acutus: ductis igitur perpendicularibus .d.f. ad lineam
+							.a.b. et .e.f. ad lineam .a.c. manifestum est eas concurrere intra triangulum .a.b.c. sitque punctus concursus .f. quem dico esse centrum circuli: produco
+							enim lineas .f.a.f.b.f.c. quae per <span class="propositio">quartam</span> <span class="liber">primi</span>: bis assumptam ut prius erunt aequales: quare
+							per <span class="propositio">.9.</span> <span class="liber">tertii</span> erit .f. centrum circuli quaeseti.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Through the preceding it is evident that if a triangle is orthogonal, the center of the circumscribed circle shall fall in the middle of the side
+							that is opposite the right angle, if amblygonal, the center shall fall without the triangle, and if oxygonal it shall fall within the triangle.
+						</td>
+						<td>
+							¶&nbsp;Per praedicta patet quod si triangulus fuerit orthogonius centrum circuli circumscribendi cadet in medio lateris quod opponitur angulo recto. Si
+							fuerit ambloginius centrum cadet extra triangulum. Si autem fuerit oxigonius cadet intra triangulum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 			<script>
