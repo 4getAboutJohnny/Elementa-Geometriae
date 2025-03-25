@@ -8025,6 +8025,106 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 6</h1>
+						</td>
+						<td>
+							<h1>Propositio .6.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a quadrate within a given circle.</h3>
+						</td>
+						<td>
+							<h3>Intra datum circulum quadratum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the given circle is a.b.c.d, whose center is e, within which I want to describe a quadrate. I draw within that two diameters, a.c and b.d,
+							and they cut one another orthogonally over the center e, the ends of which I join by extending the lines a.b, b.c, c.d, and d.a, which I say is to contain
+							the desired quadrate. For the quarter of one will thrice be assumed equal to each of the others on account that the four lines, e.a, e.b, e.c, and e.d are
+							equal, and the four angles that are at e are right, and if each one of the four angles, a, b, c, and d, are right, then by the first part of the
+							<span class="propositio">30th</span> of the <span class="liber">third</span>, for that each of them is in a semicircle a.b.c.d will be a quadrate by
+							definition, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sit datus circulus .a.b.c.d. cuius centrum .e. volo intra ipsum describere quadratum. protraho in ipso duas diametros .a.c. et .b.d. secantes se
+							orthogonaliter supra centrum .e. quarum extremitates coniungo protractis lineis .a.b.b.c.c.d. et .d.a. quas dico continere quadratum quaesitum: ipsae enim
+							erunt aequales adinvicem. per quartam primi ter assumptam propter id quod quatuor lineae .e.a.e.b.e.c. et .e.d. sunt aequales. et quatuor anguli qui sunt
+							.a.d.e. [sic] recti. si unusquisque. quatuor angulorum .a.b.c. et .d. est rectus per primam partem <span class="propositio">.30.</span>
+							<span class="liber">tertii</span>: propter id quod quilibet eorum est in semicirculo erit igitur .a.b.c.d. quadratum per diffinitionem quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 7</h1>
+						</td>
+						<td>
+							<h1>Propositio .7.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a quadrate around a proposed circle.</h3>
+						</td>
+						<td>
+							<h3>Circa propositum circulum quadratum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proposed circle is a.b.c.d, whose center is e, around which I want to describe a quadrate. I extend in it two diameters, a.c and b.d,
+							that cut one another orthogonally over the center e, from the extremities of which I draw orthogonal lines at both ends until each of them shall at two
+							sides meet, and the convergence points of them will be f, g, h, and k. And through a corollary of the <span class="propositio">15th</span> of the
+							<span class="liber">third</span> both of the angles that are at each four of the points, a, b, c, and d, will be right, and because three angles in the
+							quadrilateral a.f.b.e, a, b and e, are right, then the fourth angle, which is f, will be right, since every quadrilateral has four angles equal to four
+							rights as is previously demonstrated by the <span class="propositio">32nd</span> of the <span class="liber">first</span>. By the same rationale each of the
+							angles, g, h and k, will be right, therefore by the second part of the <span class="propositio">28th</span> of the <span class="liber">first</span>, the two
+							lines f.g and k.h are equidistant.
+						</td>
+						<td>
+							¶&nbsp;Sit propositus circulus .a.b.c.d. cuius centorum .e. volo circa ipsum describere quadratum: protraho in ipso duas diametros .a.c. et .b.d. secantes
+							se orthogonaliter super centrum .e. a quorum extremitatibus duco in utramque partem lineas orthogonaliter quousque quaelibet eaorum concurrant cum duabus
+							lateribus sintque puncta concursus earum .f.g.h.k. eritque per correlarium <span class="propositio">.15.</span> <span class="liber">tertii</span> uterque
+							angulorum qui sunt ad unumquemque quatuor punctorum .a.b.c.d. rectus: quia ergo in quadrilatero .a.f.b.e tres anguli .a.b. et .e. sunt recti: erit quartus
+							angulus qui est .f. rectus: habet enim quodlibet quadrilaterum quatuor. angulos aequales quatuor rectis: ut demonstratum est supra
+							<span class="propositio">.32.</span> <span class="liber">primi</span>: eadem ratione quilibet angulorum .g.h. et .k. erit rectus: ergo per secundam partem
+							<span class="propositio">.28.</span> <span class="liber">primi</span>. duae lineae .f.g. et .k.h.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise are the two f.k and g.h, thus, by the <span class="propositio">34th</span> of the <span class="liber">first</span> f.k is equal to g.h and f.g
+							to k.h, and that by the same f.k is equal to b.d and f.g to a.c, then indeed, b.d is equal to a.c and the four lines, f.k, g.h, f.g, and k.h, will be
+							equal. But also, the four angles, f, g, k, and h, are right, as was proved formerly, thus f.g.k.h is a quadrate by definition, which is the intention.
+						</td>
+						<td>
+							Itemque duae .f.k. et .g.h. sunt aequidistantes. ergo per <span class="propositio">.34.</span> <span class="liber">primi</span> .f.k. est aequalis .g.h. et
+							.f.g.k.h. et quia per eandem .f.k. est aequalis .b.d. et .f.g.a.c. At vero b.d. est aequalis .a.c. erunt quatuor lineae .f.k.g.h.f.g. et .k.h. aequales:
+							sed et quatuor anguli .f.g.k.h. sunt recti: ut probatum est prius. ergo .f.g.k.h. est quadratum per diffinitionem quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 			<script>
