@@ -8125,6 +8125,57 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 8</h1>
+						</td>
+						<td>
+							<h1>Propositio .8.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle within an assigned quadrate.</h3>
+						</td>
+						<td>
+							<h3>Intra quadratum assignatum circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the assigned quadrate is a.b.c.d, within which I want to describe a circle. This is somewhat converse the 6th. I divide each one its sides
+							by equal, that is, a.d at point f, b.a at point g, c.b at point h, and d.c at point e, and I produce the lines e.g and f.h, cutting one another at point k,
+							which I say to be the center of the circle, for f.h will be equidistant and equal to a.b by the <span class="propositio">33nd</span> of the
+							<span class="liber">first</span>, on account that a.f and b.h are equal and equidistant.
+						</td>
+						<td>
+							¶&nbsp;Sit quadratum assignatum .a.b.c.d. volo intra ipsum describere circulum haec est quasi conversa .6. divido unumquodque latus eius per aequalia .a.d.
+							quidem in puncto .f.b.a. in puncto .g.c.b. in puncto .h. et .d.c. in puncto .e. et produco lineas .e.g. et .f.h. secantes se in puncto .k. quem dico esse
+							centrum circuli. erit enim .f.h. aequidistans et aequalis .a.b per <span class="propositio">.33.</span> <span class="liber">primi</span>: propter id quod
+							.a.f et .d.b.[sic] sunt aequales et aequidistantes.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly by the same, d.c and a.b, and because all four midpoints of those four sides are mutually equal, by the <span class="propositio">34th</span>
+							of the <span class="liber">first</span> the four lines k.e, k.f, k.g, and k.h will be equal, and so by the <span class="propositio">9th</span> of the
+							<span class="liber">third</span> k is the center of the desired circle.
+						</td>
+						<td>
+							Similiter per eandem et .d.c.a.b. et quia omnes medietates quatuor laterum ipsius quadrati sunt adinvicem aequales erunt per
+							<span class="propositio">.34.</span> <span class="liber">primi</span>: quatuor lineae .k.e.k.f.k.g. et .k.h. aequales. ergo per
+							<span class="propositio">.9.</span> <span class="liber">tertii</span> .k. est centrum circuli queasiti.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 			<script>
