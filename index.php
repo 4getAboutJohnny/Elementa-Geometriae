@@ -2695,9 +2695,9 @@
 							aut enim linea .c.g. secabit lineam .a.b. in aliquo puncto lineae .a.f. aut in puncto .f. aut in aliquo puncto lineae .b.f. secet ergo primo in aliquo
 							puncto lineae .a.f. ut in prima figurationae apparet. et quia utraque duarum linearum .a.f. et .g.h. esse aequalis lineae c.e. per praecedentem una earum
 							erit aequalis alteri dempta ergo linea .f.g. commmuni remanebit .a.g. aequalis .f.h. quia per praecedentem iterum est .a.c. aequalis .f.e. et angulus
-							.h.f.e. angulo .g.a.c. per secundam partem <span class="propositio">.29.</span> videlicet extrinsecus intrinseco erit <span class="propositio">per .4.
-							</span> triangulus .a.c.g. aequalis triangulo .f.e.h. ergo irregulari figura quadrilatera quae est .g.c.f.e. addita utrique erit superficies .a.c.f.e.
-							aequalis superficiei .g.c.h.e. quod est propositum.
+							.h.f.e. angulo .g.a.c. per secundam partem <span class="propositio">.29.</span> videlicet extrinsecus intrinseco erit per
+							<span class="propositio">.4.</span> triangulus .a.c.g. aequalis triangulo .f.e.h. ergo irregulari figura quadrilatera quae est .g.c.f.e. addita utrique erit
+							superficies .a.c.f.e. aequalis superficiei .g.c.h.e. quod est propositum.
 						</td>
 					</tr>
 					<tr>
@@ -4642,7 +4642,7 @@
 						</td>
 						<td>
 							Producam lineam .g.h. et quia linea .b.f. divisa est per aequalia in .g. et per inaequalia in .c. erit per <span class="propositio">.5.</span>
-							<span class="propositio">huius</span> quod fit ex ductu .b.c. in .c.f. cum quadrato .c.g. aequale quadrato .g.f. quare et quadrato .g.h. quare per
+							<span class="liber">huius</span> quod fit ex ductu .b.c. in .c.f. cum quadrato .c.g. aequale quadrato .g.f. quare et quadrato .g.h. quare per
 							<span class="propositio">penultimam</span> <span class="liber">primi</span> et duobus quadratis duarum linearum .g.c. et .c.h. ergo dempto utrique quadrato
 							.c.g. erit quod fit ex .b.c. in .c.f. quod est aequale superficiei .b.e. eo quod .c.f. est aequale .c.e. quadrato lineae .c.h. quare quadratum lineae .c.h.
 							est aequale trigono .a. quod est propositum:
@@ -8173,6 +8173,73 @@
 							Similiter per eandem et .d.c.a.b. et quia omnes medietates quatuor laterum ipsius quadrati sunt adinvicem aequales erunt per
 							<span class="propositio">.34.</span> <span class="liber">primi</span>: quatuor lineae .k.e.k.f.k.g. et .k.h. aequales. ergo per
 							<span class="propositio">.9.</span> <span class="liber">tertii</span> .k. est centrum circuli queasiti.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 9</h1>
+						</td>
+						<td>
+							<h1>Propositio .9.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle around an assigned quadrate.</h3>
+						</td>
+						<td>
+							<h3>Circa assignatum quadratum circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the quadrate is a.b.c.d, around which I want to describe a circle. This is somewhat the converse of <span class="propositio">7</span>.
+						</td>
+						<td>
+							¶&nbsp;Sit quadratum .a.b.c.d. volo circa ipsum circulum describere. haec est quasi conversa <span class="propositio">.7.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I extend in it two diameters, a.c and b.d, cutting one another at point e, which I say to be the center of the circle.
+						</td>
+						<td>
+							Protraho in ipso duas diametros .a.c. et .b.d. secantes se in puncto .e. quem dico esse centrum circuli.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For when the lines a.d and a.b are equal, by the <span class="propositio">5th</span> of the <span class="liber">first</span> the angles a.d.b and a.b.d will
+							be equal, and because the whole angle a is right, by the <span class="propositio">32nd</span> of the <span class="liber">first</span> each of them will be
+							half right.
+						</td>
+						<td>
+							Cum enim lineae .a.d. et .a.b. sint aequales erunt per <span class="propositio">.5.</span> <span class="liber">primi</span>: anguli .a.d.b. et .a.b.d. 
+							aequales. et quia angulus .a. totalis est rectus. erit per <span class="propositio">.32.</span> <span class="liber">primi</span>: uterque eorum medietas
+							recti.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;In a similar way it is demonstrated any partial angles contained by the aformentioned diameters and sides of the proposed quadrate to be half right,
+							and so because the angle e.a.d is equal to angle e.d.a, by the <span class="propositio">9th</span> of the <span class="liber">first</span> the line e.a will
+							equal the line e.d. By the same rationale e.a will equal e.b and e.c will equal e.d, thus because the four lines, e.a, e.b, e.c, and c.d, are equal, by the
+							<span class="propositio">9th</span> of the <span class="liber">third</span> e will be the center of the desired circle, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Simili quoque modo probabitur quemlibet partialium angulorum a praedictis diametris et lateribus quadrati propositi contentorum esse medietatem
+							recti quia igitur angulus .e.a.d. est aequalis angulo .e.d.a. erit per <span class="propositio">.9.</span> <span class="liber">primi</span>: linea .e.a.
+							aequalis lineae .e.d. eadem ratione erit .e.a. aequalis .e.b. et .e.c. aequalis .e.d. quare quia quatuor lineae .e.a.e.b.e.c.c.d. sunt aequales. erit per
+							<span class="propositio">.9.</span> <span class="liber">tertii</span> e. centrum circuli quaesiti. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
