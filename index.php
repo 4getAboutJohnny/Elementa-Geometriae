@@ -8243,6 +8243,183 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 10</h1>
+						</td>
+						<td>
+							<h1>Propositio .10.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To designate a triangle of two equal sides, each of whose two angles, which the base obtains, are twice as much the remaining.</h3>
+						</td>
+						<td>
+							<h3>Duum aequalium laterum triangulum designare. cuius uterque duorum angulorum quos basis optinet. reliquo duplus existat.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;The intention is to describe one triangle of two equal sides and an unequal third, each of whose angles, which are upon the side that is unequal to
+							the others, are twice as much the third.
+						</td>
+						<td>
+							¶&nbsp;Intentio est describere unum triangulum duum aequalium laterum et tertii inaequalis cuius uterque angulorum qui super latus quod est reliquis
+							inaequale existunt ad tertium duplus existat.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And to do this, let any line that is a.b be taken, which is divided at point c according to what the <span class="propositio">11th</span> of the
+							<span class="liber">second</span> demonstrates, so that that which is produced from a.b according to b.c shall equal the quadrate a.c. With the center made
+							at point a, the circle b.d.e is described following its extent, within which, through the <span class="propositio">first</span> of
+							<span class="liber">this</span>, line b.d is created equal to line a.c and the two lines, d.a and d.c, are produced. I say triangle a.b.d to be
+							such as is proposed. Let the circle that is d.c.a be circumscribed about the triangle d.c.a through the <span class="propositio">5th</span> of
+							<span class="liber">this</span>, and so that line d.b is equal to line a.c, that produced from a.b according to b.c will equal the quadrate of the line
+							b.d, thus by the <span class="propositio">last</span> of the <span class="liber">third</span>, line b.d is contacting the circle d.c.a, and by
+							the <span class="propositio">31st</span> of the <span class="liber">same</span>, angle c.d.b is equal to angle c.a.d. Therefore, with c.d.a posited as the
+							common angle, the entire angle b.d.a will equal the two angles c.a.d and c.d.a, but by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span>, angle b.c.d is equal to the same, since it is extrinsic to them, thus angle b.d.a is equal to angle b.c.d and since angle
+							a.d.b is equal to angle a.b.d, by the <span class="propositio">5th</span> of the <span class="liber">first</span>, for that the side a.d and a.b are
+							equal, angle b.c.d will equal angle c.b.d, and so by the <span class="propositio">6th</span> of the <span class="liber">first</span> the line c.d is equal
+							to the line b.d, and to the line c.a, and so by the <span class="propositio">5th</span> of the <span class="liber">first</span> the angle c.a.d is
+							equal to the angle c.d.a. Therefore, because both of the angles, c.d.b and c.d.a, are equal to angle c.a.d, the entire angle b.d.a will be twice as much
+							the angle d.a.b, and so angle a.b.d, equal to that, is also twice as much to angle b.a.d, which is the intention.
+						</td>
+						<td>
+							Ad hoc autem faciendum sumatur. linea quaelibet quae sit .a.b. quae dividatur secundum quod docet <span class="propositio">.ii.</span>
+							<span class="liber">secundi</span> in puncto .c. ita quod illud quod fit ex .a.b. in .b.c. sit aequale quadrato .a.c. facto quod puncto .a. centro secundum
+							ipsius quantitatem describatur circulus .b.d.e. intra quem per <span class="propositio">primam</span> <span class="liber">huius</span> coaptetur linea
+							.b.d. aequalis lineae .a.c. et producantur duae lineae .d.a.d.c. dico triangulum .a.b.d. esse qualis proponitur: circumscribatur circulus qui sit .d.c.a.
+							per <span class="propositio">.5.</span> <span class="liber">huius</span> triangulo .d.c.a. quia ergo linea .d.b. est aequalis lineae .a.c. erit quod fit ex
+							.a.b. in .b.c. aequale quadrato lineae .b.d. quare per <span class="propositio">ultimam</span> <span class="liber">tertii</span> .b.d. linea est contingens
+							circulum .d.c.a. et per <span class="propositio">.31.</span> <span class="liber">eiusdem</span> angulus .c.d.b. est aequalis angulo .c.a.d. posito ergo
+							communi angulo .c.d.a. erit totus angulus .b.d.a. aequalis duobus angulis .c.a.d.c.d.a. sed per <span class="propositio">.32.</span>
+							<span class="liber">primi</span> angulus .b.c.d. est aequalis eisdem quia extrinsecus ad ipsos. ergo angulus .b.d.a. est aequalis angulo .b.c.d. et quia
+							angulus .a.d.b. est aequalis angulo .a.b.d. per <span class="propositio">.5.</span> <span class="liber">primi</span>: eo quod latera .a.d. et .a.b. sunt
+							aequalia. erit angulus .b.c.d. aequalis angulo .c.b.d. ergo per <span class="propositio">.6.</span> <span class="liber">primi</span>: linea .c.d. est
+							aequalis lineae .b.d. quare et lineae .c.a. ergo per <span class="propositio">.5.</span> <span class="liber">primi</span>: angulus .c.a.d. est aequalis
+							angulo .c.d.a. quia ergo uterque angulorum .c.d.b. et .c.d.a. est aequalis angulo .c.a.d. erit totus angulus .b.d.a. duplus ad angulum .d.a.b. et ideo
+							angulus .a.b.d. sibi aequalis. duplus est etiam ad angulum .b.a.d. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Mayhap the adversary says the circle d.c.a, circumscribed by a partial triangle, cuts the circle b.d.e at any point of the arc b.d so that it
+							simultaneously will cut the line b.d, whereby that will not be applied to the circle as is supposed in the demonstration, but is cutting it.
+						</td>
+						<td class="additio">
+							¶&nbsp;Forsan dicet adversarius circulum .d.c.a. circumscriptum trigono partiali secare circulum .b.d.e. in aliquo puncto arcus .b.d. ita quod simul
+							secabit lineam .b.d. unde ipsa non erit circulo applicata. sicut in demonstratione supponitur. sed ipsum secans.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Suppose if it were possible as the adversary posits and from point b, b.f is drawn contacting that smaller circle, and the lines f.a and f.d are drawn,
+							then by the <span class="propositio">penultimate</span> of the <span class="liber">third</span>, that which is produced from a.b according to b.c will
+							equal the quadrate b.f, thus b.f is equal to b.d, and so by the <span class="propositio">5th</span> of the <span class="liber">first</span> angle b.f.d
+							is equal to angle b.d.f. And that by the <span class="propositio">31st</span> of <span class="liber">third</span> angle b.f.a is equal to angle a.d.f,
+							angle b.d.f will then be greater than angle a.d.f, which is impossible, since it is a part of it.
+						</td>
+						<td class="additio">
+							Sit ergo si possibile est ut ponit adversarius et a puncto .b. ducatur ad ipsum circulum minorem contingens .b.f. et ducantur lineae .f.a.f.d. eritque per
+							<span class="propositio">penultimam</span> <span class="liber">tertii</span> quod fit ex .a.b. in .b.c. aequale quadrato .b.f. ergo .b.f. est aequalis .b.d.
+							quare per <span class="propositio">.5.</span> <span class="liber">primi</span> angulus .b.f.d. est aequalis angulo .b.d.f. et quia per
+							<span class="propositio">.31.</span> <span class="liber">tertii</span> angulus .b.f.a. est aequalis angulo .a.d.f. erit angulus .b.d.f. maior angulo
+							.a.d.f. quod est impossibile. cum ipse sit pars eius.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;We may refute this in another way and show that the smaller circle will in no way cut the line b.d.
+						</td>
+						<td class="additio">
+							¶&nbsp;Aliter possumus istud refellere et ostendere quod ille minor circulus nullo modo secabit lineam .b.d.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							So if it is possible that it cuts it, let this happen at point b, that that produced from a.b according to b.c is equal to that produced from d.b according
+							to b.h.
+						</td>
+						<td class="additio">
+							Si enim possibile est quod secet eam. sit hoc in puncto .b. erit quod fit ex .a.b. in .b.c. aequale ei quod fit ex .d.b. in .b.h.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							For it is formerly demonstrated by the <span class="propositio">penultimate</span> of the <span class="liber">third</span> that if from any point without
+							the assigned circle any cutting lines are drawn to the circle, then that contained beneath the wholes and their extrinsic portions are mutually equal, and
+							since that made from a.b according to b.c is equal to the quadrate b.d, that made from d.b according to b.h will equal the quadrate d.b, which is
+							impossible by the <span class="propositio">second</span> of the <span class="liber">second</span>, and so the point stands.
+						</td>
+						<td class="additio">
+							Monstratum est enim supra <span class="propositio">penultimam</span> <span class="liber">tertii</span> quod si ab aliquo puncto extra circulum signato
+							quotlibet lineae secantes ad circulum ducantur quae sub totis et earum portionibus extrinsecis continentur. aequalia sunt adinvicem: et quia quod fit ex
+							.a.b. in .b.c. est aequale quadrato .b.d. erit quod fit ex .d.b. in .b.h. aequale quadrato .d.b. quod est impossibile per
+							<span class="propositio">secundam</span> <span class="liber">secundi</span>: quare constat propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Also note that the smaller circle will necessarily cut the greater and will abscind from it one arc equal to the arc b.d, and the greater similarly will
+							abscind from the same one arc equal to the arc d.c.
+						</td>
+						<td class="additio">
+							Et nota quod minor circulus necessario secabit maiorem et abscindet ab eo arcum unum aequalem arcui .b.d. et maior abscindet similiter ab eodem vuum arcum
+							aequalem arcui .d.c.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Which is thus proved, for if the smaller does not cut the greater then it contacts it at point d, and that by the <span class="propositio">11th</span> of
+							the <span class="liber">third</span> the centers of the circles contacting one another and the point of contact are on one line, then the center of the
+							smaller circle will be on the line a.d, on account that on it is the center of the greater and the point of contact, therefore, by the
+							<span class="propositio">17th</span> of the <span class="liber">third</span>, angle a.d.b is right, whereby angle a.b.d, equal to it, is also right,
+							which is impossible by the <span class="propositio">32nd</span> of the <span class="liber">first</span>.
+						</td>
+						<td class="additio">
+							Quod sic probatur. si enim minor non secat maiorem. contingit ergo ipsum in puncto .d. et quia per <span class="propositio">.11.</span>
+							<span class="liber">tertii</span> circulorum se contingentium centra. et punctus contactus sunt in linea una. erit centrum minoris circuli in linea .a.d.
+							propter hoc quod in ea est centrum maioris et punctus contactus. ergo per <span class="propositio">.17.</span> <span class="liber">tertii</span> angulus
+							.a.d.b. est rectus quare similiter et angulus .a.b.d. sibi aequalis est rectus quod est impossibile. per <span class="propositio">.32.</span> 
+							<span class="liber">primi</span>:
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Consequently, it cuts it at points e and d. I say the arc e.d of the greater to be equal to the arc d.b, and the arc e.d of the smaller to be equal to the
+							arc d.c. I produce lines d.e, c.e, and e.a, and by the <span class="propositio">26th</span> of the <span class="liber">third</span> each of the four angles
+							that are d.e.c, c.e.a, d.a.c, and a.d.c, are equal to one another on account that the two arcs d.c and c.a are equal, by the
+							<span class="propositio">27th</span> of the same, whereby the whole angle a.e.d is twice the angle b.a.d, thus equal to both of the angles a.b.d and
+							a.d.b. And because angle a.e.d is equal to angle a.d.e, by the 5th of the first, on account that a.e and a.d are equal from center to circumference, the two
+							angles e and d of triangle a.e.d equal the two angles d and b of triangle a.d.b, so by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span>, the remaining angle a of one is equal to the remaining angle a of the other, therefore, by the
+							<span class="propositio">25th</span> of the <span class="liber">third</span>, the arc e.d of the greater is equal to the arc d.b, and by the same, the arc
+							e.d of the smaller is equal to the arc d.c, and this is what we proposed.
+						</td>
+						<td class="additio">
+							Secet ergo ipsum in punctis .e.d. dico arcum .e.d. maioris esse aequalem arcui .d.b. et arcum .e.d. mionoris esse aequalem arcui .d.c. produco lineas
+							.d.e.c.e. et .e.a. eritque per <span class="propositio">.26.</span> <span class="liber">tertii</span> unusquisque quatuor angulorum qui sunt
+							.d.e.c.c.e.a.d.a.c. et .a.d.c. aequalis alii propter id quod duo arcus .d.e.[sic] et .e.a.[sic] sunt aequales. per <span class="propositio">.27.</span>
+							<span class="liber">eiusdem</span> quare totalis angulus .a.e.d. duplus est ad angulum .b.a.d. et ideo aequalis utrique angulorum .a.b.d. et a.d.b. et quia
+							angulus .a.e.d. est aequalis angulo .a.d.e. per .5. primi: propter id quod .a.e. et .a.d. sunt aequales a centro ad circumferentiam. erunt duo anguli .e.
+							et .d. trianguli .a.e.d. aequales duobus angulis .d. et .b. trianguli .a.d.b. ergo per <span class="propositio">.32.</span>
+							<span class="liber">primi</span>: reliquus angulus .a. unius est aequalis reliquo angulo .a. alterius: ergo per <span class="propositio">.25.</span> 
+							<span class="liber">tertii</span> arcus .e.d. maioris est aequalis arcui .d.b. et per eandem arcus .e.d. minoris est aequalis arcui .d.c. et hoc est quod
+							proposuimus.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 			<script>
