@@ -8371,12 +8371,12 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Also note that the smaller circle will necessarily cut the greater and will abscind from it one arc equal to the arc b.d, and the greater similarly will
-							abscind from the same one arc equal to the arc d.c.
+							¶&nbsp;Also note that the smaller circle will necessarily cut the greater and will abscind from it one arc equal to the arc b.d, and the greater similarly
+							will abscind from the same one arc equal to the arc d.c.
 						</td>
 						<td class="additio">
-							Et nota quod minor circulus necessario secabit maiorem et abscindet ab eo arcum unum aequalem arcui .b.d. et maior abscindet similiter ab eodem vuum arcum
-							aequalem arcui .d.c.
+							¶&nbsp;Et nota quod minor circulus necessario secabit maiorem et abscindet ab eo arcum unum aequalem arcui .b.d. et maior abscindet similiter ab eodem unum
+							arcum aequalem arcui .d.c.
 						</td>
 					</tr>
 					<tr>
@@ -8417,6 +8417,56 @@
 							<span class="liber">primi</span>: reliquus angulus .a. unius est aequalis reliquo angulo .a. alterius: ergo per <span class="propositio">.25.</span> 
 							<span class="liber">tertii</span> arcus .e.d. maioris est aequalis arcui .d.b. et per eandem arcus .e.d. minoris est aequalis arcui .d.c. et hoc est quod
 							proposuimus.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 11</h1>
+						</td>
+						<td>
+							<h1>Propositio .11.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe an equilateral and equiangular pentagon within a given circle.</h3>
+						</td>
+						<td>
+							<h3>Intra datum circulum aequilaterum. atque aequilangulum penthagonum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the given circle is a.b.c, within which I want to describe one equilateral and equiangular pentagon. I design one triangle such as is
+							proposed by the <span class="propositio">preceding</span>, which is 2, and draw another equiangular to it within the given circle, just as the
+							<span class="propositio">second</span> of <span class="liber">this</span> demonstrates, which is a.b.c, and each of the two angles, a.b.c and a.c.b, are
+							twice as much the angle c.a.b, both of which I divide by equals by drawing lines b.e and c.d. And by the <span class="propositio">25th</span> of the
+							<span class="liber">third</span> the five arcs into which the five points, a, d, b, c and e divide the circle, are mutually equal on account that the five
+							angles that fall on those said arcs are mutually equal, and so by connecting those five points by the rights lines, which are a.d, d.b, b.c, c.e, and e.a,
+							the pentagon a.d.b.c.e will be inscribed within the given circle as proposed, for it is equilateral by the <span class="propositio">28th</span> of the
+							<span class="liber">third</span> because the 5 arcs, the five sides of which are cords, shall be mutually equal, and it is equiangular as well by the
+							<span class="propositio">26th</span> of the <span class="liber">same</span> for that the five arcs, d.a.e, a.e.c, e.c.b, c.b.d, and b.d.a, on which the
+							angles of the that pentagon fall, are mutually equal, and thus is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sit datus circulus .a.b.c. volo intra ipsum describere penthagonum unum aequilaterum atque aequiangulum. designo triangulum unum qualem
+							<span class="propositio">praemissa</span> proponit. qui sit .2. cui alium aequiangulum intra datum circulum describo. sicut docet
+							<span class="propositio">secunda</span> <span class="liber">huius</span>: qui sit .a.b.c. sitque uterque angulorum .a.b.c. et .a.c.b. duplus ad angulum
+							.c.a.b. utrumque eorum divido per aequalia ductis lineis .b.e. et .c.d. eruntque per <span class="propositio">.25.</span> <span class="liber">tertii</span>
+							.5. arcus in quos .5. puncta .a.d.b.c.e. dividunt circulum adinvicem aequales. propter id quod quinque anguli qui in dictos arcus cadunt sunt adinvicem
+							aequales. continuatis igitur illis quinque punctis per lineas rectas quae sunt .a.d.d.b.b.c.c.e. et .e.a. erit penthagonus .a.d.b.c.e. inscriptus dato
+							circulo qualis proponitur: est enim aequalaterus per <span class="propositio">.28.</span> <span class="liber">tertii</span> cum .5. arcus: quorum eius
+							quinque latera sunt cordae: sint ad invicem aequales: et etiam aequiangulus per <span class="propositio">.26.</span> <span class="liber">eiusdem</span> eo
+							quod quinque arcus .d.a.e.a.e.c.e.c.b.c.b.d. et .b.d.a. in quos anguli ipsius penthagoni cadunt sunt adinvicem aequales: sicque constat propositum.
 						</td>
 					</tr>
 				</tbody>
