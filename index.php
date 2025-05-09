@@ -8470,9 +8470,142 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 12</h1>
+						</td>
+						<td>
+							<h1>Propositio .12.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To designate an equilateral and equiangular pentagon around a proposed circle.</h3>
+						</td>
+						<td>
+							<h3>Circa propositum circulum penthagonum aequilaterum atque aequiangulum designare.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proposed circle is a.b.c, whose center is f, around which I want to designate an equilateral and equiangular pentagon. Over the
+							circumference of that circle I will note five corner points, as though I had inscribed in it a pentagon according to the doctrine of the
+							<span class="propositio">preceding</span>, which are a, d, b, c, and e, from the center to which I draw lines f.a, f.d, f.b, f.c, and f.e, and from these
+							same points I shall draw out perpendiculars to those lines in each direction until they meet at points g, h, k, l and m, and these lines are contacting the
+							circle through a corollary of the <span class="propositio">15th</span> of the <span class="liber">third</span>. And from the center to those convergence
+							points I draw lines f.g, f.h, f.k, f.l, and f.m.
+						</td>
+						<td>
+							¶&nbsp;Sit propositus circulus .a.b.c. cuius centrum .f. volo circa ipsum designare penthagonum aequilaterum atque aequiangulum. supra circumferentiam
+							ipsius circuli quasi secundum doctrinam <span class="propositio">praemissae</span> sibi inscripsissem penthagonum quinque puncta angularia notabo. quae
+							sunt .a.d.b.c.e. ad quae centra ducam lineas .f.a.f.d.f.b.f.c.f.e. et ab eisdem punctis educam perpendiculares ad istas lineas in utranque partem quousque
+							concurrant in punctis .g.h.k.l.m. eruntque hae lineae contingentes circulum per correlarium <span class="propositio">.15.</span>
+							<span class="liber">tertii</span>: et ad ista puncta concursus ducam a centro lineas .f.g.f.h.f.k.f.l.f.m.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And since it is previously shown by the <span class="propositio">penultimate</span> of the <span class="liber">third</span> that if from any point without
+							a circle two lines shall be drawn contacting that circle, because those lines will be equal, the line g.a will equal the line g.d, and h.d h.b, and so on
+							for the others.
+						</td>
+						<td>
+							Et quia monstratum est super <span class="propositio">penultimam</span> <span class="liber">tertii</span> quod si ab aliquo puncto extra circulum signato
+							duae lineae contingentes ad ipsum circulum ducantur quod ipse erunt aequales. erit linea .g.a. aequalis lineae .g.d. et .h.d.h.b. et sic de ceteris.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And because the five arcs into which the five points, a, d, b, c and, e, divide the circle are mutually equal, by the <span class="propositio">26th</span> of
+							the <span class="liber">third</span> the five angles, a.f.d, d.f.b, b.f.c, c.f.e, and e.f.a, which lie over these arcs at the center f are themselves
+							mutually equal.
+						</td>
+						<td>
+							At quoniam quinque arcus in quos quinque puncta .a.d.b.c.e. dividunt circulum. sunt adinvicem aequales. erunt per <span class="propositio">.26.</span>
+							<span class="liber">tertii</span> quinque anguli .a.f.d.d.f.b.b.f.c.c.f.e.e.f.a. consistentes super hos arcus in centro .f. sibi invicem aequales.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But the two sides, a.g and f.a on the triangle f.g.a, are equal to the two sides d.g and f.d of the triangle f.g.d, and the side g.f is common, therefore
+							by the <span class="propositio">8th</span> of the <span class="liber">first</span>, the two angles of them that are at f are mutually equal.
+						</td>
+						<td>
+							Sunt autem duo latera .a.g. et .f.a. trianguli .f.g.a aequalia duobus lateribus .d.g. et .f.d. trianguli .f.g.d. et latus .g.f. commune. ergo per
+							<span class="propositio">.8.</span> <span class="liber">primi</span>: duo anguli eorum qui sunt .a.d.f.[sic].
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Just like the two angles that are at g are mutually equal, and by the same rationale the two angles that are at f in triangles d.f.h and h.f.b.
+						</td>
+						<td>
+							Itemque duo anguli qui sunt .a.d.g.[sic] sunt adinvicem aequales. eadem rationem duo anguli qui sunt .a.d.f.[sic] in triangulis .d.f.h. et .h.f.b. 
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Likewise, the two that are at b are mutually equal.
+						</td>
+						<td>
+							Itemque duo qui sunt .a.d.b.[sic] sunt adinvicem aequales.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly of each the remaining three angles that are b.f.c, c.f.e, and e.f.a, and of each of the three by which k, l, and m are divided by equals,
+							that is, the first by line f.k, the second by line f.l, and the third by line f.m. And that the three angles that are b.f.c, c.f.e, and e.f.a are themselves
+							mutually equal, and the other two that are a.f.d and d.f.b are equal, then half of them, which are the ten angles made at center f, are mutually equal.
+						</td>
+						<td>
+							Similiter quoque singuli trium reliquorum angulorum qui sunt .b.f.c.c.f.e.e.f.a. et singuli trium. qui sunt .k.l.m. dividantur per aequalia. primi quidem
+							per lineam .f.k. secundi per lineam .f.l. tertii vero per lineam .f.m. et quia hii tres anguli qui sunt .b.f.c.c.f.e.e.f.a. sunt sibi invicem aequales et
+							aliis duobus qui sunt .a.f.d. et .d.f.b. aequales erunt eorum dimidia quae sunt decem anguli facti in centro .f. adinvicem aequales.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, because the two angles a and f of the triangle g.a.f are equal to the two angles a and f of the triangle m.a.f, and the side a.f is common, then
+							by the <span class="propositio">26th</span> of the <span class="liber">first</span> the angle g of one equals angle m of the other and the side g.a equals
+							the side a.m. By the same rationale, angle g on the triangle g.f.d will equal angle h on the triangle d.f.h and the side g.d equals the side d.h, and so
+							because g.a is half g.m, and g.d half g.h, and g.a and g.d are equal, then by <span class="conceptiones">common knowledge</span> g.m and g.h will be
+							twice their equal.
+						</td>
+						<td>
+							Quia igitur duo anguli .a. et .f. trianguli .g.a.f. sunt aequales duobus angulis .a. et .f. trianguli .m.a.f. et latus .a.f. commune erit per
+							<span class="propositio">.26.</span> <span class="liber">primi</span> angulus .g. unius aequalis angulo .m. alterius et latus .g.a. aequale lateri .a.m.
+							eadem ratione erit angulus .g. in triangulo .g.f.d. aequalis angulo .h. in triangulo .d.f.h. et latus .g.d. aequale lateri .d.h. quare quia .g.a. est
+							dimidium .g.m. et .g.d. dimidium .g.h. et .g.a. et .g.d. sunt aequalia: erunt per <span class="conceptiones">communem scientiam</span> .g.m. et .g.h. eorum
+							dupla aequalia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Similarly we shall also demonstrate g.m to be equal to m.l, and m.l to l.k, and l.k to k.h, whereby the pentagon g.h.k.l.m is equilateral. And it is
+							equiangular, for since the two angles that are at g are mutually equal and the two that are at m are similarly mutually equal, and part of g should equal
+							part of m, for both have been proved before, then by the same <span class="conceptiones">common knowledge</span> the whole of g will equal the whole of m,
+							and by the same rationale you will show equality in the other angles, whereby it is equiangular, and thus is the intention.
+						</td>
+						<td>
+							Similiter quoque probabimus .g.m. esse aequale .m.l. et .m.l.l.k. et .l.k.k.h. quare penthagonus .g.h.k.l.m. est aequilaterus. sed et aequiangulus: cum
+							enim duo anguli qui sunt ad .g. sunt adinvicem aequales. et duo qui sunt ad .m. similiter adinvicem aequales. et .g. partialis. sit aequalis .m. partiali.
+							utrumque enim probatum est prius. erit per eandem <span class="conceptiones">communem scientiam</span> .g. totalis aequalis .m. totali. et eadem ratione
+							probabis aequilitatem in ceteris angulus: quare est aequiangulus. sicque constat propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
-			<script>
+		<!--suppress JSObjectNullOrUndefined -->
+		<script>
 				const search = "¶\xa0";
 				
 				function makeIterator(parentNode) {
