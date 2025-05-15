@@ -1398,10 +1398,10 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose that from point b of the line a.b, two lines exit in opposite directions, which are b.c and b.d, that produce two angles, which are c.b.a
-							and d.b.a, equal to two right angles. Then I say that the lines c.b and d.b are directly joined one to the other and they are one line, and that this is
-							somewhat a converse of the <span class="propositio">former</span>. That if it were not one line thereupon extended in a direct and continuous manner, since
-							it is not one line with it, d.b will pass over it as b.e or under it as b.f, and so because the line a.b falls over the right line that is c.b.e, the
-							angles c.b.a and e.b.a will be equal to two right angles by the preceding, and because all right angles are reciprocally equal by the
+							and d.b.a, equal to two right angles. Then I say that the lines c.b and d.b are directly joined one to the other and they are one line, and this is like a
+							conversion of the <span class="propositio">former</span>. That if it were not one line thereupon extended in a direct and continuous manner, since it is not
+							one line with it, d.b will pass over it as b.e or under it as b.f, and so because the line a.b falls over the right line that is c.b.e, the angles c.b.a
+							and e.b.a will be equal to two right angles by the preceding, and because all right angles are reciprocally equal by the 
 							<span class="petitiones">3rd petition</span> and because the angles c.b.a and d.b.a are equal to two right angles by the hypothesis, the two angles c.b.a
 							and e.b.a will equalthe two angles c.b.a and d.b.a. Therefore, by removing the common angle c.b.a, the angle e.b.a will equal the angle d.b.a, a part of
 							the whole, which is impossible. Similarly, the extended line c.b might demonstrate the angle d.b.a is equal to the angle f.b.a, if the adversary were
@@ -7851,7 +7851,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the assigned triangle is a.b.c, wherewithin I want to describe a circle. This is somewhat a converse of the
+							¶&nbsp;Suppose the assigned triangle is a.b.c, wherewithin I want to describe a circle. This is as though a conversion of the
 							<span class="propositio">second</span>, for I divide two of its angles, a and b, by equals, that is, a by the drawn line a.d and b with the drawn line d.b,
 							which shall meet at point d, from where I shall draw perpendiculars to the three sides of the triangle, indeed, d.e to a.b, d.f to b.c, and d.g to a.c. And
 							for that of the two triangles, e.a.d and g.a.d, the angle a of one is equal to angle a of the other, and since both of the angles e and g are right, and
@@ -7903,7 +7903,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the assigned triangle is a.b.c, around which I want to describe a circle. This is somewhat a converse of the
+							¶&nbsp;Suppose the assigned triangle is a.b.c, around which I want to describe a circle. This is as though a conversion of the
 							<span class="propositio">third</span>. I divide two of its sides, a.b and a.c, by equals, that is, a.b at point d and a.c at point e, from where I draw out
 							perpendiculars to the lines a.b and a.c, which I extend until they meet at point f. And d.f and e.f shall meet for that when each of the two angles d and e
 							are right, if it were intended for line d.e to be extended then the two angles at either end to which they are extended would be less than two rights,
@@ -8151,9 +8151,9 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the assigned quadrate is a.b.c.d, within which I want to describe a circle. This is somewhat converse the 6th. I divide each one its sides
-							by equal, that is, a.d at point f, b.a at point g, c.b at point h, and d.c at point e, and I produce the lines e.g and f.h, cutting one another at point k,
-							which I say to be the center of the circle, for f.h will be equidistant and equal to a.b by the <span class="propositio">33nd</span> of the
+							¶&nbsp;Suppose the assigned quadrate is a.b.c.d, within which I want to describe a circle. This is as though a conversion of the 6th. I divide each one its
+							sides by equal, that is, a.d at point f, b.a at point g, c.b at point h, and d.c at point e, and I produce the lines e.g and f.h, cutting one another at
+							point k, which I say to be the center of the circle, for f.h will be equidistant and equal to a.b by the <span class="propositio">33nd</span> of the
 							<span class="liber">first</span>, on account that a.f and b.h are equal and equidistant.
 						</td>
 						<td>
@@ -8202,7 +8202,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the quadrate is a.b.c.d, around which I want to describe a circle. This is somewhat the converse of <span class="propositio">7</span>.
+							¶&nbsp;Suppose the quadrate is a.b.c.d, around which I want to describe a circle. This is as though a conversion of the <span class="propositio">7th</span>.
 						</td>
 						<td>
 							¶&nbsp;Sit quadratum .a.b.c.d. volo circa ipsum circulum describere. haec est quasi conversa <span class="propositio">.7.</span>
@@ -8599,6 +8599,137 @@
 							enim duo anguli qui sunt ad .g. sunt adinvicem aequales. et duo qui sunt ad .m. similiter adinvicem aequales. et .g. partialis. sit aequalis .m. partiali.
 							utrumque enim probatum est prius. erit per eandem <span class="conceptiones">communem scientiam</span> .g. totalis aequalis .m. totali. et eadem ratione
 							probabis aequilitatem in ceteris angulus: quare est aequiangulus. sicque constat propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 13</h1>
+						</td>
+						<td>
+							<h1>Propositio .13.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle within an assigned equilateral and equiangular pentagon.</h3>
+						</td>
+						<td>
+							<h3>Intra aequilaterum atque aequiangulum penthagonum assignatum. circulum describere.</h3>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the equilateral and equiangular pentagon is assigned (since it is not possible of the others, this is necessary) a.b.c.d.e, to which I want
+							to inscribe a circle. This is as though a conversion of the <span class="propositio">11th</span>. I divide two of its neighboring angles, which are a and
+							e, by equals, by drawing lines a.f and e.f until they meet at point f within the pentagon, which I say is to be the center of the circle, for they will
+							meet on account that half the total angle a, and likewise the total angle e, are less than a right angle.
+						</td>
+						<td>
+							¶&nbsp;Sit assignatus penthagonus aequilaterus atque aequiangulus: quia de aliis non est necessarium hoc est possibile .a.b.c.d.[sic] volo sibi inscribere
+							circulum. haec est quasi conversa <span class="propositio">.11.</span> duos eius propinquos angulos qui sunt .a. et .e. divido per aequalia ductis lineis
+							.a.f. et .e.f. donec concurrant in puncto .f. intra ipsum penthagonum quem dico esse centrum circuli: concurrent enim propter id quod dimidium totalis
+							anguli .a. et similiter totalis anguli .e. minus est angulo recto.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;For if they do not meet within the pentagon then they shall meet either without the pentagon, or upon the side of the pentagon, or on its angle that
+							is opposite both other angles.
+						</td>
+						<td>
+							¶&nbsp;Si enim intra penthagonum non concurrent. aut extra ipsum penthagonum aut in latere penthagoni. aut in eius angulo: qui utrique angulorum diversorum
+							opponitur.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							First suppose then they meet without at point f and the line b.f is drawn, and the two sides, e.a and a.f of the triangle e.a.f are equal to the sides b.a
+							and a.f of the triangle b.a.f, and angle a of one equals angle a of the other, so by the <span class="propositio">4th</span> of the
+							<span class="liber">first</span> the base e.f will equal the base f.b, and since the partial angle a is equal to the partial angle e, for that the whole of
+							a and whole of e are equal, then by the <span class="propositio">6th</span> of the <span class="liber">first</span> f.a will equal f.e, whereby f.a is equal
+							to f.b, and so by the <span class="propositio">6th</span> of the first the two angles, the whole of b and the partial a, are equal, and so a part of a is
+							equal or greater to the whole of a, which is impossible.
+						</td>
+						<td>
+							Concurrant ergo primo extra in puncto .f. et ducatur linea .b.f. et quia duo latera .e.a. et .a.f. trianguli .e.a.f. sunt aequalia duobus lateribus .b.a.
+							et .a.f. trianguli .b.a.f. et angulus .a. unius angulo .a. alterius erit per <span class="propositio">.4.</span> <span class="liber">primi</span> basis
+							.e.f. aequalis basi .f.b. et quia angulus .a. partialis est aequalis angulo .e. partiali. propter id quod .a. totalis .e. totali erit per
+							<span class="propositio">.6.</span> <span class="liber">primi</span> .f.a. aequalis .f.e. quare .f.a. est aequalis .f.b. ergo per
+							<span class="propositio">.5.</span>[sic] <span class="liber">primi</span> duo anguli .b. totalis. et .a. partialis sunt aequales. quare .a. partialis est
+							aequalis ut maior .a. totali quod est impossibile.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Then suppose they meet at point f on the side b.c. And by arguing as through the preceding and in the manner already given, a part of angle a equals the
+							whole of angle a, which is impossible.
+						</td>
+						<td>
+							Concurrant ergo in puncto .f. super latus .b.c. eritque arguendo per praemissas et praemisso modo angulus .a. partialis aequalis angulo .a. totali quod est
+							impossibile.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if they should meet at angle c, then by the same and in the same way c.b will equal c.a and so just as before, a part of angle a is equal to the whole
+							of angle a.
+						</td>
+						<td>
+							Quod si forsan concurrant in angulo .c. erit per eadem et eodem modo c.b. aequalis .c.a. et ideo ad huc ut prius angulus .a. partialis aequalis angulo .a.
+							totali.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For that this is not possible, suppose then the meeting point, which is f, is within the pentagon, whence I draw 5 perpendiculars to its 5 sides that
+							are f.g, f.h, f.k, f.l, and f.m, and I draw lines f.b and f.d to two of its neighboring angles on the other side, which are divided by equals, which are b
+							and d. And since the two angles a and m of the triangle a.f.m are equal to the two angles a and g of the triangle a.f.g, and the side a.f is common, by the
+							<span class="propositio">26th</span> of the <span class="liber">first</span> f.m will equal f.g. In the same way you will also prove f.l equal to f.m
+							on the selected triangles e.f.m and e.f.l, for again, the two sides a.f and a.b of the triangle a.f.b are equal to the two sides a.f and a.e of the
+							triangle a.f.e, and the angle a of one equals angle a of the other, then by the <span class="propositio">4th</span> of the <span class="liber">first</span>
+							the partial angle b will equal the partial angle e, and since the whole of b is equal to the whole of e, the whole of e divided by equals will also equal
+							the whole of b divided by equals.
+						</td>
+						<td>
+							Quod quia hoc esse non potest sit ergo punctus concursus qui est .f. infra[sic] penthagonum a quo duco .5. perpendiculares ad eius .5. latera. quae sint
+							.f.g.f.h.f.k.f.l.f.m. et ad duos eius angulos propinquos altrinsecus angulis per aequalia divisis qui sunt .b. et .d. duco lineas .f.b.f.d. et quia duo
+							anguli .a. et .m. trianguli .a.f.m. sunt aequales duobus angulis .a. et .g. trianguli .a.f.g. et latus .a.f. commune erit per
+							<span class="propositio">.26.</span> <span class="liber">primi</span> .f.m. aequalis .f.g. per eandem quoque probabis .f.l. aequalem .f.m. sumptis duobus
+							triangulis .e.f.m. et .e.f.l. quia iterum duo latera .a.f. et .a.b. trianguli .a.f.b. sunt aequalia duobus lateribus .a.f. et .a.e. trianguli .a.f.e. et
+							angulus .a. unius. angulo .a: alterius erit per <span class="propositio">.4.</span> <span class="liber">primi</span> angulus .b. partialis aequalis angulo
+							.e. partiali. et quia .b. totalis aequalis est .e. totali: et .e. totalis divisus est per aequalia erit etiam .b. totalis divisus per aequalia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;In the same way you will prove the whole of d is divided by equals, through the equality of partial d and partial a on the selected triangles e.a.f
+							and e.d.f, then because the two angles g and b of the triangle g.f.b are equal to the two angles h and b of the triangle h.f.b, and the side f.b is common,
+							by the <span class="propositio">26th</span> of the <span class="liber">first</span> f.h will equal f.g.
+						</td>
+						<td>
+							¶&nbsp;Eodem modo probabis .d. totalem divisum per aequalia propter aequalitatem .d. partialis et .a. partialis sumptis triangulis .e.a.f. et .e.d.f. quia
+							ergo duo anguli .g. et .b. trianguli .g.f.b. sunt aequales duobus angulis .h. et .b. tringuli .h.f.b. et latus .f.b. commune erit per
+							<span class="propositio">.26.</span> <span class="liber">primi</span> .f.h. aequalis .f.g.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							In the same way you will prove f.k equal to f.l on selected the triangles l.f.d and k.f.d, and since the 5 lines, f.g, f.h, f.k, f.l, and f.m are equal, f
+							will be the center of the circle by the <span class="propositio">9th</span> of the <span class="liber">third</span>, which we will draw following the
+							length of one of them, and it will touch every side of the pentagon according to the equality of the lines and not any of them shall cut by the first part
+							of the 15th of the third, and thus is the intention.
+						</td>
+						<td>
+							Eodem modo probabis .f.k. aequalem .f.l. sumptis triangulis .l.f.d.k.f.d. quoniam igitur .5. lineae .f.g.f.h.f.k.f.l. et .f.m. sunt aequales. erit .f.
+							centrum circuli. per <span class="propositio">.9.</span> <span class="liber">tertii</span>. quem describemus secundum quantitatem unius earum. et tanget
+							omnia latera penthagoni. propter aequalitatem linearum et nullum eorum secabit per primam partem .15. tertii. sicque constat propositum.
 						</td>
 					</tr>
 				</tbody>
