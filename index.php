@@ -8624,6 +8624,8 @@
 							<h3>Intra aequilaterum atque aequiangulum penthagonum assignatum. circulum describere.</h3>
 						</td>
 					</tr>
+				</tbody>
+				<tbody>
 					<tr>
 						<td>
 							¶&nbsp;Suppose the equilateral and equiangular pentagon is assigned (since it is not possible of the others, this is necessary) a.b.c.d.e, to which I want
@@ -8730,6 +8732,216 @@
 							Eodem modo probabis .f.k. aequalem .f.l. sumptis triangulis .l.f.d.k.f.d. quoniam igitur .5. lineae .f.g.f.h.f.k.f.l. et .f.m. sunt aequales. erit .f.
 							centrum circuli. per <span class="propositio">.9.</span> <span class="liber">tertii</span>. quem describemus secundum quantitatem unius earum. et tanget
 							omnia latera penthagoni. propter aequalitatem linearum et nullum eorum secabit per primam partem .15. tertii. sicque constat propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 14</h1>
+						</td>
+						<td>
+							<h1>Propositio .14.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a circle around a given pentagon, which is equilateral and equiangular besides.</h3>
+						</td>
+						<td>
+							<h3>Circa datum penthagonum quod sit aequilaterum. atque aequiangulum circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose as before the given pentagon, both equilateral and equiangular (since it is not possible of the others, this is to be necessary) is
+							a.b.c.d.e, around which I want to describe a circle. This is as if the <span class="propositio">12th</span> were reversed.
+						</td>
+						<td>
+							¶&nbsp;Sit ut prius datus penthagonus aequilaterus atque aequiangulus. quia de aliis non est necessarium hoc esse possibile .a.b.c.d.e. volo circa ipsum
+							describere circulum. haec est quasi conversa <span class="propositio">.12.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I divide two of its neighboring angles, which are a and e, by equals by drawing lines a.f and f.e until they meet within the pentagon at point f, for they
+							will meet and that shall happen within the pentagon as is demonstrated in the <span class="propositio">former</span>, and from the point of contact I draw
+							lines to the remaining angles, which shall be f.b, f.c, and f.d. And because the two sides a.f and a.b of the triangle a.f.b are equal to the two sides a.f
+							and a.e of the triangle a.f.e, and the angle a of one equals angle a of the other, by the <span class="propositio">4th</span> of the
+							<span class="liber">first</span> f.a will equal f.e, and the partial angle b will equal the partial angle e. And because the whole of b is equal to the
+							whole of a and the whole of e is divided by equals, the whole of b will similarly be divided by equals. In this way you may also prove both of the angles
+							c and d are to be divided by equals, and the 5 lines, f.a, f.b, f.c, f.d, and f.e are to be equal, wherefore by the <span class="propositio">9th</span> of
+							the <span class="liber">third</span>, f will be the center of the circle, thus the intention is evident.
+						</td>
+						<td>
+							Duos eius propinquos angulos qui sunt .a. et .e. divido per aequalia ductis lineis .a.f. et .f.e. quousque concurrant intra ipsum penthagonum in puncto .f.
+							concurrent enim et intra penthagonum ut probatum est in <span class="propositio">praemissa</span>. et a puncto concursus duco ad reliquos angulos lineas
+							quae sint .f.b.f.c.f.d. et quia duo latera .a.f. et .a.b. trianguli .a.f.b. sunt aequalia duobus lateribus .a.f. et .a.e. trianguli .a.f.e. et angulus .a.
+							unius angulo .a. alterius erit per <span class="propositio">.4.</span> <span class="liber">primi</span> .f.a. aequalis .f.e. et angulus .b. partialis
+							angulo .e. partiali. et quia .b. totalis est aequalis .a. totali. et .e. totalis divisus est per aequalia. et quia .b. totalis est aequalis .a. totali. et
+							.e. totalis dividus est per aequalia. erit similiter .b. totalis divisus per aequalia. hoc quoque modo probabis utrumque angulorum .c. et .d. divisum esse
+							per aequalia. et .5. lineas .f.a.f.b.f.c.f.d.f.e. esse aequales. quare per <span class="propositio">.9.</span> <span class="liber">tertii</span> .f. erit
+							centrum circuli. sicque patet propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 15</h1>
+						</td>
+						<td>
+							<h1>Propositio .15.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a hexagon both equilateral and equiangular within a proposed circle. From this it is manifest that the side of a hexagon is equal to half
+							the diameter of the circle to which it is inscribed.</h3>
+						</td>
+						<td>
+							<h3>Intra propositum circulum. exagonum aequilaterum atque aequiangulum describere. Ex hoc itaque manifestum est quod latus exagoni aequum est dimidio
+							diametri circuli cui inscribitur.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proposed circle is a.b.c.d, whose center is e, to which I want to inscribe a hexagon both equilateral and equiangular. I produce the
+							diameter a.e.c and following the length of the semidiameter e.c, making c the center point, I describe the circle e.b.d cutting the former at two points, b
+							and d, wherefrom I draw two diameters within the first circle, which are b.e.g and d.e.f. I then connect the ends of the three diameters with 6 lines that
+							are a.f, f.b, b.c, c.d, d.g, and g.a, which I say contains the desired hexagon, for as the <span class="propositio">first</span> of the
+							<span class="liber">first</span> demonstrates, both of the triangles, b.e.c and c.e.d, will be equilateral, wherefore they are also equiangular by the
+							<span class="propositio">5th</span> of the <span class="liber">same</span>, and so by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span> the two angles b.e.c and c.e.d along with one equal to one of them are equal to two rights for that each of them is a third
+							of two rights, so that one, by the <span class="propositio">13th</span> of the <span class="liber">same</span>, with angle d.e.g, is equal to two rights.
+							Angle d.e.g is then equal to both of them and so by the <span class="propositio">15th</span> of the <span class="liber">same</span>, the 6 angles that are
+							at e are mutually equal, therefore by the <span class="propositio">25th</span> of the <span class="liber">third</span> the arcs onto which they fall are
+							equal, wherefore so too are their chords by the <span class="propositio">28th</span> of the <span class="liber">same</span>, which are the sides of the
+							hexagon itself.
+						</td>
+						<td>
+							¶&nbsp;Sit propositus circulus .a.b.c.d. cuius centrum .e. volo sibi inscribere exagonum aequilaterum atque aequiangulum. produco diametrum .a.e.c. et
+							secundum quantitatem semidiametri .e.c. facto centro puncto .c. describo circulum .e.b.d. secantem priorem in duobus punctis .d.b.a. quibus produco duas
+							diametros in circulo primo quae sint .b.e.g.d.e.f. trium ergo diametroum extremitates coniungo .6. lineas quae sunt .a.f.f.b.b.c.c.d.d.g. et .g.a. quas
+							dico continere exagonum quaesitum. erit enim ut demonstrat <span class="propositio">prima</span> <span class="liber">primi</span> uterque triangulorum
+							.b.e.c.c.e.d. aequilaterus. quare et aequiangulus per <span class="propositio">.5.</span> <span class="liber">eiusdem</span> ergo per
+							<span class="propositio">.32.</span> <span class="liber">primi</span> duo anguli .b.e.c. et .c.e.d. cum uno aequali uni eorum sunt aequales duobus rectis
+							propter id quod quisque eorum est tertia duorum rectorum. sed ipsi per <span class="propositio">.13.</span> <span class="liber">eiusdem</span> cum angulo
+							.d.e.g. sunt aequales duobus rectis. ergo angulus .d.e.g. est aequalis utrique eorum. quare per <span class="propositio">.15.</span>
+							<span class="liber">eiusdem</span> .6. anguli. qui sunt ad .e. sunt adinvicem aequales. ergo per <span class="propositio">.25.</span>
+							<span class="liber">tertii</span> arcus in quos cadunt sunt aequales. quare et eorum cordae per <span class="propositio">.28.</span>
+							<span class="liber">eiusdem</span> qui sunt latera ipsius exagoni.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Thus it is equilateral, but it is also equiangular by the <span class="propositio">26th</span> of the <span class="liber">third</span>, for that the six
+							arcs into which the angular points of the hexagon divide the circle are two by two taken to be mutually equal, just as the arc a.f.b to the arc f.b.c, and
+							so angle f that is on the first is equal to angle b that is on the following, and the same for the remainder, and so the intention stands.
+						</td>
+						<td>
+							Aequilaterus igitur est sed et aequiangulus per <span class="propositio">.26.</span> <span class="liber">tertii</span> propter id quod sex arcus in quos
+							angularia puncta exagoni dividunt circulum bini et bini sumpti sunt adinvicem aequales. ut arcus .a.f.b. arcui .f.b.c. et ideo angulus .f. qui consistit
+							in primo est aequalis angulo .b. qui consistit in secundo. idem in ceteris. quare constat propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;From this the corollary is evident because half the diameter and a side of the hexagon are sides of the same equilateral triangle, such as e.c, and
+							c.b, and c.d.
+						</td>
+						<td>
+							¶&nbsp;Correlarium ex hoc patet quod dimidium diametri et latus exagoni sunt latera eiusdem trianguli aequilateri. ut .e.c. et .c.b. et .c.d.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;And note that it is not set forth to designate an equilateral and equiangular hexagon around a proposed circle.
+						</td>
+						<td class="additio">
+							¶&nbsp;Et nota quod non proponitur circa propositum circulum exagonum aequilaterum atque aequiangulum designare.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Nor to describe such a circle within or around such a hexagon, as was done for the triangle, quadrate, and pentagon—not because it's not necessary for this
+							to be possible, but because these three are made by the same precepts as for an equilateral and equiangular pentagon, and so for every equilateral and
+							equiangular figure, whatsoever it may be.
+						</td>
+						<td class="additio">
+							Nec intra talem exagonum aut circa talem circulum describere. quemadmodum fecit de triangulo quadrato et penthagono. non quia non sit necessarium hoc esse
+							possibile. sed quia haec tria per eadem praecepta fiunt in penthagono aequilatero et aequiangulo. et in omni figura aequilatera. atque aequiangula quaecumque
+							fuerit.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Thus we know how to inscribe any equilateral and equiangular figure within a circle, and likewise without a circle, as well a circle within and without a
+							figure, by which we will describe these according to the same means of a pentagon.
+						</td>
+						<td class="additio">
+							Unde quamcumque figuram aequilateram et aequiangulum scimus circulo inscribere: eadem circulo extra. et circulum sibi intra et extra: iisdem mediis per quae
+							haec in penthagono secundus describimus.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Also note that every equilateral figure inscribed or circumscribed by a circle is also necessarily equiangular, which is evident of the inscribed
+							through the <span class="propositio">27th</span> and <span class="propositio">26th</span> of the <span class="liber">third</span>, by taking the arcs of
+							the circles twofold and in pairs, the chords upon which are the sides of the inscribed figure.
+						</td>
+						<td class="additio">
+							¶&nbsp;Nota etiam quod omnis figura aequilatera circulo inscripta. aut circumscripta est etiam necessario aequiangula. de inscripta patet per
+							<span class="propositio">.27.</span> et <span class="propositio">.26.</span> <span class="liber">tertii</span> sumptis arcubus circuli. quibus latera
+							inscripte figurae cordae sunt binis et binis.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							For the angles of the figure itself fall upon these arcs.
+						</td>
+						<td class="additio">
+							In hos enim arcus ipsius figurae anguli cadunt.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And of the circumscribed lines drawn from the center of the circle to each of its angles and to the points of contact, you will easily prove if your
+							diligent intellect should accede to fully understand the <span class="propositio">13th</span> demonstration of <span class="liber">this</span>, for it will
+							be that the lines coming from the center will divide all the angles of the figure itself by equals, and so taking any adjoining two from its sides with a
+							line to the angle contained by them, and with two coming from the center to their extremities, you will show the two triangles contained by them are to be
+							mutually equiangular by the <span class="propositio">4th</span> of the <span class="liber">first</span>.
+						</td>
+						<td class="additio">
+							De circumscripta autem ductis a circuli centro lineis ad omnes eius angulos. et ad loca contactus facile probabis. si plenae intellectae demonstrationi
+							<span class="propositio">.13.</span> <span class="liber">huius</span> diligens intellectus accesserit. erit enim ut omnes ipsius figurae angulos lineae a
+							centro venientes per aequalia dividant. sumptis itaque quibuslibet duobus eius proximis lateribus cum linea ad angulum ab eis contentum. et cum duobus ad
+							eorum extremitates a centro venientibus duos triangulus ab eis contentos aequiangulos adinvicem. per <span class="propositio">.4.</span>
+							<span class="liber">primi</span> esse probabis.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And in doing this for all of them it will be evident they are to be equiangular through that <span class="conceptiones">common conception</span>; of whose
+							halves are equal, their wholes must also be equal.
+						</td>
+						<td class="additio">
+							Sicque faciendo de omnibus patebit eos esse aequiangulos per hanc <span class="conceptiones">communem scientiam</span> quorum dimidia sunt aequalia. tota
+							quoque esse aequalia.
 						</td>
 					</tr>
 				</tbody>
