@@ -259,13 +259,13 @@
 							¶&nbsp;And another is <span class="definitio">similar to the helmuaym</span>, which has equal opposite sides and equal opposite angles (yet the aforesaid is
 							neither contained within right angles nor within equal sides).
 							
-							However beyond these, all quadrilateral figures are called <span class="definitio"> helmuariphae</span>.
+							However beyond these, all quadrilateral figures are called <span class="definitio"> helmuariphe</span>.
 						</td>
 						<td>
 							¶&nbsp;Alia est <span class="definitio">similis helmuaym</span> quae opposita latera habet aequalia atque oppositos angulos aequales: idem temen nec rectis
 							angulis nec aequis lateribus continetur.
 							
-							Praeter has autem omnes quadrilaterae figurae <span class="definitio">helmuariphae</span> nominantur.
+							Praeter has autem omnes quadrilaterae figurae <span class="definitio">helmuariphe</span> nominantur.
 						</td>
 					</tr>
 					<tr>
@@ -8942,6 +8942,238 @@
 						<td class="additio">
 							Sicque faciendo de omnibus patebit eos esse aequiangulos per hanc <span class="conceptiones">communem scientiam</span> quorum dimidia sunt aequalia. tota
 							quoque esse aequalia.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 16</h1>
+						</td>
+						<td>
+							<h1>Propositio .16.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To designate a quindecagon both equilateral and equiangular within a given circle. And afterward, to describe an equilateral and equiangular
+							quindecagon around any assigned circle, and then to describe a circle within a given quindecagon.</h3>
+						</td>
+						<td>
+							<h3>Intra datum circulum. quindecagonum aequilaterum atque aequiangulum designare. Deinde circa quaelibet circulum assignatum quindecagonum aequilaterum
+							atque aequiangulum atque intra datum quindecagonum circulum describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the given circle is a.b.c, to which I want to inscribe and thereafter circumscribe an equilateral and equiangular quindecagon, and also to
+							describe a circle inside such a proposed quindecagon.
+						</td>
+						<td>
+							¶&nbsp;Sit datus circulus .a.b.c. volo sibi inscribere quindecagonum aequilaterum et aequiangulum. denide etiam circumscribere atque intra talem
+							quindecagonum propositum circulum describere.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							It is not, however, set forth to describe a circle around such a quindecagon, for that is given to be sufficiently understood by the other things proposed.
+						</td>
+						<td>
+							Non proponit autem circa talem quindecagonum circulum describere. quia hoc satis dat intelligere per alia quae proponit.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Within the given circle according to the doctrine of the <span class="propositio">second</span> of <span class="liber">this</span> I draw the side of an 
+							equilateral triangle, which is a.c, and then the side of an equilateral and equiangular pentagon according to a doctrine of the following, which is a.b.
+						</td>
+						<td>
+							In dato circulo iuxta doctrinam <span class="propositio">secundae</span> <span class="liber">huius</span>. protraho latus trianguli aequilateri. quod sit
+							.a.c. et iuxta doctrinam secundi latus penthagoni aequilateri atque aequianguli quod sit .a.b.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And because the arc a.c is a third of the total circumference, of which the arc a.b is a fifth, the surplus between them will be that which is the arc b.c,
+							two-thirds the arc a.b, or two-fifths the arc a.c, or two-fifteenths of the total circumference.
+						</td>
+						<td>
+							Et quia arcus .a.c. est totius circumferentiae tertia: cuius arcus .a.b. est quinta. erit superfluum inter eos quod est arcus .b.c. duae tertie: arcus .a.b.
+							vel duae quintae arcus .a.c. sive duae quintaedecimae totius circumferentiae.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Because within every whole a third exceeds a fifth by two-thirds of the fifth itself, or by two-fifths of the third itself, or by two-fifteenths of the whole.
+							For this is evident in the fifth and third of the first number having a fifth and third, which is 15, for its third, which is 5, exceeds its fifth, which is
+							three, by two units, which are two-thirds of the third itself, which is a fifth, or two-fifths of the fifth itself, which is a third, or two-fifteenths of 15
+							itself, which is the whole. Therefore, by dividing the arc b.c by equals at d it is evident both of the two arcs, c.d and d.b, are a third of the arc a.b
+							or a fifth of the arc a.c, or a fifteenth of the total circumference, and so by subtending its chords c.d and d.b and continuously joining them together
+							within the given circle, each one equal to the other by first of this, the proposed figure will be completed.
+						</td>
+						<td>
+							Nam in omni toto excedit tertia quintam. in duabus tertiis ipsius quintae. vel in duabus quintis ipsius tertiae. sive in duabus quintisdecimis totius. hoc
+							enim patet in quinta et tertia primi numeri habentis quintam et tertiam qui est .15. eius enim tertia quae est .5. excedit eius quintam quae est tria in
+							duabus unitatibus quae sunt duae tertiae ipsius ternarii qui est quinta. vel duae quintae ipsius quinarii qui est tertia sive duae quintaedecimae ipsius
+							.15. qui est totum. diviso igitur arcu .b.c. per aequalia. in .d. patet utrumque duorum arcuum .c.d. et .d.b. esse tertiam arcus .a.b. vel quintam arcus
+							.a.c. sive quintamdecimam totius circumferintiae. subtensis igitur eis chordis .c.d. et .d.b coaptatisque continueae intra datum circulum sibi aequalibus
+							per primam huius complebitur figura proposita.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And the other of the two which it proposes, along with the third that it affords will be understood, namely, to circumscribe a quindecagon to a
+							circle and to both inscribe and circumscribe a circle to a quindecagon, you shall easily perfect from full understandings of the
+							<span class="propositio">12th</span>, <span class="propositio">13th</span>, and <span class="propositio">14th</span> of <span class="liber">this</span>.
+						</td>
+						<td>
+							¶&nbsp;Cetera vero duae quae proponit cum tertio quod dat intelligere videlicet quindecagonum circulo circumscribere ac circulum quindecagono inscribere ac
+							etiam circumscribere ex <span class="propositio">.12.13</span> et <span class="propositio">.14.</span> <span class="liber">huius</span> plenae intellectis
+							facile perficies.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And note that any equilateral figure we know how to inscribe within a circle, we then know how to inscribe and circumscribe that with twice as many sides,
+							and those within the circle. For by dividing the arcs to which the sides that are known to be inscribed are subtended by equals and drawing a line from the
+							middle point to the extremities of the side of the figure itself, a figure of twice as many sides will be made within the circle, which will be
+							equilateral by the <span class="propositio">28th</span> of the <span class="liber">third</span>, and therefore equiangular, for that was previously
+							demonstrated in the <span class="propositio">15th</span> of <span class="liber">this</span> that every equilateral figure inscribed within a circle is also
+							equiangular.
+						</td>
+						<td class="additio">
+							Et nota quod quamcumque figuram aequilateram circulo scimus inscribere duplo plurium laterum circulo scimus inscribere et circumscribere. et ipsi circulum.
+							divisis enim arcubus quibus latera eius quae scitur inscribi subtenditur. per aequalia et a punctis mediis ad extremitates laterum ipsius figurae ductis
+							lineis fiet intra circulum figura duplo plurium laterum quae erit aequilatera per <span class="propositio">.28.</span> <span class="liber">tertii</span>.
+							ergo et aequiangula. hoc enim demonstratum est supra <span class="propositio">.15.</span> <span class="liber">huius</span> quod omnis figura aequilatera
+							circulo inscripta est etiam aequiangula.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And because we know how to inscribe that within a circle, we will know how to do the other three by the 12th, 13th, and 14th of this.
+						</td>
+						<td class="additio">
+							Et quia hanc circulo scimus inscribere sciemus cetera tria per .12.13. et .14. huius.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Therefore, because we know how to inscribe an equilateral triangle, by this we will also know the hexagon, and by the hexagon the duodecagon, as
+							well a figure of 24 sides, and doubling in this way neverendingly.
+						</td>
+						<td class="additio">
+							¶&nbsp;Quia igitur scimus inscribere triangulum aequilaterum: sciemus per hoc et exagonum et per exagonum duodecagonum ac per duodecagonum figuram .24.
+							laterum. et sic in infinitum duplando.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And although, as we have said, a hexagon may be inscribed by a triangle, it is nevertheless put forth in this particular demonstration, from which
+							this very useful, most principal thing follows. And similarly, because we know how to inscribe a quadrate we will know by that how to inscribe every figure
+							whose number of sides are likewise paired. By the pentagon we will also know the decagon, and a figure of 20 sides, continuously doubled in this way.
+							Understand the same also about the quindecagon, for by it the figures for 30 and 60 and all the figures of continuous, doubled sides will be known.
+						</td>
+						<td class="additio">
+							Et licet per triangulum possit ut diximus inscribi exagonus. posuit tamen huius propriam demonstrationem ex qua sequitur potissima perutile. Et similiter
+							quia scimus et inscribere quadratum sciemus per hoc inscribere omnem figuram cuius laterum numerus est pariter par. per penthagonum quoque sciemus
+							decagonum. et figuram .20. laterum. sicque continuae duplando. idem quoque intellige de quindecagono. per ipsum enim scientur figure .30. et .60. et omnium
+							continuae duplatorum laterum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;But of the other figures about which this does not inform or that are not obtained through these means, they are difficult to learn and are of little
+							use, such are the heptagons, nonagons, and hendecagons.
+						</td>
+						<td class="additio">
+							¶&nbsp;Ceterarum autem figurarum de quibus ista non docet. vel quae per has non habentur difficulis est scientia. et parum utilis. ut sunt eptagona nonagona
+							undecagona.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							But if we knew how to designate a triangle of two equal sides, both of whose angles at the base were threefold the remainder, then we would know how to
+							inscribe a heptagon, as the pentagon before, and if each of them were quadruple the remainder, then we know how to inscribe the nonagon, and if quintuple,
+							the undecagon.
+						</td>
+						<td class="additio">
+							Quod si sciremus triangulum duum aequalium laterum designare. cuius uterque angulorum ad basim triplus esset ad reliquum sciremus eptagonum ut supra
+							penthagonum circulo inscribere. quod si uterque quadruplus esset ad reliquum sciremus nonagonum. et si quintuplus. undecagonum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And the same for the other figures of uneven sides, by setting both angles at the base as a multiple to the remainder, by that number, which is half the
+							greatest even number contained within the odd number of sides of the figure itself.
+						</td>
+						<td class="additio">
+							Idemque in ceteris figuris imparium laterum. posito utroque angulorum ad basim multiplici ad reliquum. per eum numerum qui est medietas. maximi paris sub
+							impari numero laterum ipsius figurae contenti.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;To divide a given angle into three equal parts.
+						</td>
+						<td class="additio">
+							¶&nbsp;Datum angulum in tria aequa dividere.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Suppose the given angle is c, which I want to divide into three equal angles, which I do as follows. First I place c at the center of the circle by
+							describing the circle, in whatever way it happens, and I extend the sides containing the given angle up until they cut the circumference at points a and b.
+							Then from point c, which is the center of the circle, I draw the line c.d perpendicularly to line c.b, and on line c.d I assign point e from where I draw a
+							line to equality with c.b until it cuts the circumference of the circle at point f, and I extend e up until a, then draw out the line g.h equidistant to
+							f.a and that, naturally, g.h shall pass through the center. And I draw line f.g equidistant to line e.c, and produce the line c.b in a continuous and
+							direct manner up until l, which cuts line f.g orthogonally at point o, and cuts it by equals, and so I say that the arc l.g is equal to the arc h.b, for
+							the reason that angle l.g.c is equal to angle h.c.b because they are positioned opposite one another. Therefore, since the arc f.g is double the arc l.g,
+							it will also be double the arc h.b, but the arc f.g is equal to the arc a.h for that they are between the two equidistant lines that are f.a and g.h, and
+							so the arc .h.a is double the arc h.b, then the angle a.c.h is double the angle h.c.b. I thus divide the angle a.c.h by equals with the line c.m, and the
+							proposition is clear.
+						</td>
+						<td class="additio">
+							Sit angulus datus .c. volo ipsum dividere in tres aequales angulos quod sic facio. pono primo .c. centrum circuli describendo circulum qualitercumque
+							contingat. et protraho latera continentia datum angulum usque quo secent circumferentiam in punctis .a. et .b. tunc a puncto .c. quod est centrum circuli
+							duco lineam .c.d. perpendiculariter ad lineam .c.b. et in linea .c.d. assigno punctum .e. a quo duco lineam ad aequalitatem .c.b. usque quo sece
+							circumferentiam circuli in puncto .f. et produco .c. usque .a. deinde protraho lineam .g.h. aequidistantem .f.a. quae scilicet .g.h. transeat per centrum.
+							et duco lineam .f.g. aequidistantem lineae .e.c. et protraho lineam .c.b. incontinuum et directum usque ad .l. quae secat lineam .f.g. orthogonaliter in
+							puncto .o. et per aequalia. dico ergo quod arcus .l.g. est aequalis arcui .h.b. propter hoc. quod angulus .l.g.c. est aequalis angulo .h.c.b. cum sint
+							contra se positi. Cum igitur arcus .f.g. sit duplus arcui .l.g. erit etiam duplus arcui .h.b. sed arcus .f.g. est aequalis arcui .a.h. cum sint inter duas
+							lineas aequidistantes quae sunt .f.a. et .g.h. ergo arcus .h.a. est duplus arcui .h.b. ergo et angulus .a.c.h. est duplus angulo .h.c.b. dividam ergo
+							angulum .a.c.h. per aequalia per lineam .c.m. et patet propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;To designate an equilateral and equiangular nonagon within a given circle. Which may be done in this way, according to the
+							<span class="propositio">second</span> doctrine of <span class="liber">this</span>. I will inscribe an equilateral and equiangular triangle within the
+							assigned circle, which is a.b.c, and I will divide each one of its angles by three equal parts and extend the lines dividing the angles up until the
+							circumference, and then because the nine angles located within the circle are equal, by necessity the arcs to the angles themselves are supposed equal, so
+							I will draw out the chords subtracted from every single arc, and have the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Intra datum circulum nonangulum aequilaterum atque aequiangulum designare. quod sic fieri potest iuxta doctrinam
+							<span class="propositio">secundum</span> <span class="liber">huius</span>. inscribam circulo assignato triangulum aequialterum atque aequiangulum qui sit
+							.a.b.c. et unumquemque angulorum eius dividam per tria aequalia et protraham lineas dividentes angulos usque ad circumferentiam et tunc quia novem anguli
+							locati in circulo sunt aequales de necessitate arcus suppositi ipsis angulis sunt aequales. protraham enim cordas subtractas singulis arcubus et habebo
+							intentum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The fourth book ends, the fifth book begins.
+						</td>
+						<td>
+							Explicit liber quartus incipit liber quintus.
 						</td>
 					</tr>
 				</tbody>
