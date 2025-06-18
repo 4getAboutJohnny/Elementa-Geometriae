@@ -7804,7 +7804,7 @@
 					<tr>
 						<td>
 							Since, then, the two angles d and e in the quadrilateral h.d.e.g are right, the two angles g and h will equal two right angles because the four angles of
-							any quadrilateral are equal to four rights, as is previously demonstrated by the <span class="propositio">32nd</span> of the
+							any quadrilateral are equal to four rights, as was previously demonstrated by the <span class="propositio">32nd</span> of the
 							<span class="liber">first</span>. And because the two angles at b, within and without, are likewise equal to two rights by the
 							<span class="propositio">13th</span> of the <span class="liber">first</span>, and moreover, the extrinsically placed is equal to d.g.e, then b from without
 							will equal h. And by the same rationale c from within will equal l, and because the two angles b and c from within are less than two rights by the
@@ -7941,7 +7941,7 @@
 						<td>
 							¶&nbsp;Suppose then the proposed triangle is orthogonal and angle a is right. I divide the side b.c respecting this right angle by equals at f, and from
 							this point that I say is to be the center of the circle to the midpoint of either the remaining sides, which shall be d, I draw the line f.d. And because
-							the line f.d divides the two sides a.b and b.c of the triangle a.b.c by equals, it will be equidistant to the third, namely, the line a.c, for this is
+							the line f.d divides the two sides a.b and b.c of the triangle a.b.c by equals, it will be equidistant to the third, namely, the line a.c, for this was
 							previously demonstrated in the <span class="propositio">39th</span> of the <span class="liber">first</span>. And that angle a is presupposed right, by the
 							second part and by the third of the <span class="propositio">29th</span> of the <span class="liber">first</span>, both of the angles that are at d are
 							right. The line f.a is thus drawn and by the <span class="propositio">fourth</span> of the <span class="liber">first</span> the line a.f equals the line b.f
@@ -7964,7 +7964,7 @@
 						<td>
 							¶&nbsp;Now suppose the triangle a.b.c is amblygonal and angle a obtuse. I divide the side respecting this obtuse angle, b.c, by equals at point h, from
 							where I draw the lines h.d and h.e to the middle points of the two remaining sides, which are d and e, and d.h will be equidistant to a.c and e.h
-							equidistant to a.b according to that which is previously demonstrated in the <span class="propositio">39th</span> of the <span class="liber">first</span>,
+							equidistant to a.b according to that which was previously demonstrated in the <span class="propositio">39th</span> of the <span class="liber">first</span>,
 							namely, that a line dividing two sides of any triangle by equals is equidistant to the third, whereby through the second part of the
 							<span class="propositio">29th</span> of the <span class="liber">first</span>, each of the two angles, b.d.h and c.e.h, will equal angle a and so each is
 							obtuse, therefore, in drawing the perpendiculars d.f to the line a.b and e.f to the line e.c until they meet at point f, I say that to be the center of the
@@ -8098,7 +8098,7 @@
 							sides meet, and the convergence points of them will be f, g, h, and k. And through a corollary of the <span class="propositio">15th</span> of the
 							<span class="liber">third</span> both of the angles that are at each four of the points, a, b, c, and d, will be right, and because three angles in the
 							quadrilateral a.f.b.e, a, b and e, are right, then the fourth angle, which is f, will be right, since every quadrilateral has four angles equal to four
-							rights as is previously demonstrated by the <span class="propositio">32nd</span> of the <span class="liber">first</span>. By the same rationale each of the
+							rights as was previously demonstrated by the <span class="propositio">32nd</span> of the <span class="liber">first</span>. By the same rationale each of the
 							angles, g, h and k, will be right, therefore by the second part of the <span class="propositio">28th</span> of the <span class="liber">first</span>, the two
 							lines f.g and k.h are equidistant.
 						</td>
@@ -8513,7 +8513,7 @@
 					</tr>
 					<tr>
 						<td>
-							And since it is previously shown by the <span class="propositio">penultimate</span> of the <span class="liber">third</span> that if from any point without
+							And since it was previously shown by the <span class="propositio">penultimate</span> of the <span class="liber">third</span> that if from any point without
 							a circle two lines shall be drawn contacting that circle, because those lines will be equal, the line g.a will equal the line g.d, and h.d h.b, and so on
 							for the others.
 						</td>
@@ -9023,7 +9023,7 @@
 							enim patet in quinta et tertia primi numeri habentis quintam et tertiam qui est .15. eius enim tertia quae est .5. excedit eius quintam quae est tria in
 							duabus unitatibus quae sunt duae tertiae ipsius ternarii qui est quinta. vel duae quintae ipsius quinarii qui est tertia sive duae quintaedecimae ipsius
 							.15. qui est totum. diviso igitur arcu .b.c. per aequalia. in .d. patet utrumque duorum arcuum .c.d. et .d.b. esse tertiam arcus .a.b. vel quintam arcus
-							.a.c. sive quintamdecimam totius circumferintiae. subtensis igitur eis chordis .c.d. et .d.b coaptatisque continueae intra datum circulum sibi aequalibus
+							.a.c. sive quintamdecimam totius circumferintiae. subtensis igitur eis cordis .c.d. et .d.b coaptatisque continueae intra datum circulum sibi aequalibus
 							per primam huius complebitur figura proposita.
 						</td>
 					</tr>
@@ -9035,7 +9035,7 @@
 						</td>
 						<td>
 							¶&nbsp;Cetera vero duae quae proponit cum tertio quod dat intelligere videlicet quindecagonum circulo circumscribere ac circulum quindecagono inscribere ac
-							etiam circumscribere ex <span class="propositio">.12.13</span> et <span class="propositio">.14.</span> <span class="liber">huius</span> plenae intellectis
+							etiam circumscribere ex <span class="propositio">.12.13.</span> et <span class="propositio">.14.</span> <span class="liber">huius</span> plenae intellectis
 							facile perficies.
 						</td>
 					</tr>
@@ -9164,7 +9164,7 @@
 							¶&nbsp;Intra datum circulum nonangulum aequilaterum atque aequiangulum designare. quod sic fieri potest iuxta doctrinam
 							<span class="propositio">secundum</span> <span class="liber">huius</span>. inscribam circulo assignato triangulum aequialterum atque aequiangulum qui sit
 							.a.b.c. et unumquemque angulorum eius dividam per tria aequalia et protraham lineas dividentes angulos usque ad circumferentiam et tunc quia novem anguli
-							locati in circulo sunt aequales de necessitate arcus suppositi ipsis angulis sunt aequales. protraham enim cordas subtractas singulis arcubus et habebo
+							locati in circulo sunt aequales de necessitate arcus suppositi ipsis angulis sunt aequales. protraham enim corda subtractas singulis arcubus et habebo
 							intentum.
 						</td>
 					</tr>
