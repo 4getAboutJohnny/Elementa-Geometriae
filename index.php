@@ -11118,9 +11118,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For in all things he accepted the unknown similarly as if known and thus did not demonstrate them. He also erred in the
-							second demonstration, and in the third, and in the fifth, in each of which he argued from 8 or 10 of this , which are proven from the definition of
-							incontinuous proportionality.
+							For in all things he accepted the unknown similarly as if known and thus did not demonstrate them. He also erred in the second demonstration, and in the
+							third, and in the fifth, in each of which he argued from 8 or 10 of this, which are proven from the definition of incontinuous proportionality.
 						</td>
 						<td class="additio">
 							Accepit enim in omnibus ignota similiter tanquam nota. quare non demonstravit. peccavit etiam in secunda demonstratione et in tertia et in quinta. in
@@ -11129,9 +11128,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For he argues thus, if the proportion a.b to e is greater than g is to d, then let nb be part of ab to e, as g is to d, by which it appears he supposes
+							For he argues thus, if the proportion ab to e is greater than g is to d, then let nb be part of ab to e, as g is to d, by which it appears he supposes
 							that of the two unequal quantities related to e, ab and nb, the greater will have the greater and the lesser will have the lesser proportion to it, or
-							that the quantity to .e. that will have a lesser proportion than ab will be less than ab The first of which he demonstrates in the 8th of this, and the
+							that the quantity to e that will have a lesser proportion than ab will be less than ab The first of which he demonstrates in the 8th of this, and the
 							following 10th.
 						</td>
 						<td class="additio">
@@ -11142,9 +11141,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For when you wish to take a quantity that itself is related to e in proportion of g to d, I will give you one greater or lesser or equal to ab,
-							indifferently as I wish, but why does he not demonstrate it, or does the circle feed into itself, and the principles are to be more unknown than the
-							conclusions.
+							Thus when you want to take a quantity that is itself related to e in proportion of g to d, I will give you one greater or lesser or equal to ab,
+							indifferently as I wish, but for what reason does he not demonstrate it? Or does the circle feed into itself and the principles are to be more unknown than
+							the conclusions.
 						</td>
 						<td class="additio">
 							Nam cum vultis sumere quantitatem quae se habeat ad .e. in proportione .g. ad .d. dabo tibi maiorem aut minorem aut aequalem .a.b. indifferenter sicut
@@ -11153,11 +11152,89 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Therefore, with Euclid the principles must be supposed as known, and are not themselves from conclusions, but the conclusions must be demonstrated from
-							them.
+							Therefore, with Euclid the principles are supposed as known, and are not themselves from conclusions, but the conclusions are demonstrated from them.
 						</td>
 						<td class="additio">
 							Supponenda sunt igitur cum euclide principia tanquam nota. et non ipsa ex conclusionibus. sed conclusiones ex ipsis demonstrande sunt.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 1</h1>
+						</td>
+						<td>
+							<h1>Propositio .1.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If any quantities are equal multiples of the same number of any other, or each one is equal to each other, it is necessary for, as one of them is
+							comparable to the other, the whole from these aggregated to likewise relate similarly to all those taken equally.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quolibet quantitates aliarum totidem aequae multiplies. aut singulae singulis aequales necesse est quemadmodum una illarum ad sui comparem.
+							totum quoque ex his aggregatum ad omnes illas pariter acceptas similiter se habere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose however many quantities, which are a, b, and c, are equal multiples of the same number of any other, which are d, e, and f, and one is by
+							whatsoever means comparable to the other, or each one is equal to each other, which is to say as a is to the multiple d, so is b to the multiple e, and c
+							to the multiple f, or if a is equal to d, that b is similarly equal to e, and c equals f. I say that as a relates to d, so does the aggregated from all
+							that are a, b, and c relate to the aggregated from all that are d, e, and f.
+						</td>
+						<td>
+							¶&nbsp;Sit quotlibet quantitates. quae sint .a.b.c. aliarum totidem quae sint .d.e.f. aequae multiplices unaquamcumque ad sui comparem. aut singulae sint
+							singulis aequales. ita videlicet quod sicut .a. est multiplex .d. ita .b. est multiplex .e. et .c. multiplex .f. vel si .a. est aequalis .d. quod similiter
+							.b. sit aequale .e. et .c. aequalis .f. dico quod sicut se habet .a. ad .d. ita se habet aggregatum ex omnibus quae sunt .a.b.c. ad aggregatum ex omnibus
+							quae sunt .d.e.f.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;But if each one is equal to each other, the proposition is clear by the <span class="conceptiones">common conception</span>, that if equals are
+							added to equals, their totals shall also be equal.
+						</td>
+						<td>
+							¶&nbsp;Quod si singulae singulis sint aequales patet propositum per hanc <span class="conceptiones">communem scientiam</span>: si aequalibus aequalia
+							addantur tota quoquam erunt aequalia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But if they are all as to their comparable equal multiple, by dividing them according to the quantity of their submultiple, the aggregate from the first
+							part a, and first b, and first c, equals the aggregate from d, e, and f by the preceding common conception aided by <span class="conceptiones">this</span>,
+							which is those that are equal to the same are equal to each other.
+						</td>
+						<td>
+							Si autem sint omnes suis comparibus aequae multiplices divisis eis secundum quantitatem suarum submultiplicium: erit aggregatum ex prima parte .a. et prima
+							.b. et prima .c. aequale aggregato ex .d.e.f. per praedictam communem scientiam adiuvante <span class="conceptiones">hac</span>: quae eidem sunt aequalia
+							inter se sunt aequalia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And similarly, the aggregated from the second part of the quantities a, b, and c, will equal the aggregated from d, e, and f, and so on for the
+							rest, and because this may be done as often as d is contained in a, it will be that the equal aggregated from d, e, and f will be contained in the
+							aggregated from a, b, and c just as many times as d is contained in a, and so because whenever d enumerates a then just so many times shall the aggregated
+							from d, e and, f enumerate the aggregated from a, b, and c, it is clear that just as a is a multiple of d, so is the aggregated from a, b, and c to the
+							aggregated from d, e, and f, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Similiter quoque aggregatum ex secundis partibus quantitatum .a.b.c. erit aequale aggregato ex .d.e.f. sicque de ceteris: et quia hoc poterit
+							totiens fieri quotiens .d. continetur in .a. erit ut aequale aggregatum ex .d.e.f. totiens contineatur in aggregato ex .a.b.c. quotiens .d. continetur in
+							.a.
+							quia ergo quotiens .d. numerat .a. totiens aggregatum ex .d.e.f numerat aggregatum ex .a.b.c. patet quod sicut .a. est multiplex ad .d. ita aggregatum ex
+							.a.b.c. aggregati ex .d.e.f. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
