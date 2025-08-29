@@ -11232,9 +11232,76 @@
 						<td>
 							¶&nbsp;Similiter quoque aggregatum ex secundis partibus quantitatum .a.b.c. erit aequale aggregato ex .d.e.f. sicque de ceteris: et quia hoc poterit
 							totiens fieri quotiens .d. continetur in .a. erit ut aequale aggregatum ex .d.e.f. totiens contineatur in aggregato ex .a.b.c. quotiens .d. continetur in
-							.a.
-							quia ergo quotiens .d. numerat .a. totiens aggregatum ex .d.e.f numerat aggregatum ex .a.b.c. patet quod sicut .a. est multiplex ad .d. ita aggregatum ex
-							.a.b.c. aggregati ex .d.e.f. quod est propositum.
+							.a. quia ergo quotiens .d. numerat .a. totiens aggregatum ex .d.e.f numerat aggregatum ex .a.b.c. patet quod sicut .a. est multiplex ad .d. ita aggregatum
+							ex .a.b.c. aggregati ex .d.e.f. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 2</h1>
+						</td>
+						<td>
+							<h1>Propositio .2.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there are six quantities, of which the first to second and third to fourth are equal multiples, and the fifth to second and sixth to fourth
+							are equal multiples, the total of the first and fifth to the second, and the total of the third and sixth to the fourth, will agree to be equal
+							multiples.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint sex quantitates. quarum prima ad secundam atque tertia ad quartam aequae multiplices. quinta vero ad secundam atque sexta ad quartam aequae
+							multiplices: totum primae et quintae ad secundam. totumque tertiae et sextae ad quartam aequae multiplicia esse conveniet.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose there are six quantities, the first a, second b, third c, fourth d, fifth e, and sixth f.
+						</td>
+						<td>
+							¶&nbsp;Sint sex quantitates .a. prima .b. secunda .c. tertia .d. quarta .e. quinta .f. sexta.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And suppose a and c are equal multiples to b and d, and likewise e and f are equal multiples to the same. I say that as the total aggregated from a and e
+							is a multiple to the quantity b, so is the total aggregated from c and f a multiple to the quantity d.
+						</td>
+						<td>
+							Sintque .a. et .c. aequae multiplices ad .b. et .d. itemque .e. et .f. sint aequae multiplices ad easdem dico quod sicut totum aggregatum ex .a. et .e. est
+							multiplex ad quantitatem .b. ita totum aggregatum ex .c. et .f. est multiplex ad quantitatem .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For that the number according to which b is contained in a is equal to the number according to which d is contained in c.
+						</td>
+						<td>
+							Nam quia numerus secundum quem .b. continetur in .a. est aequalis numero . secundum quem .d. continetur in .c.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly, the number according to which b is contained in e is equal to the number according to which d is contained in f, so it will be by the
+							<span class="conceptiones">common conception</span>, which is if equals are added to equals and so forth, the number according to which b is contained in
+							the aggregate from a and e equals the number according to which d is contained in the aggregated from c and f, wherefore just as that aggregated from a and
+							e is a multiple to b, so is that aggregated from c and f a multiple to d, which is the intention.
+						</td>
+						<td>
+							Similiter quoque numerus secundum quem .b. continetur in .e. est aequalis numero secundum quem .d. continetur in .f. erit per
+							<span class="conceptiones">communem scientiam</span> quae est: si aequalibus aequalia addantur et cetera. numerus secundum quem .b. continetur in aggregato
+							ex .a. et .e. aequalis numero secundum quem .d. continetur in aggregato ex .c. et .f. quare sicut aggregatum ex .a. et .e. est multiplex ad .b. ita
+							aggregatum ex .c. et .f. est multiplex ad .d. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
