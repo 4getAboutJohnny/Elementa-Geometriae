@@ -11305,6 +11305,152 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 3</h1>
+						</td>
+						<td>
+							<h1>Propositio .3.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the first to second and third to fourth are equal multiples, and equal multiples to the first and to the third are taken, the multiple of the first to
+							the second and the multiple of the third to the fourth will be equal multiples.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint primum secundi et tertium quarti aequae multiplicia: ad primum vero et tertium multiplices sumantur aequales erunt: multiplex primi ad
+							secundum atque multiplex tertii ad quartum aequae multiplicia.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose there are six quantities, the first a, second b, third c, fourth d, fifth e, and sixth f.
+						</td>
+						<td>
+							¶&nbsp;Sit sex quantitates .a. prima .b. secunda .c. tertia .d. quarta .e. quinta .f. sexta.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And suppose a to b and c to d, and likewise e to a and f to c, are equal multiples. I say that e is a multiple to b, just as f is to d, for e is divided
+							following the quantity of the multiple a, and f following the quantity of c, and it will be according to the equality of parts e to a and of parts f to c
+							that any part of e is as a multiple to b just as any part of f is to d.
+						</td>
+						<td>
+							Sitque .a. ad .b. et .c. ad .d. itemque .e. ad .a. et .f. ad .c. aequae multiplices. dico quod sicut .e. est multiplex ad .b. ita .f. ad .d. dividatur enim
+							.e. secundum quantitatem .a. sui multiplicis. et .f. secundum qunatitatem .c. eritque propter aequalitatem partium .e. ad .a. et partium .f. ad .c. ut
+							quaelibet partium .e. sit ita multiplex ad .b. sicut quaelibet partium .f. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, because just as the first part of e is a multiple to b as the first part of f is a multiple to d.
+						</td>
+						<td>
+							Quia ergo sicut prima pars .e. est multiplex ad .b. ita prima pars .f. est multiplex ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+						Likewise, as the second part of e is a multiple to b, so is the second of f to d, and so through the preceding, the aggregated from the first two parts of e
+						is such a multiple to b as the aggregated from the first two parts of f is to d, and that again, the third part of e, if there is some third part, is such a
+						multiple to b as the third of f is to d, it will be through the same that the total aggregated from the three first parts of e is such a multiple to b as the
+						total aggregated from the first three parts of f is to d.
+						</td>
+						<td>
+						Itemque sicut secunda pars .e. est multiplex ad .b. ita secunda .f. ad .d. ergo erit per praemissam aggregatum ex duabus primis partibus .e. ita multiplex ad
+						.b. sicut aggregatum ex duabus primis partibus .f. ad .d. et quia rursus tertia pars .e. si sit aliqui tertia pars est ita multiplex. ad .b. sicut tertia .f.
+						ad .d. erit per eandem ut totum aggregatum ex tribus primis partibus .e. sit ita multiplex ad .b. sicut totum aggregatum ex tribus primis partibus .f. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And suppose if there are even more parts of e and f wherein the following is always composed with the aggregated from the prior, concluding that
+							like e is a multiple to b such as f is to d, by the preceding taken so many times there will be as many parts in e or in f, minus one, and the intention is
+							clear.
+						</td>
+						<td>
+							¶&nbsp;Sitque si plures fuerint partes .e. et .f. componendo semper sequentem cum aggregato ex prioribus concludens quod sicut .e. est multiplex ad .b. ita
+							.f. ad .d. per praemissam totiens sumptam: quot fuerint partes in .e. aut in .f. minus una: sicque patet propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 4</h1>
+						</td>
+						<td>
+							<h1>Propositio .4.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportion of the first to second will be as third is to fourth, and equal multiples are assigned to the first and to the third, and likewise
+							equal multiples to the second and to the fourth, the multiples assigned will be proportional in the same order.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit proportio primi ad secundum sicut tertii ad quartum: ad primum autem et tertium aequae multiplicia assignentur. Itemque ad secundum et
+							quartum multiplices aequales erunt assignatae multiplices eodem ordine proportionales.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose a the first to b the second is as c the third is to d the fourth.
+						</td>
+						<td>
+							¶&nbsp;Sit proportio .a. primi ad .b. secundum. sicut .c. tertii ad .d. quartum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And equal multiples are taken, e to a and f to c.
+						</td>
+						<td>
+							Sumanturque .e. ad .a. et .f. ad .c. aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise the equal multiples g to b and h to d. I say that the proportion of e to g is as f is to h.
+						</td>
+						<td>
+							Itemque .g. ad .b. et .h. ad .d. aequae multiplicia: dico quod proportio .e. ad .g. est sicut .f. ad .h.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I will take the equal multiples, k to e and l to f, and further the equal multiples m to g and n to h, and because e and f are equal multiples to a and c
+							and k and l are likewise equal multiples to e and f, through the preceding k and l will be equal multiples to a and c, and through the same, m and n will
+							be equal multiples to b and d, wherefore through a conversion of the definition of incontinuous proportionalities, k to m and l to n will behave similarly
+							in addition, diminishment, and in equality, therefore, because k and l are equal multiples to e and f, and m and n are likewise equal multiples to g and h,
+							through the definition of incontinuous proportionalities the proportion of e to g will be as f is to h, which is the intention.
+						</td>
+						<td>
+							Sumam .k. ad .e. et .l. ad f. aequae multiplicia. itemque .m. ad .g. et .n. ad .h. aequae multiplicia: et quia .e. et .f. sunt aequae multiplicia ad .a. et
+							.c. itemque .k. et .l. aequae multiplicia ad .e. et .f. erunt per praemissam .k. et .l. aequae multiplicia ad .a. et .c. per eandem quoque erunt .m. et .n.
+							aequae multiplicia ad .b. et .d. quare per conversionem diffinitionis incontinuae proportionalitatis .k. ad .m. et .l. ad .n. similiter se habebunt in
+							addendo diminuendo et aequando: quia ergo .k. et .l. sunt aequae multiplicia ad .e. et .f. itemque .m. et .n. aequae multiplicia ad .g. et .h. erit per
+							diffinitionem incontinuae proportionalitiatis proporito .e. ad .g. sicut .f. ad .h. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
