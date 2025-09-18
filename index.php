@@ -11451,6 +11451,70 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 5</h1>
+						</td>
+						<td>
+							<h1>Propositio .5.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there are two quantities of which one is part of the other and a part is diminished from each of them, the remaining will be an equal multiple to
+							the remaining as the total is to the total.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint duae quantitates quarum una sit pars alterius minuaturque ab utraque ipsarum ipsa pars erit reliquum reliquo atque totum toti aequae
+							multiplex.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+				<tr>
+					<td>
+						¶&nbsp;Or, if a total part is any quota of remaining to remaining, thus will be the quota of the total to the total.
+					</td>
+					<td>
+						¶&nbsp;Vel sic si aliquota erit reliquum reliqui tota pars quota totum totius.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Suppose the quantity a.b is a total part of the quantity c.d, the quota e.b is of a.b, and a.b if is diminished from the quantity c.d and f.c is residuary,
+						f.d will equal a.b.
+					</td>
+					<td>
+						Sit quantitas .a.b. tota pars quantitatis .c.d. quota .e.b. ipsius .a.b. minuaturque .a.b. ex quantitate .c.d. et sit residuum .f.c. eritque .f.d. aequalis
+						.a.b.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						And similarly if e.b is diminished from the quantity a.b and e.a is residuary, I say the part that is the quantity a.b of the quantity c.d is a quota from the
+						total that is the quantity a.e of the quantity c.f, for since f.d is equal to a.b, f.d will thus be a multiple to e.b as c.d is a multiple to a.b, and I will
+						place d.g as a multiple to a.e as f.d is a multiple to e.b, and from the first of this, the quantity f.g is thus a multiple to a.b as f.d is a multiple to e.b,
+						and because c.d was thus a multiple of a.b as f.d was a multiple of e.b, both of the two quantities, c.d and f.g, will be equal multiples of the quantity a.b,
+						wherefore through common conceptions, c.d and f.g are mutually equal. Thus, removing from each of them the quantity f.d, c.f will equal d.g, and because d.g
+						was thus a multiple to a.e as f.d to e.b, and therefore as a.b to e.b, and therefore as c.d to a.b, c.f will thus be a multiple to a.e as the total c.d is to
+						the total a.b, which is the intention.
+					</td>
+					<td>
+						Similiter quoque minuatur .e.b ex quantitate .a.b. sitque residuum .e.a. dico quod quota pars est quantitas .a.b. quantitatis .c.d. tota est quantitas .a.e.
+						quantitatis .c.f. cum enim .f.d. sit aequalis .a.b. erit .f.d. ita multiplex .e.b. sicut .c.d. est multiplex .a.b. ponam itaque .d.g. ita multiplicem .a.e.
+						sicut .f.d. est multiplex .e.b. eritque ex prima huius quantitas .f.g. ita multiplex .a.b. sicut .f.d. est multiplex .e.b. et quia sic fuit .c.d. multiplex
+						.a.b. sicut .f.d. fuit multiplex .e.b erit utraque duarum quantitatum .c.d.f.g. aequae multiplex quantitatis .a.b. quare per communem scientiam .c.d. et f.g.
+						sunt aequales adinvicem: dempta igitur ab utraque earum quantitate .f.d. erit .c.f. aequalis .d.g. et quia .d.g. fuit ita multiplex .a.e. sicut .f.d.e.b. et
+						ideo sicut .a.b.e.b. quare et sicut .c.d.a.b. erit .c.f. ita multiplex .a.e. sicut tota .c.d. totius .a.b. quod est propositum.
+					</td>
+				</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
