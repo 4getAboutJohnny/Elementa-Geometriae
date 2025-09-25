@@ -5681,7 +5681,7 @@
 					</tr>
 					<tr>
 						<td>
-							¶&nbsp;And the same in turn:
+							¶&nbsp;And by the same turn:
 						</td>
 						<td>
 							¶&nbsp;Aliter idem.
@@ -11212,13 +11212,13 @@
 					<tr>
 						<td>
 							But if they are all as to their comparable equal multiple, by dividing them according to the quantity of their submultiple, the aggregate from the first
-							part a, and first b, and first c, equals the aggregate from d, e, and f by the preceding common conception aided by <span class="conceptiones">this</span>,
-							which is those that are equal to the same are equal to each other.
+							part a, and first b, and first c, equals the aggregate from d, e, and f by the preceding <span class="conceptiones">common conception</span> aided by
+							<span class="conceptiones">this</span>, which is those that are equal to the same are equal to each other.
 						</td>
 						<td>
 							Si autem sint omnes suis comparibus aequae multiplices divisis eis secundum quantitatem suarum submultiplicium: erit aggregatum ex prima parte .a. et prima
-							.b. et prima .c. aequale aggregato ex .d.e.f. per praedictam communem scientiam adiuvante <span class="conceptiones">hac</span>: quae eidem sunt aequalia
-							inter se sunt aequalia.
+							.b. et prima .c. aequale aggregato ex .d.e.f. per praedictam <span class="conceptiones">communem scientiam</span> adiuvante
+							<span class="conceptiones">hac</span>: quae eidem sunt aequalia inter se sunt aequalia.
 						</td>
 					</tr>
 					<tr>
@@ -11361,15 +11361,16 @@
 					</tr>
 					<tr>
 						<td>
-						Likewise, as the second part of e is a multiple to b, so is the second of f to d, and so through the preceding, the aggregated from the first two parts of e
-						is such a multiple to b as the aggregated from the first two parts of f is to d, and that again, the third part of e, if there is some third part, is such a
-						multiple to b as the third of f is to d, it will be through the same that the total aggregated from the three first parts of e is such a multiple to b as the
-						total aggregated from the first three parts of f is to d.
+						Likewise, as the second part of e is a multiple to b, so is the second of f to d, and so through the <span class="propositio">preceding</span>, the aggregated
+						from the first two parts of e is such a multiple to b as the aggregated from the first two parts of f is to d, and that again, the third part of e, if there is
+						some third part, is such a multiple to b as the third of f is to d, it will be through the <span class="propositio">same</span> that the total aggregated from
+						the three first parts of e is such a multiple to b as the total aggregated from the first three parts of f is to d.
 						</td>
 						<td>
-						Itemque sicut secunda pars .e. est multiplex ad .b. ita secunda .f. ad .d. ergo erit per praemissam aggregatum ex duabus primis partibus .e. ita multiplex ad
-						.b. sicut aggregatum ex duabus primis partibus .f. ad .d. et quia rursus tertia pars .e. si sit aliqui tertia pars est ita multiplex. ad .b. sicut tertia .f.
-						ad .d. erit per eandem ut totum aggregatum ex tribus primis partibus .e. sit ita multiplex ad .b. sicut totum aggregatum ex tribus primis partibus .f. ad .d.
+						Itemque sicut secunda pars .e. est multiplex ad .b. ita secunda .f. ad .d. ergo erit per <span class="propositio">praemissam</span> aggregatum ex duabus
+						primis partibus .e. ita multiplex ad .b. sicut aggregatum ex duabus primis partibus .f. ad .d. et quia rursus tertia pars .e. si sit aliqui tertia pars est
+						ita multiplex. ad .b. sicut tertia .f. ad .d. erit per <span class="propositio">eandem</span> ut totum aggregatum ex tribus primis partibus .e. sit ita
+						multiplex ad .b. sicut totum aggregatum ex tribus primis partibus .f. ad .d.
 						</td>
 					</tr>
 					<tr>
@@ -11437,17 +11438,19 @@
 					<tr>
 						<td>
 							I will take the equal multiples, k to e and l to f, and further the equal multiples m to g and n to h, and because e and f are equal multiples to a and c
-							and k and l are likewise equal multiples to e and f, through the preceding k and l will be equal multiples to a and c, and through the same, m and n will
-							be equal multiples to b and d, wherefore through a conversion of the definition of incontinuous proportionalities, k to m and l to n will behave similarly
-							in addition, diminishment, and in equality, therefore, because k and l are equal multiples to e and f, and m and n are likewise equal multiples to g and h,
-							through the definition of incontinuous proportionalities the proportion of e to g will be as f is to h, which is the intention.
+							and k and l are likewise equal multiples to e and f, through the <span class="propositio">preceding</span> k and l will be equal multiples to a and c, and
+							through the <span class="propositio">same</span>, m and n will be equal multiples to b and d, wherefore through a conversion of the definition of
+							incontinuous proportionalities, k to m and l to n will behave similarly in addition, diminishment, and in equality, therefore, because k and l are equal
+							multiples to e and f, and m and n are likewise equal multiples to g and h, through the definition of incontinuous proportionalities the proportion of e to g
+							will be as f is to h, which is the intention.
 						</td>
 						<td>
 							Sumam .k. ad .e. et .l. ad f. aequae multiplicia. itemque .m. ad .g. et .n. ad .h. aequae multiplicia: et quia .e. et .f. sunt aequae multiplicia ad .a. et
-							.c. itemque .k. et .l. aequae multiplicia ad .e. et .f. erunt per praemissam .k. et .l. aequae multiplicia ad .a. et .c. per eandem quoque erunt .m. et .n.
-							aequae multiplicia ad .b. et .d. quare per conversionem diffinitionis incontinuae proportionalitatis .k. ad .m. et .l. ad .n. similiter se habebunt in
-							addendo diminuendo et aequando: quia ergo .k. et .l. sunt aequae multiplicia ad .e. et .f. itemque .m. et .n. aequae multiplicia ad .g. et .h. erit per
-							diffinitionem incontinuae proportionalitiatis proporito .e. ad .g. sicut .f. ad .h. quod est propositum.
+							.c. itemque .k. et .l. aequae multiplicia ad .e. et .f. erunt per <span class="propositio">praemissam</span> .k. et .l. aequae multiplicia ad .a. et .c. per
+							<span class="propositio">eandem</span> quoque erunt .m. et .n. aequae multiplicia ad .b. et .d. quare per conversionem diffinitionis incontinuae
+							proportionalitatis .k. ad .m. et .l. ad .n. similiter se habebunt in addendo diminuendo et aequando: quia ergo .k. et .l. sunt aequae multiplicia ad .e. et
+							.f. itemque .m. et .n. aequae multiplicia ad .g. et .h. erit per diffinitionem incontinuae proportionalitiatis proporito .e. ad .g. sicut .f. ad .h. quod
+							est propositum.
 						</td>
 					</tr>
 				</tbody>
@@ -11499,19 +11502,112 @@
 					<td>
 						And similarly if e.b is diminished from the quantity a.b and e.a is residuary, I say the part that is the quantity a.b of the quantity c.d is a quota from the
 						total that is the quantity a.e of the quantity c.f, for since f.d is equal to a.b, f.d will thus be a multiple to e.b as c.d is a multiple to a.b, and I will
-						place d.g as a multiple to a.e as f.d is a multiple to e.b, and from the first of this, the quantity f.g is thus a multiple to a.b as f.d is a multiple to e.b,
-						and because c.d was thus a multiple of a.b as f.d was a multiple of e.b, both of the two quantities, c.d and f.g, will be equal multiples of the quantity a.b,
-						wherefore through common conceptions, c.d and f.g are mutually equal. Thus, removing from each of them the quantity f.d, c.f will equal d.g, and because d.g
-						was thus a multiple to a.e as f.d to e.b, and therefore as a.b to e.b, and therefore as c.d to a.b, c.f will thus be a multiple to a.e as the total c.d is to
-						the total a.b, which is the intention.
+						place d.g as a multiple to a.e as f.d is a multiple to e.b, and from the <span class="propositio">first</span> of <span class="liber">this</span>, the quantity
+						f.g is thus a multiple to a.b as f.d is a multiple to e.b, and because c.d was thus a multiple of a.b as f.d was a multiple of e.b, both of the two
+						quantities, c.d and f.g, will be equal multiples of the quantity a.b, wherefore through the <span class="conceptiones">common conception</span>, c.d and f.g
+						are mutually equal. Thus, removing from each of them the quantity f.d, c.f will equal d.g, and because d.g was thus a multiple to a.e as f.d to e.b, and
+						therefore as a.b to e.b, and therefore as c.d to a.b, c.f will thus be a multiple to a.e as the total c.d is to the total a.b, which is the intention.
 					</td>
 					<td>
 						Similiter quoque minuatur .e.b ex quantitate .a.b. sitque residuum .e.a. dico quod quota pars est quantitas .a.b. quantitatis .c.d. tota est quantitas .a.e.
 						quantitatis .c.f. cum enim .f.d. sit aequalis .a.b. erit .f.d. ita multiplex .e.b. sicut .c.d. est multiplex .a.b. ponam itaque .d.g. ita multiplicem .a.e.
-						sicut .f.d. est multiplex .e.b. eritque ex prima huius quantitas .f.g. ita multiplex .a.b. sicut .f.d. est multiplex .e.b. et quia sic fuit .c.d. multiplex
-						.a.b. sicut .f.d. fuit multiplex .e.b erit utraque duarum quantitatum .c.d.f.g. aequae multiplex quantitatis .a.b. quare per communem scientiam .c.d. et f.g.
-						sunt aequales adinvicem: dempta igitur ab utraque earum quantitate .f.d. erit .c.f. aequalis .d.g. et quia .d.g. fuit ita multiplex .a.e. sicut .f.d.e.b. et
-						ideo sicut .a.b.e.b. quare et sicut .c.d.a.b. erit .c.f. ita multiplex .a.e. sicut tota .c.d. totius .a.b. quod est propositum.
+						sicut .f.d. est multiplex .e.b. eritque ex <span class="propositio">prima</span> <span class="liber">huius</span> quantitas .f.g. ita multiplex .a.b. sicut
+						.f.d. est multiplex .e.b. et quia sic fuit .c.d. multiplex .a.b. sicut .f.d. fuit multiplex .e.b erit utraque duarum quantitatum .c.d.f.g. aequae multiplex
+						quantitatis .a.b. quare per <span class="conceptiones">communem scientiam</span> .c.d. et f.g. sunt aequales adinvicem: dempta igitur ab utraque earum
+						quantitate .f.d. erit .c.f. aequalis .d.g. et quia .d.g. fuit ita multiplex .a.e. sicut .f.d.e.b. et ideo sicut .a.b.e.b. quare et sicut .c.d.a.b. erit .c.f.
+						ita multiplex .a.e. sicut tota .c.d. totius .a.b. quod est propositum.
+					</td>
+				</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 6</h1>
+						</td>
+						<td>
+							<h1>Propositio .6.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two quantities are equal multiples to two others and the two lesser are subtracted from the two greater, each from its own multiple, then the two
+							remaining will be equal multiples of the same parts, or equal to them.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint duae quantitates ad alias duas aequae multiplices. duaeque minores duabus maioribus utraque a sua multiplice subtrahantur. erunt duo reliqua
+							earundem partium aequae multiplicia. aut eis aequalia.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+				<tr>
+					<td>
+						¶&nbsp;Suppose the quantities a.b to c and d.e to f are equal multiples, and c is subtracted from a.b and f from d.e, and the residual from a.b is a.g, and
+						from d.e, d.h, and g.b will equal c and h.e will equal f. I say that the two residuary, a.g and d.h, are equal to the two quantities c and f, or they are
+						equal multiples to them.
+					</td>
+					<td>
+						¶&nbsp;Sint quantitates .a.b. ad .c. et .d.e. ad .f. aequae multiplices: subtrahanturque .c. ex .a.b et .f. ex .d.e. et sint residua: ex .a.b. quidem .a.g. ex
+						.d.e.d.h. eritque .g.b. aequalis .c. et .h.e. aequalis .f. dico quod duo residua .a.g. et .d.h. erunt aequalia duabus quantitatibus .c. et .f. aut eis aequae
+						multiplicia.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						First suppose then a.g is equal to c, I say that d.h is equal to f.
+					</td>
+					<td>
+						Sit ergo primo .a.g. aequalis .c. dico quod .d.h. est aequalis .f.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						For I will place the quantity e.k equal to f and by the <span class="propositio">preceding</span> hypothesis, as many times as f is in h.k, then just so often
+						is c in a.b, wherefore as a.b is a multiple of c, thus h.k is a multiple of f, and so it also follows that d.e will be a multiple of the same f, therefore,
+						through the <span class="conceptiones">common conception</span> h.k will equal d.e, and by removing the common quantity of them, h.e, d.h will equal e.k
+						whereby it is equal to f, which is the intention.
+					</td>
+					<td>
+						Sumam enim quantitatem .e.k. aequalem .f. eritque per <span class="propositio">praemissas</span> ypotheses ut totiens .f. sit in .h.k. quotiens .c. in .a.b.
+						quare sicut .a.b. est multiplex .c. ita .h.k. est multiplex .f. sed sic erat etiam .d.e. erat multiplex eiusdem .f. erit igitur per
+						<span class="conceptiones">communem scientiam</span> .h.k. aequalis .d.e. dempta igitur communi earum quantitate .h.e. erit .d.h. aequalis .e.k. quare
+						aequalis .f. quod est propositum.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						¶&nbsp;However, if a.g is a multiple of c, I will place e.k as an equal multiple of f and it will be as before that as many times as f is in h.k, then just so
+						often is c in a.b.
+					</td>
+					<td>
+						¶&nbsp;Si autem .a.g. sit multiplex .c. ponam ut .e.k. sit aequae multiplex .f. eritque ut prius ut totiens .f. sit in .h.k. quotiens .c. in .a.b.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						But just as often will it also be in d.e, and so as before, d.e will equal h.k and d.h, e.k, wherefore as a.g is a multiple of c, thus is d.h a multiple of f,
+						which is the intention.
+					</td>
+					<td>
+						Sed totiens erat etiam in .d.e. erit igitur ut prius .d.e. aequalis .h.k. et .d.h.e.k. quare sicut .a.g. est multiplex .c. ita .d.h. est multiplex .f. quod
+						est propositum.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						By the same turn, when the quantity a.b contains quantity c according to the same number to which quantity d.e contains quantity f, and by removing the unit
+						from it, there remains a unit or number whereby a.g contains c according to which d.h contains f, then it is clear quantities a.g and d.g are either to be
+						equal or equal multiples to quantities c and f.
+					</td>
+					<td>
+						Aliter idem cum secundum eundem numerum contineat quantitas .a.b. quantitatem .c. secundum quem quantitas .d.e. quantitatem .f. demptaque ab eo unitate
+						remaneat unitas vel numerus secundum quem .a.g. continet .c. et secundum quem .d.h. continet .f. patet quantitates .a.g. et .d.h. esse aequales aut aequae
+						multiplices quantitatibus .c. et .f.
 					</td>
 				</tr>
 				</tbody>
