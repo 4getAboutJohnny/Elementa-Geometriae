@@ -11611,6 +11611,99 @@
 					</td>
 				</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 7</h1>
+						</td>
+						<td>
+							<h1>Propositio .7.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two equal quantities are compared to any one, the proportion of them to that will be one, and likewise the proportion of that to them is one.</h3>
+						</td>
+						<td>
+							<h3>Si duae quantitates aequales ad quamlibet comparentur earum ad illam erit una proportio. itemque ad illas proportio illus una est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+				<tr>
+					<td>
+						¶&nbsp;Suppose the two quantities a and b are equal, which are compared to any third, such as to c. I say that the proportion of a to c and b to c is the
+						same, and likewise, c to a and c to b is the same.
+					</td>
+					<td>
+						¶&nbsp;Sint duae quantitates .a.b. aequales. quae comparentur ad quamlibet tertiam ut ad .c. dico quod eadem est proportio .a. ad .c. et .b. ad .c. itemque
+						eadem .c. ad .a. et .c. ad .b.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						The first is proved as follows, for since c is consequent to a the first and to b the third, it will be in relation to the second and fourth.
+					</td>
+					<td>
+						Primum sic probatur: cum enim .c. sit consequens ad .a. primam et ad .b. tertiam ipsa erit in ratione secundae et quartae.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Therefore, I will take equal multiples, d to a the first and e to b the third, and I will take f as howsoevermuch from the multiples of c, which is second and
+						fourth, and because a and b, of which d and e are equal multiples, are posited equal, it will be as if d is divided according to the quantity a and e
+						according to the quantity b that the parts in both are equal in number and in quantity: in some number by hypothesis, on account of the equality of the
+						multiplication in either, and in quantity by this <span class="conceptiones">common conception</span>, repeated as much as shall be necessary, that those
+						which are equal to the same are mutually equal to each other, thus, because the first from part d is equal to the first from part e, and the second to the
+						second, and the rest to the rest.
+					</td>
+					<td>
+						Sumam igitur .d. ad .a. primam: et .e. ad .b. tertiam aequae multiplices: et sumam .f. quamlibet ex multiplicibus .c. quae est secunda et quarta: et quia .a.
+						et .b. quarum sunt aequae multiplices .d. et .e. posite sunt aequales erit: ut si .d. dividatur secundum quantitatem .a. et .e. secundum quantitatem .b. quod
+						partes utrobique sint numero et quantitate aequales: numero quidam per ypothesim propter aequalitatem multiplicationis utrobique: quantitate autem per hanc
+						<span class="conceptiones">communem scientiam</span> quotiens oportuerit repetitam: quae eidem sunt aequalia sibiinvecem sunt aequalia: quia igitur prima ex
+						partibus .d. est aequalis primae ex partibus .e. et secunda: secundae: et ceterae ceteris.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						And there are as many parts in d as there are in e, so by the first of this, d will equal e. Wherefore by the <span class="conceptiones">common notion</span>,
+						if two equal quantities are compared to another third, either both quantities d and e are similarly greater than f, or similarly less than, or mutually equal,
+						and so from the definition of incontinuous proportionalities, that which is the proportion of a the first to b the second is the same of b the third to c the
+						fourth, which is the intention.
+					</td>
+					<td>
+						Suntque tot partes in .d. quot sunt in .e. erit per primam huius .d. aequalis .e. quare per <span class="conceptiones">communem scientiam</span>: si duae
+						quantitates aequales comparentur ad aliam tertiam: aut ambae quantitates .d. et .e: sunt similiter maiores .f. aut similiter minores: aut sibi aequales:
+						igitur ex diffinitione incontinuae proportionalitatis: quae est proportio .a. primae ad .c. secundam: eadem est .b. tertiae ad .c. quartam quod est propositum.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						¶&nbsp;Following the same method you will prove it in converse order, so c is placed first and third but a is second and b is fourth. 
+					</td>
+					<td>
+						¶&nbsp;Secundum eadem modo probabis ordine converso: ut .c. ponatur prima et tertia .a. vero secunda .b. quarta.
+					</td>
+				</tr>
+				<tr>
+					<td>
+						And since the quantity f, which is an equal multiple to the first and third, is either similarly greater than the quantities d and e, which are equal multiples
+						to the second and fourth, or similarly less than, or is equal to them, it will be by the same definition that the proportion of c the first to a the second is
+						as c the third is to b the fourth, which is the second intention.
+					</td>
+					<td>
+						Cum vero quantitas .f. quae est aequae multiplex primae et tertiae sit aut similiter maior quantitatibus .d. et .e. quae sunt aequae multiplices secundae et
+						quartae: aut similiter minor aut eis aequalis: erit per eandem diffinitionem proportio .c. primae ad .a. secundam: sicut .c. tertiae ad .b. quartam quod est
+						propositum secundum.
+					</td>
+				</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
