@@ -11480,44 +11480,45 @@
 					</tr>
 				</tbody>
 				<tbody>
-				<tr>
-					<td>
-						¶&nbsp;Or, if a total part is any quota of remaining to remaining, thus will be the quota of the total to the total.
-					</td>
-					<td>
-						¶&nbsp;Vel sic si aliquota erit reliquum reliqui tota pars quota totum totius.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						Suppose the quantity a.b is a total part of the quantity c.d, the quota e.b is of a.b, and a.b if is diminished from the quantity c.d and f.c is residuary,
-						f.d will equal a.b.
-					</td>
-					<td>
-						Sit quantitas .a.b. tota pars quantitatis .c.d. quota .e.b. ipsius .a.b. minuaturque .a.b. ex quantitate .c.d. et sit residuum .f.c. eritque .f.d. aequalis
-						.a.b.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						And similarly if e.b is diminished from the quantity a.b and e.a is residuary, I say the part that is the quantity a.b of the quantity c.d is a quota from the
-						total that is the quantity a.e of the quantity c.f, for since f.d is equal to a.b, f.d will thus be a multiple to e.b as c.d is a multiple to a.b, and I will
-						place d.g as a multiple to a.e as f.d is a multiple to e.b, and from the <span class="propositio">first</span> of <span class="liber">this</span>, the quantity
-						f.g is thus a multiple to a.b as f.d is a multiple to e.b, and because c.d was thus a multiple of a.b as f.d was a multiple of e.b, both of the two
-						quantities, c.d and f.g, will be equal multiples of the quantity a.b, wherefore through the <span class="conceptiones">common conception</span>, c.d and f.g
-						are mutually equal. Thus, removing from each of them the quantity f.d, c.f will equal d.g, and because d.g was thus a multiple to a.e as f.d to e.b, and
-						therefore as a.b to e.b, and therefore as c.d to a.b, c.f will thus be a multiple to a.e as the total c.d is to the total a.b, which is the intention.
-					</td>
-					<td>
-						Similiter quoque minuatur .e.b ex quantitate .a.b. sitque residuum .e.a. dico quod quota pars est quantitas .a.b. quantitatis .c.d. tota est quantitas .a.e.
-						quantitatis .c.f. cum enim .f.d. sit aequalis .a.b. erit .f.d. ita multiplex .e.b. sicut .c.d. est multiplex .a.b. ponam itaque .d.g. ita multiplicem .a.e.
-						sicut .f.d. est multiplex .e.b. eritque ex <span class="propositio">prima</span> <span class="liber">huius</span> quantitas .f.g. ita multiplex .a.b. sicut
-						.f.d. est multiplex .e.b. et quia sic fuit .c.d. multiplex .a.b. sicut .f.d. fuit multiplex .e.b erit utraque duarum quantitatum .c.d.f.g. aequae multiplex
-						quantitatis .a.b. quare per <span class="conceptiones">communem scientiam</span> .c.d. et f.g. sunt aequales adinvicem: dempta igitur ab utraque earum
-						quantitate .f.d. erit .c.f. aequalis .d.g. et quia .d.g. fuit ita multiplex .a.e. sicut .f.d.e.b. et ideo sicut .a.b.e.b. quare et sicut .c.d.a.b. erit .c.f.
-						ita multiplex .a.e. sicut tota .c.d. totius .a.b. quod est propositum.
-					</td>
-				</tr>
+					<tr>
+						<td>
+							¶&nbsp;Or, if a total part is any quota of remaining to remaining, thus will be the quota of the total to the total.
+						</td>
+						<td>
+							¶&nbsp;Vel sic si aliquota erit reliquum reliqui tota pars quota totum totius.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Suppose the quantity a.b is a total part of the quantity c.d, the quota e.b is of a.b, and a.b if is diminished from the quantity c.d and f.c is residuary,
+							f.d will equal a.b.
+						</td>
+						<td>
+							Sit quantitas .a.b. tota pars quantitatis .c.d. quota .e.b. ipsius .a.b. minuaturque .a.b. ex quantitate .c.d. et sit residuum .f.c. eritque .f.d. aequalis
+							.a.b.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly if e.b is diminished from the quantity a.b and e.a is residuary, I say the part that is the quantity a.b of the quantity c.d is a quota from
+							the total that is the quantity a.e of the quantity c.f, for since f.d is equal to a.b, f.d will thus be a multiple to e.b as c.d is a multiple to a.b, and
+							I will place d.g as a multiple to a.e as f.d is a multiple to e.b, and from the <span class="propositio">first</span> of <span class="liber">this</span>,
+							the quantity f.g is thus a multiple to a.b as f.d is a multiple to e.b, and because c.d was thus a multiple of a.b as f.d was a multiple of e.b, both of
+							the two quantities, c.d and f.g, will be equal multiples of the quantity a.b, wherefore through the <span class="conceptiones">common conception</span>,
+							c.d and f.g are mutually equal. Thus, removing from each of them the quantity f.d, c.f will equal d.g, and because d.g was thus a multiple to a.e as f.d to
+							e.b, and therefore as a.b to e.b, and therefore as c.d to a.b, c.f will thus be a multiple to a.e as the total c.d is to the total a.b, which is the
+							intention.
+						</td>
+						<td>
+							Similiter quoque minuatur .e.b ex quantitate .a.b. sitque residuum .e.a. dico quod quota pars est quantitas .a.b. quantitatis .c.d. tota est quantitas
+							.a.e. quantitatis .c.f. cum enim .f.d. sit aequalis .a.b. erit .f.d. ita multiplex .e.b. sicut .c.d. est multiplex .a.b. ponam itaque .d.g. ita multiplicem
+							.a.e. sicut .f.d. est multiplex .e.b. eritque ex <span class="propositio">prima</span> <span class="liber">huius</span> quantitas .f.g. ita multiplex .a.b.
+							sicut .f.d. est multiplex .e.b. et quia sic fuit .c.d. multiplex .a.b. sicut .f.d. fuit multiplex .e.b erit utraque duarum quantitatum .c.d.f.g. aequae
+							multiplex quantitatis .a.b. quare per <span class="conceptiones">communem scientiam</span> .c.d. et f.g. sunt aequales adinvicem: dempta igitur ab utraque
+							earum quantitate .f.d. erit .c.f. aequalis .d.g. et quia .d.g. fuit ita multiplex .a.e. sicut .f.d.e.b. et ideo sicut .a.b.e.b. quare et sicut .c.d.a.b.
+							erit .c.f. ita multiplex .a.e. sicut tota .c.d. totius .a.b. quod est propositum.
+						</td>
+					</tr>
 				</tbody>
 				<tbody class="noli">
 					<tr>
@@ -11545,71 +11546,71 @@
 					</tr>
 				</tbody>
 				<tbody>
-				<tr>
-					<td>
-						¶&nbsp;Suppose the quantities a.b to c and d.e to f are equal multiples, and c is subtracted from a.b and f from d.e, and the residual from a.b is a.g, and
-						from d.e, d.h, and g.b will equal c and h.e will equal f. I say that the two residuary, a.g and d.h, are equal to the two quantities c and f, or they are
-						equal multiples to them.
-					</td>
-					<td>
-						¶&nbsp;Sint quantitates .a.b. ad .c. et .d.e. ad .f. aequae multiplices: subtrahanturque .c. ex .a.b et .f. ex .d.e. et sint residua: ex .a.b. quidem .a.g. ex
-						.d.e.d.h. eritque .g.b. aequalis .c. et .h.e. aequalis .f. dico quod duo residua .a.g. et .d.h. erunt aequalia duabus quantitatibus .c. et .f. aut eis aequae
-						multiplicia.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						First suppose then a.g is equal to c, I say that d.h is equal to f.
-					</td>
-					<td>
-						Sit ergo primo .a.g. aequalis .c. dico quod .d.h. est aequalis .f.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						For I will place the quantity e.k equal to f and by the <span class="propositio">preceding</span> hypothesis, as many times as f is in h.k, then just so often
-						is c in a.b, wherefore as a.b is a multiple of c, thus h.k is a multiple of f, and so it also follows that d.e will be a multiple of the same f, therefore,
-						through the <span class="conceptiones">common conception</span> h.k will equal d.e, and by removing the common quantity of them, h.e, d.h will equal e.k
-						whereby it is equal to f, which is the intention.
-					</td>
-					<td>
-						Sumam enim quantitatem .e.k. aequalem .f. eritque per <span class="propositio">praemissas</span> ypotheses ut totiens .f. sit in .h.k. quotiens .c. in .a.b.
-						quare sicut .a.b. est multiplex .c. ita .h.k. est multiplex .f. sed sic erat etiam .d.e. erat multiplex eiusdem .f. erit igitur per
-						<span class="conceptiones">communem scientiam</span> .h.k. aequalis .d.e. dempta igitur communi earum quantitate .h.e. erit .d.h. aequalis .e.k. quare
-						aequalis .f. quod est propositum.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						¶&nbsp;However, if a.g is a multiple of c, I will place e.k as an equal multiple of f and it will be as before that as many times as f is in h.k, then just so
-						often is c in a.b.
-					</td>
-					<td>
-						¶&nbsp;Si autem .a.g. sit multiplex .c. ponam ut .e.k. sit aequae multiplex .f. eritque ut prius ut totiens .f. sit in .h.k. quotiens .c. in .a.b.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						But just as often will it also be in d.e, and so as before, d.e will equal h.k and d.h, e.k, wherefore as a.g is a multiple of c, thus is d.h a multiple of f,
-						which is the intention.
-					</td>
-					<td>
-						Sed totiens erat etiam in .d.e. erit igitur ut prius .d.e. aequalis .h.k. et .d.h.e.k. quare sicut .a.g. est multiplex .c. ita .d.h. est multiplex .f. quod
-						est propositum.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						By the same turn, when the quantity a.b contains quantity c according to the same number to which quantity d.e contains quantity f, and by removing the unit
-						from it, there remains a unit or number whereby a.g contains c according to which d.h contains f, then it is clear quantities a.g and d.g are either to be
-						equal or equal multiples to quantities c and f.
-					</td>
-					<td>
-						Aliter idem cum secundum eundem numerum contineat quantitas .a.b. quantitatem .c. secundum quem quantitas .d.e. quantitatem .f. demptaque ab eo unitate
-						remaneat unitas vel numerus secundum quem .a.g. continet .c. et secundum quem .d.h. continet .f. patet quantitates .a.g. et .d.h. esse aequales aut aequae
-						multiplices quantitatibus .c. et .f.
-					</td>
-				</tr>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the quantities a.b to c and d.e to f are equal multiples, and c is subtracted from a.b and f from d.e, and the residual from a.b is a.g, and
+							from d.e, d.h, and g.b will equal c and h.e will equal f. I say that the two residuary, a.g and d.h, are equal to the two quantities c and f, or they are
+							equal multiples to them.
+						</td>
+						<td>
+							¶&nbsp;Sint quantitates .a.b. ad .c. et .d.e. ad .f. aequae multiplices: subtrahanturque .c. ex .a.b et .f. ex .d.e. et sint residua: ex .a.b. quidem .a.g.
+							ex .d.e.d.h. eritque .g.b. aequalis .c. et .h.e. aequalis .f. dico quod duo residua .a.g. et .d.h. erunt aequalia duabus quantitatibus .c. et .f. aut eis
+							aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							First suppose then a.g is equal to c, I say that d.h is equal to f.
+						</td>
+						<td>
+							Sit ergo primo .a.g. aequalis .c. dico quod .d.h. est aequalis .f.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For I will place the quantity e.k equal to f and by the <span class="propositio">preceding</span> hypothesis, as many times as f is in h.k, then just so
+							often is c in a.b, wherefore as a.b is a multiple of c, thus h.k is a multiple of f, and so it also follows that d.e will be a multiple of the same f,
+							therefore, through the <span class="conceptiones">common conception</span> h.k will equal d.e, and by removing the common quantity of them, h.e, d.h will
+							equal e.k whereby it is equal to f, which is the intention.
+						</td>
+						<td>
+							Sumam enim quantitatem .e.k. aequalem .f. eritque per <span class="propositio">praemissas</span> ypotheses ut totiens .f. sit in .h.k. quotiens .c. in
+							.a.b. quare sicut .a.b. est multiplex .c. ita .h.k. est multiplex .f. sed sic erat etiam .d.e. erat multiplex eiusdem .f. erit igitur per
+							<span class="conceptiones">communem scientiam</span> .h.k. aequalis .d.e. dempta igitur communi earum quantitate .h.e. erit .d.h. aequalis .e.k. quare
+							aequalis .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;However, if a.g is a multiple of c, I will place e.k as an equal multiple of f and it will be as before that as many times as f is in h.k, then just
+							so often is c in a.b.
+						</td>
+						<td>
+							¶&nbsp;Si autem .a.g. sit multiplex .c. ponam ut .e.k. sit aequae multiplex .f. eritque ut prius ut totiens .f. sit in .h.k. quotiens .c. in .a.b.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But just as often will it also be in d.e, and so as before, d.e will equal h.k and d.h, e.k, wherefore as a.g is a multiple of c, thus is d.h a multiple of
+							f, which is the intention.
+						</td>
+						<td>
+							Sed totiens erat etiam in .d.e. erit igitur ut prius .d.e. aequalis .h.k. et .d.h.e.k. quare sicut .a.g. est multiplex .c. ita .d.h. est multiplex .f. quod
+							est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							By the same turn, when the quantity a.b contains quantity c according to the same number to which quantity d.e contains quantity f, and by removing the
+							unit from it, there remains a unit or number whereby a.g contains c according to which d.h contains f, then it is clear quantities a.g and d.g are either
+							to be equal or equal multiples to quantities c and f.
+						</td>
+						<td>
+							Aliter idem cum secundum eundem numerum contineat quantitas .a.b. quantitatem .c. secundum quem quantitas .d.e. quantitatem .f. demptaque ab eo unitate
+							remaneat unitas vel numerus secundum quem .a.g. continet .c. et secundum quem .d.h. continet .f. patet quantitates .a.g. et .d.h. esse aequales aut aequae
+							multiplices quantitatibus .c. et .f.
+						</td>
+					</tr>
 				</tbody>
 				<tbody class="noli">
 					<tr>
@@ -11635,74 +11636,281 @@
 					</tr>
 				</tbody>
 				<tbody>
-				<tr>
-					<td>
-						¶&nbsp;Suppose the two quantities a and b are equal, which are compared to any third, such as to c. I say that the proportion of a to c and b to c is the
-						same, and likewise, c to a and c to b is the same.
-					</td>
-					<td>
-						¶&nbsp;Sint duae quantitates .a.b. aequales. quae comparentur ad quamlibet tertiam ut ad .c. dico quod eadem est proportio .a. ad .c. et .b. ad .c. itemque
-						eadem .c. ad .a. et .c. ad .b.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						The first is proved as follows, for since c is consequent to a the first and to b the third, it will be in relation to the second and fourth.
-					</td>
-					<td>
-						Primum sic probatur: cum enim .c. sit consequens ad .a. primam et ad .b. tertiam ipsa erit in ratione secundae et quartae.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						Therefore, I will take equal multiples, d to a the first and e to b the third, and I will take f as howsoevermuch from the multiples of c, which is second and
-						fourth, and because a and b, of which d and e are equal multiples, are posited equal, it will be as if d is divided according to the quantity a and e
-						according to the quantity b that the parts in both are equal in number and in quantity: in some number by hypothesis, on account of the equality of the
-						multiplication in either, and in quantity by this <span class="conceptiones">common conception</span>, repeated as much as shall be necessary, that those
-						which are equal to the same are mutually equal to each other, thus, because the first from part d is equal to the first from part e, and the second to the
-						second, and the rest to the rest.
-					</td>
-					<td>
-						Sumam igitur .d. ad .a. primam: et .e. ad .b. tertiam aequae multiplices: et sumam .f. quamlibet ex multiplicibus .c. quae est secunda et quarta: et quia .a.
-						et .b. quarum sunt aequae multiplices .d. et .e. posite sunt aequales erit: ut si .d. dividatur secundum quantitatem .a. et .e. secundum quantitatem .b. quod
-						partes utrobique sint numero et quantitate aequales: numero quidam per ypothesim propter aequalitatem multiplicationis utrobique: quantitate autem per hanc
-						<span class="conceptiones">communem scientiam</span> quotiens oportuerit repetitam: quae eidem sunt aequalia sibiinvecem sunt aequalia: quia igitur prima ex
-						partibus .d. est aequalis primae ex partibus .e. et secunda: secundae: et ceterae ceteris.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						And there are as many parts in d as there are in e, so by the first of this, d will equal e. Wherefore by the <span class="conceptiones">common notion</span>,
-						if two equal quantities are compared to another third, either both quantities d and e are similarly greater than f, or similarly less than, or mutually equal,
-						and so from the definition of incontinuous proportionalities, that which is the proportion of a the first to b the second is the same of b the third to c the
-						fourth, which is the intention.
-					</td>
-					<td>
-						Suntque tot partes in .d. quot sunt in .e. erit per primam huius .d. aequalis .e. quare per <span class="conceptiones">communem scientiam</span>: si duae
-						quantitates aequales comparentur ad aliam tertiam: aut ambae quantitates .d. et .e: sunt similiter maiores .f. aut similiter minores: aut sibi aequales:
-						igitur ex diffinitione incontinuae proportionalitatis: quae est proportio .a. primae ad .c. secundam: eadem est .b. tertiae ad .c. quartam quod est propositum.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						¶&nbsp;Following the same method you will prove it in converse order, so c is placed first and third but a is second and b is fourth. 
-					</td>
-					<td>
-						¶&nbsp;Secundum eadem modo probabis ordine converso: ut .c. ponatur prima et tertia .a. vero secunda .b. quarta.
-					</td>
-				</tr>
-				<tr>
-					<td>
-						And since the quantity f, which is an equal multiple to the first and third, is either similarly greater than the quantities d and e, which are equal multiples
-						to the second and fourth, or similarly less than, or is equal to them, it will be by the same definition that the proportion of c the first to a the second is
-						as c the third is to b the fourth, which is the second intention.
-					</td>
-					<td>
-						Cum vero quantitas .f. quae est aequae multiplex primae et tertiae sit aut similiter maior quantitatibus .d. et .e. quae sunt aequae multiplices secundae et
-						quartae: aut similiter minor aut eis aequalis: erit per eandem diffinitionem proportio .c. primae ad .a. secundam: sicut .c. tertiae ad .b. quartam quod est
-						propositum secundum.
-					</td>
-				</tr>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two quantities a and b are equal, which are compared to any third, such as to c. I say that the proportion of a to c and b to c is the
+							same, and likewise, c to a and c to b is the same.
+						</td>
+						<td>
+							¶&nbsp;Sint duae quantitates .a.b. aequales. quae comparentur ad quamlibet tertiam ut ad .c. dico quod eadem est proportio .a. ad .c. et .b. ad .c. itemque
+							eadem .c. ad .a. et .c. ad .b.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The first is proved as follows, for since c is consequent to a the first and to b the third, it will be in relation to the second and fourth.
+						</td>
+						<td>
+							Primum sic probatur: cum enim .c. sit consequens ad .a. primam et ad .b. tertiam ipsa erit in ratione secundae et quartae.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, I will take equal multiples, d to a the first and e to b the third, and I will take f as howsoevermuch from the multiples of c, which is second
+							and fourth, and because a and b, of which d and e are equal multiples, are posited equal, it will be as if d is divided according to the quantity a and e
+							according to the quantity b that the parts in both are equal in number and in quantity: in some number by hypothesis, on account of the equality of the
+							multiplication in either, and in quantity by this <span class="conceptiones">common conception</span>, repeated as much as shall be necessary, that those
+							which are equal to the same are mutually equal to each other, thus, because the first from part d is equal to the first from part e, and the second to the
+							second, and the rest to the rest.
+						</td>
+						<td>
+							Sumam igitur .d. ad .a. primam: et .e. ad .b. tertiam aequae multiplices: et sumam .f. quamlibet ex multiplicibus .c. quae est secunda et quarta: et quia .a.
+							et .b. quarum sunt aequae multiplices .d. et .e. posite sunt aequales erit: ut si .d. dividatur secundum quantitatem .a. et .e. secundum quantitatem .b. quod
+							partes utrobique sint numero et quantitate aequales: numero quidam per ypothesim propter aequalitatem multiplicationis utrobique: quantitate autem per hanc
+							<span class="conceptiones">communem scientiam</span> quotiens oportuerit repetitam: quae eidem sunt aequalia sibiinvecem sunt aequalia: quia igitur prima ex
+							partibus .d. est aequalis primae ex partibus .e. et secunda: secundae: et ceterae ceteris.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And there are as many parts in d as there are in e, so by the first of this, d will equal e. Wherefore by the <span class="conceptiones">common
+							notion</span>, if two equal quantities are compared to another third, either both quantities d and e are similarly greater than f, or similarly less than,
+							or mutually equal, and so from the definition of incontinuous proportionalities, that which is the proportion of a the first to b the second is the same of b
+							the third to c the fourth, which is the intention.
+						</td>
+						<td>
+							Suntque tot partes in .d. quot sunt in .e. erit per primam huius .d. aequalis .e. quare per <span class="conceptiones">communem scientiam</span>: si duae
+							quantitates aequales comparentur ad aliam tertiam: aut ambae quantitates .d. et .e: sunt similiter maiores .f. aut similiter minores: aut sibi aequales:
+							igitur ex diffinitione incontinuae proportionalitatis: quae est proportio .a. primae ad .c. secundam: eadem est .b. tertiae ad .c. quartam quod est
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Following the same method you will prove it in converse order, so c is placed first and third but a is second and b is fourth. 
+						</td>
+						<td>
+							¶&nbsp;Secundum eadem modo probabis ordine converso: ut .c. ponatur prima et tertia .a. vero secunda .b. quarta.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And since the quantity f, which is an equal multiple to the first and third, is either similarly greater than the quantities d and e, which are equal
+							multiples to the second and fourth, or similarly less than, or is equal to them, it will be by the same definition that the proportion of c the first to a
+							the second is as c the third is to b the fourth, which is the second intention.
+						</td>
+						<td>
+							Cum vero quantitas .f. quae est aequae multiplex primae et tertiae sit aut similiter maior quantitatibus .d. et .e. quae sunt aequae multiplices secundae
+							et quartae: aut similiter minor aut eis aequalis: erit per eandem diffinitionem proportio .c. primae ad .a. secundam: sicut .c. tertiae ad .b. quartam quod
+							est propositum secundum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 8</h1>
+						</td>
+						<td>
+							<h1>Propositio .8.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two unequal quantities are proportioned to one quantity, the greater shall indeed maintain a greater proportion, and the lesser a lesser, and of
+							that to them, a greater proportion will be to the lesser, and a lesser to the greater.</h3>
+						</td>
+						<td>
+							<h3>Si duae quantitates inaequales ad unam quantitatem proportionentur. maior quidem maiorem. minor vero minorem optinebit proportionem. illius vero ad
+							illas ad minorem vero proportio maior ad maiorem vero minor erit.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose a and b.c are two unequal quantities, and b.c is the greater, and they are proportioned to the same quantity, which is d. I say the
+							proportion of b.c to d is greater than a is to d, and that contrarily, d is greater to a than d is to b.c.
+						</td>
+						<td>
+							¶&nbsp;Sint duae quantitates inaequales .a. et .b.c. sitque maior .b.c. et proportionentur ad eandem quantitatem quae sit .d. dico quod maior est proportio
+							.b.c. ad .d. quam .a. ad .d. et quod econtrario maior est .d. ad .a. quam .d. ad .b.c.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The first is proved as follows: I will place e.b equal to a and multiply e.c howeversomuch that the quantity will end up greater than d, and let that be
+							f.g, and I will select k.f as a multiple to b.e, and similarly h as a multiple to a, just as f.g is a multiple of e.c, and by the first of this h is thus a
+							multiple of a as k.g is a multiple of b.c, and h will also equal k.f for this reason, that the submultiples of them, which are a and b.e, are posited
+							equal. I will also suppose that h is not less than d, but equal or greater, for I will multiply each of the three quantities, e.c, b.e, and a, so many
+							times equally that f.g will become a multiple of e.c greater than d, and that h will become a multiple not less than the same, after which I will multiply
+							d so many times that the quantity becomes one greater than h, and let m be the first quantity of the multiples of d that is greater than h.
+						</td>
+						<td>
+							Primum sic probatur: ponam .e.b. aequalem .a. et multiplicabo totiens .e.c. quod proveniat quantitas maior .d. sitque .f.g. et sumam .k.f. ita multiplicem
+							.b.e. et similiter .h. ita multiplicen .a. sicut .f.g. est multiplex .e.c. eritque per primam huius .h. ita multiplex .a. sicut .k.g. est multiplex .b.c.
+							erit etiam .h. aequalis .k.f. propter hoc quod earum submultiplices quae sunt .a. et .b.e. posite sunt aequales:
+							ponam quoque quod .h. non sit minor .d. sed aequalis: aut maior; totiens enim multiplicabo unamquamque trium quantitatum .e.c.b.e. et .a. aequaliter: quod
+							.f.g. multiplex .e.c. proveniat maior .d. et quod .h. multiplex .a. non proveniat minor eadem: deinde totiens multiplicabo .d. quod proveniat quantitas
+							maior .h. sitque .m. prima quantitas multiplicium .d. quae sit maior .h.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							From which I will take the greatest multiple of d, or one equal to it, if m is the first in order of the multiples of d, which shall be l, and it will be
+							that l is not greater than h, and m will be composed from d and l for that because every multiple is composed from the nearest preceding multiple and a
+							simple, such as a triple from a double and a simple, with a first multiple excepted, which is composed from a simple, twice.
+						</td>
+						<td>
+							Sub qua sumam maximam multiplicem .d. aut sibi aequalem: si .m. est prima in ordine multiplicium .d. quae sit .l. eritque ut .l. non sit maior .h. et
+							constabit .m. ex .d. et .l. propter id quod omne multiplex constat ex proximo praecedenti multiplici et simplo: ut triplum ex duplo: et simplo. excepto
+							primo multiplici quod constat ex bis simplo.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Therefore, because h is equal to k.f, k.f will not be less than l, and so k.f and d will not become less than l and d, whereby they will not become
+							less than m, and because f.g is greater than d, k.g will be greater than m.
+						</td>
+						<td>
+							¶&nbsp;Quia ergo .h. est aequalis .k.f. non erit .k.f minor .l. itaque .k.f. et .d. non efficient minus quam .l. et .d. quare non efficient minus quam .m. et
+							quia .f.g. est maior .d. erit .k.g. maior quam .m.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Therefore, I understand the quantity b.c first, d second, a third, and d fourth, and that equal multiples are taken to the first and third, namely,
+							to k.g and h.
+						</td>
+						<td>
+							¶&nbsp;Intelligo igitur quantitatem .b.c. primam .d. secundam .a. tertiam .d. quartam: et quia ad primam et tertiam sumpta sunt aequae multiplicia
+							videlicet .k.g. et .h.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly are equal multiples to the second and fourth, actually the same in relation of the two, which is m, and k.g, multiple of the first, exceeds m,
+							the multiple of the second, however, h, multiple of the third, does not exceed m, the multiple of the fourth, and by the definition of major
+							improportionality, b.c of the first to d the second will be a greater proportion than a of the third is to d the fourth, which is the first.
+						</td>
+						<td>
+							Similiter quoque ad secundam et quartam aequae multiplicia: immo idem in ratione duorum quod est .m. et addit .k.g. multiplex primae super .m. multiplex
+							secundae: non addit autem .h. multiplex tertiae super .m. multiplex quartae: erit per diffinitionem maioris improportionalitatis maior proportio .b.c.
+							primae ad .d. secundam quam .a. tertiae ad .d. quartam quod est primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And you will prove the second by the same definition in reverse order, so d is first and third, a second, and b.c is fourth, for m, multiple of the first,
+							exceeds h, multiple of the second.
+						</td>
+						<td>
+							Secundum probabis per eandem diffinitionem converso ordine: ut .d. sit prima et tertia .a. secunda .b.c. quarta: addit enim .m. multiplex primae super .h.
+							multiplicem secundae.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							However m, multiple of the third, does not exceed k.g, multiple of the fourth, whereby the proportion of d to a is greater than d is to b.c, which is the
+							second.
+						</td>
+						<td>
+							Non addit autem .m. multiplex tertiae super .k.g. multiplicem quartae: quare maior est proportio .d. ad .a. quam .d. ad .b.c. quod est secundum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And from the method of this demonstration the sufficiency of the definition of major improportionality is clear, which the author posited at the
+							outset of this <span class="propositio">fifth</span>.
+						</td>
+						<td>
+							¶&nbsp;Ex huius autem demonstrationis modo patet sufficientia diffinitionis maioris improportionalitatis: quam posuit auctor in principio huius
+							<span class="propositio">quinti</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For never is the proportion of the first of four quantities to the second greater than of the third to the fourth, nor may it happen for any equal multiple
+							of the first and third to be ascertained that, when related to any equal multiple of the third and fourth, the multiple of the first is found to exceed the
+							multiple of the second.
+						</td>
+						<td>
+							Nusquam enim est maior proportio primae quatuor quantitatum ad secundam quam tertiae ad quartam. quin contingat aliqua aequae multiplicia ad primam et
+							tertiam reperiri: quae cum relata fuerint ad aliqua aequae multiplicia secundae et quartae: invenietur multiplex primae addere super multiplex secundae.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Neither too shall the multiple of the third exceed the multiple of the fourth, but we will find these multiples in this way, as will be further demonstrated
+							below, in the <span class="propositio">12th</span> of <span class="liber">this</span>.
+						</td>
+						<td>
+							Non autem multiplex tertiae super mutliplex quartae. haec autem multiplica sic reperiemus: sicut demonstrabimus infra supra
+							<span class="propositio">.12.</span> <span class="liber">huius</span>.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 9</h1>
+						</td>
+						<td>
+							<h1>Propositio .9.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there is one proportion of some quantities to one quantity, they are to be equal. And if the proportion of the one to them is one, it is necessary
+							they are to be equal.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit aliquarum quantitatum ad unam quantitatem proportio: una ipsas esse aequales. Si vero unius ad eas proportio una ipsas aequales esse necesse
+							est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proportion of two quantities, a and b, to c is one. I say they are to be equal, and if conversely it shall be the proportion of c to
+							each of them is the same, then to this I say they are to be equal. This is the <span class="propositio">7th</span>, converted.
+						</td>
+						<td>
+							¶&nbsp;Sit duarum quantitatum .a. et .b. proportio una ad .c. dico eas esse aequales. et si econverso fuerit eadem proportio .c. ad utramque earum: ad huc
+							dico eas esse aequales. haec est conversa <span class="propositio">.7.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The first is evident as follows, for if they are not equals, but one greater than the other, such as a, then by the first part of the premise the proportion
+							of a to c would be greater than it is to c, which is contrary the hypothesis.
+						</td>
+						<td>
+							Primum sic patet si enim non sunt aequales: sed altera earum maior: utpote .a. erit per primam partem. praemissae maior proportio .a. ad .c. quam .b. ad
+							.c. quod est contra ypothesim.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And the second is also clear, for if a is greater than b, by the second part of the premise the proportion of c to b will be greater than it is to a, which
+							is also contrary the hypothesis.
+						</td>
+						<td>
+							Secundum quoque patet: quia si .a. est maior .b. erit per secundam partem praemissae maior proportio .c. ad .b. quam ad .a. quod est etiam contra
+							ypothesim.
+						</td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
