@@ -922,7 +922,7 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;This is a converse to the preceding, as to the first of its part.
+							¶&nbsp;This is preceding converted, as to the first of its part.
 						</td>
 						<td>
 							¶&nbsp;Haec est conversa praemissum quantum ad primam eius partem.
@@ -1399,9 +1399,9 @@
 						<td>
 							¶&nbsp;Suppose that from point b of the line a.b, two lines exit in opposite directions, which are b.c and b.d, that produce two angles, which are c.b.a
 							and d.b.a, equal to two right angles. Then I say that the lines c.b and d.b are directly joined one to the other and they are one line, and this is like a
-							conversion of the <span class="propositio">former</span>. That if it were not one line thereupon extended in a direct and continuous manner, since it is not
-							one line with it, d.b will pass over it as b.e or under it as b.f, and so because the line a.b falls over the right line that is c.b.e, the angles c.b.a
-							and e.b.a will be equal to two right angles by the preceding, and because all right angles are reciprocally equal by the 
+							conversion of the <span class="propositio">former</span>. That if it were not one line thereupon extended in a direct and continuous manner, since it is
+							not one line with it, d.b will pass over it as b.e or under it as b.f, and so because the line a.b falls over the right line that is c.b.e, the angles
+							c.b.a and e.b.a will be equal to two right angles by the preceding, and because all right angles are reciprocally equal by the
 							<span class="petitiones">3rd petition</span> and because the angles c.b.a and d.b.a are equal to two right angles by the hypothesis, the two angles c.b.a
 							and e.b.a will equalthe two angles c.b.a and d.b.a. Therefore, by removing the common angle c.b.a, the angle e.b.a will equal the angle d.b.a, a part of
 							the whole, which is impossible. Similarly, the extended line c.b might demonstrate the angle d.b.a is equal to the angle f.b.a, if the adversary were
@@ -1639,7 +1639,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose that on the triangle a.b.c, the side b.c is greater than the side a.b. I say that the angle a will be greater than the angle c, and is
-							converse the preceding, for if it were equal then by means of the <span class="propositio">6th</span> then the side a.b would equal the side b.c, which is
+							preceding conversed, for if it were equal then by means of the <span class="propositio">6th</span> then the side a.b would equal the side b.c, which is
 							contrary the hypothesis. If, however, c is greater, then by the preceding the side a.b is greater than the side b.c, which is contrary the hypothesis,
 							whereby the proposition is construed.
 						</td>
@@ -1961,7 +1961,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the two triangles are a.b.c and d.e.f and let the two sides a.b and a.c of the first equal the two sides d.e and d.f of the second, each to
-							its correlative, and suppose the base b.c is greater than the base e.f. I say that angle a is greater than angle d, and this is converse the preceding.
+							its correlative, and suppose the base b.c is greater than the base e.f. I say that angle a is greater than angle d, and this is the preceding conversed.
 							Indeed, it will not be equal, for then it follows by the <span class="propositio">4th</span> that were the base b.c equal to the base e.f, that is contrary
 							the hypothesis, but neither would it be slighter, for it follows then that d would be greater. And so by the preceding the base e.f will be greater than
 							the base b.c, which is contrary to the proposition whereby it will be greater, and in this way the proposition is construed.
@@ -2201,7 +2201,7 @@
 						<td>
 							¶&nbsp;Suppose the two lines a.b and c.d are equidistant, over which the line e.f falls, dividing them at points g and h. I say that the coalternate
 							angles g and h are equal, and that the angle g from without is equal to the angle h from within, each opposite the other, taken from the same side, and
-							that angle g and h taken from the same side are equal to two right angles, and this is converse the two preceding.
+							that angle g and h taken from the same side are equal to two right angles, and this is the two preceding as conversed.
 						</td>
 						<td>
 							¶&nbsp;Sint duae lineae .a.b. et .c.d. aequidistantes super quas cadat linea .e.f. secans eas in punctis .g. et .h. dico quod anguli .g. et .h. coalterni
@@ -2879,9 +2879,9 @@
 				<tbody>
 					<tr>
 						<td>
-							¶&nbsp;Suppose the two triangles a.b.c and d.b.c are constituted over the base b.c, both from the same side, and that they are equal. I say then they
-							are to be between equidistant lines, and this is a converse of <span class="propositio">37</span>. From point a I will extend a line equidistant to the
-							line b.c, which, if it shall traverse by way of point d, the proposition is clear.
+							¶&nbsp;Suppose the two triangles a.b.c and d.b.c are constituted over the base b.c, both from the same side, and that they are equal. I say then they are
+							to be between equidistant lines, and this is the <span class="propositio">37th</span> conversed. From point a I will extend a line equidistant to the line
+							b.c, which, if it shall traverse by way of point d, the proposition is clear.
 						</td>
 						<td>
 							¶&nbsp;Sint duo trianguli .a.b.c. et .d.e.f. [sic] constituti super basim .b.c. ex una eademque parte: sintque aequales: dico eas esse inter lineas
@@ -2982,7 +2982,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the two triangles a.b.c and d.e.f are constituted over the two bases, which are b.c and e.f, and out from the same side. I say they are to
-							be between two equidistant lines, and this is converse the <span class="propositio">38th</span>, and it is proved by <span class="propositio">that</span>,
+							be between two equidistant lines, and this is the <span class="propositio">38th</span> conversed, and it is proved by <span class="propositio">that</span>,
 							just as the <span class="propositio">preceding</span> is by <span class="propositio">37</span>. From point a, suppose a line is drawn equidistant to the
 							line b.f, which, if it shall traverse by way of point d, the proposition is evident.
 						</td>
@@ -3414,7 +3414,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the triangle is a.b.c, and let the quadrate of the side a.c equal the quadrates of the two sides a.b and b.c, joined together. I say the
-							angle b, which is opposite the side a.c, is to be right. And this is a converse of the <span class="propositio">former</span>.
+							angle b, which is opposite the side a.c, is to be right. And this is by conversion of the <span class="propositio">former</span>.
 						</td>
 						<td>
 							¶&nbsp;Sit triangulus .a.b.c. sitque quadratum lateris .a.c. aequale quadratis duorum laterum .a.b. et .b.c. simul iunctis. dico angulum .b. cui latus
@@ -3427,7 +3427,7 @@
 							I draw the line d.c, and by the preceding, the quadrate d.c will equal the two quadrates of the two lines, d.b and b.c. And because its position is equal
 							to b.a, through <span class="conceptiones">common knowledge</span>, namely that equal quadrates are to be of equal lines, the quadrates of the two lines
 							a.b and b.d are equal, wherefore the quadrate d.c will equal the quadrate of a.c. Thus, by yet other <span class="conceptiones">common knowledge</span> that
-							is a converse of the <span class="conceptiones">former</span>, namely, lines whose quadrates are equal are to be equal, then d.c will be equal to a.c
+							is by conversion of the <span class="conceptiones">former</span>, namely, lines whose quadrates are equal are to be equal, then d.c will be equal to a.c
 							whereby through the <span class="propositio">8th</span>, the angle b of the triangle a.b.c is right, which is the intent.
 						</td>
 						<td>
@@ -6149,7 +6149,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose first that the line a.b is contacting the circle c.e at point c, and from the point of contact a line is drawn inside the circle c.e,
-							perpendicular to the line a.b. I say that the center of the circle is along the line c.e, and is a converse of the former.
+							perpendicular to the line a.b. I say that the center of the circle is along the line c.e, and is through conversion of the former.
 						</td>
 						<td>
 							¶&nbsp;Sit ut prius linea .a.b. contingens circulum .c.e. in puncto .c. et. a contactu ducatur intra circulum .c.e. linea perpendicularis ad lineam .a.b.
@@ -6731,7 +6731,7 @@
 					</tr>
 					<tr>
 						<td>
-							And also, the two angles b and f are mutually equal, and this is the converse of the <span class="propositio">preceding</span>. But if angles d and h are
+							And also, the two angles b and f are mutually equal, and this is by conversion of the <span class="propositio">preceding</span>. But if angles d and h are
 							not mutually equal then suppose h is greater, from which the angle k.h.g is abscinded, which shall be equal to angle d. And through the preceding the arc
 							k.e.f.g equals the arc a.b.c. But the two arcs a.b.c and e.f.g are assumed equal, therefore, it will happen that a part is to be equal to the whole, which
 							is impossible, whence the whole angles d and h are equal.
@@ -6845,7 +6845,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose the two equal circles, a.b.c, whose center is d, and e.f.g, whose center is h, and suppose the arc a.b.c equals the arc e.f.g. I say that
-							the chord a.c equals the chord e.g, and this is the converse of the first part of the <span class="propositio">preceding</span>.
+							the chord a.c equals the chord e.g, and this is by the conversion of the first part of the <span class="propositio">preceding</span>.
 						</td>
 						<td>
 							¶&nbsp;Sint duo circuli aequales .a.b.c. cuius centrum .d. et .e.f.g. cuius centrum .h. sitque arcus .a.b.c. aequalis arcui .e.f.g. dico quod corda .a.c.
@@ -7565,8 +7565,8 @@
 					<tr>
 						<td>
 							¶&nbsp;Let a be the point marked without the circle b.c.d, whose center is e, wherefrom the line a.b.d is drawn to the circle, cutting it, and the line a.c
-							is drawn, applied to the circumference, and that that produced from d.a according to a.b equals the quadrate a.c. I say the line a.c is contacting, and this
-							is a converse of the <span class="propositio">preceding</span>.
+							is drawn, applied to the circumference, and that that produced from d.a according to a.b equals the quadrate a.c. I say the line a.c is contacting, and
+							this is by a conversion of the <span class="propositio">preceding</span>.
 						</td>
 						<td>
 							¶&nbsp;Sit a punctus signatus extra circulum .b.c.d. cuius centrum .e. a quo ducantur ad circulum linea .a.b.d. secans ipsum et linea .a.c. applicata
@@ -8762,7 +8762,7 @@
 					<tr>
 						<td>
 							¶&nbsp;Suppose as before the given pentagon, both equilateral and equiangular (since it is not possible of the others, this is to be necessary) is
-							a.b.c.d.e, around which I want to describe a circle. This is as if the <span class="propositio">12th</span> were reversed.
+							a.b.c.d.e, around which I want to describe a circle. This is as if the <span class="propositio">12th</span> were conversed.
 						</td>
 						<td>
 							¶&nbsp;Sit ut prius datus penthagonus aequilaterus atque aequiangulus. quia de aliis non est necessarium hoc esse possibile .a.b.c.d.e. volo circa ipsum
@@ -11909,6 +11909,62 @@
 						<td>
 							Secundum quoque patet: quia si .a. est maior .b. erit per secundam partem praemissae maior proportio .c. ad .b. quam ad .a. quod est etiam contra
 							ypothesim.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 10</h1>
+						</td>
+						<td>
+							<h1>Propositio .10.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportion of a quantity to one other is greater, the quantity is to be the greater. But if the proportion of the one to the same is greater,
+							then it is necessary for it to be the lesser.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit unius ad quantitatem unam aliquam proportio maior quantitatem maiorem esse. Si vero unius ad eandem proportio maior minorem esse necesse
+							est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;For if the proportion of a to c will be greater than b is to c, I say a is to be greater than b, and if c will be greater to b than c is to a, I
+							still say a is to be greater than b. This is the <span class="propositio">8th</span> converted.
+						</td>
+						<td>
+							¶&nbsp;Quod si fuerit maior proportio .a. ad .c. quam .b. ad .c. dico .a. esse maiorem .b. et si fuerit maior .c. ad .b. quam .c. ad .a. adhuc dico .a.
+							esse maiorem .b. haec est conversa <span class="propositio">.8.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The first is evident by the first part of the <span class="propositio">7th</span> and by the first of the <span class="propositio">8th</span>, for by the first
+							part of the <span class="propositio">seventh</span> a will not equal b, and neither will it be less than it by the first of the
+							<span class="propositio">eighth</span>.
+						</td>
+						<td>
+							Primum patet per primam partem <span class="propositio">.7.</span> et per primam <span class="propositio">.8.</span> nam per primam partem
+							<span class="propositio">septimae</span>: non erit .a. aequalis .b. nec etiam minor per primam <span class="propositio">octanae</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And the second is evident from the second part of the <span class="propositio">same</span>.
+						</td>
+						<td>
+							Secundum vero patet ex secundis partibus <span class="propositio">earundem</span>.
 						</td>
 					</tr>
 				</tbody>
