@@ -11968,6 +11968,75 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 11</h1>
+						</td>
+						<td>
+							<h1>Propositio .11.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportions of quantities are equal to one other, then also it is necessary for the proportions themselves to be mutually equal.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quantitatum proportiones alicui uni aequales ipsas quoque proportiones sibi invicem aequales esse necesse est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;This proposition, which Euclid enumerated at the outset of the <span class="liber">first</span> among the common conceptions of the mind, that those
+							equal to the same also are equal to one other, and just as it is understood about quantities, here he demonstrates how it is accommodated to proportions.
+						</td>
+						<td>
+							¶&nbsp;Proportionem [sic] hanc quam euclides in principio <span class="liber">primi</span> annumeravit inter communes animi conceptiones: quae eidem sunt
+							aequalia sibi quoque sunt aequalia: prout de quantitatibus intelligitur hic demonstrat prout proportionibus accomodatur.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Thus suppose both of the two proportions, which are a to b and c to d, are equal to the proportion that is e to f. I say the proportions that are a to b
+							and c to d are to be mutually equal.
+						</td>
+						<td>
+							Sit ergo utraque duarum proportionum quae sunt .a. ad .b. et .c. ad .d. aequalis proportioni quae est .e. ad .f. dico proportiones quae sunt .a. ad .b. et
+							.c. ad .d. sibi invicem esse aequales.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For I will take the equal multiples g to a, and h to c, and k to e.
+						</td>
+						<td>
+							Sumam enim .g. ad .a. et .h. ad .c. et .k. ad .e. aequae multiplices.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise equal multiples l to b, and m to d, and n to f, and because by the hypothesis the proportion of e to f is as a is to b, and similarly as c is
+							to d, through a conversion of the definition of incontinuous proportionalities taken twice, if k adds to n, that g adds to l, and h adds to m, and if k
+							diminishes from n, that g diminishes from l, and h from m, and if k is equal to n, that g is equal to l and h is equal to m, then because g to l and h to m
+							behave similarly to one another in addition, diminution, and equality through means of k and n, by the definition of incontinuous proportionalities a to b
+							will be as c is to d, which is the intention.
+						</td>
+						<td>
+							Itemque .l. ad .b. et .m. ad .d. et .n. ad .f. aequae multiplices: et quia per ypothesim proportio .e. ad .f. est sicut .a. ad .b. et similiter sicut .c.
+							ad .d. erit per conversionem diffinitionis incontinuae proportionalitatis bis sumptam si .k. addit super .n. quod .g. addit super .l. et .h. super .m. et si
+							.k. minuat ab .n. quod .g. minuat ab .l. et .h. ab .m. et si .k. est aequalis .n. quod .g. sit aequalis .l. et .h. aequalis .m. quia igitur .g. ad .l. et
+							.h. ad .m. similiter se habent in addendo diminuendo et aequando: mediantibus .k. et .n. erit per diffinitionem incontinuae proportionalitatis .a. ad .b.
+							sicut .c. ad .d. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
