@@ -12037,6 +12037,296 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 12</h1>
+						</td>
+						<td>
+							<h1>Propositio .12.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportion of the first to second were as the third is to fourth but the third to fourth is greater than the fifth is to sixth, the proportion of
+							the first to second will be greater than the fifth is to sixth.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit proportio primi ad secundum sicut tertii ad quartum. tertii vero ad quartum maior quam quinti ad sextum erit proportio primi ad secundum
+							maior quam quinti ad sextum.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;As in the <span class="propositio">preceding</span>, what he demonstrates here in proportions is conceivable in quantities, namely, that if two
+							quantities shall be mutually equal to one other, whichever one of them is the greater will likewise be greater than the remaining.
+						</td>
+						<td>
+							¶&nbsp;Sicut in <span class="propositio">praecedenti</span> quod hic demonstrat in proportionalibus conceptibile est in quantitatibus: videlicet quod si
+							duae quantitates fuerit sibi invicem aequales quaecunque fuerit una earum maior eadem maior erit et reliqua.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Yet this is demonstrated in proportions, that if the proportion of a to b is as c is to d but c to d is greater than e is to f, then a to b will
+							also be greater than e is to f.
+						</td>
+						<td>
+							¶&nbsp;In proportionibus tamen hoc demonstratur: ut si sit proportio .a. ad .b. sicut .c. ad .d. .c. vero ad .d. sit maior quam .e. ad .f. erit quoque .a.
+							ad .b. maior quam .e. ad .f.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For I will place the equal multiples g to a, and h to c, and k to e.
+						</td>
+						<td>
+							Sumam enim .g. ad .a. et .h. ad .c. et .k. ad .e. aequae multiplices.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise the equal multiples l to b and m to d and n to f, and that by the hypothesis the proportion of c to d is as a is to b, and it is greater than
+							e is to f, it will be through a conversion of the definition of incontinuous proportionalities that if h exceeds m, and g exceeds l, by a conversion of the
+							definition of greater improportionality it is not necessary for k to exceed n, therefore, by means of h and m, if g exceeds l it is not necessary for k to
+							exceed n, and by the definition of greater improportionality the proportion of a to b will be greater than e is to f, which is the intention.
+						</td>
+						<td>
+							Itemque .l. ad .b. et .m. ad .d. et .n. ad .f. aequae multiplices: et quia per ypothesim proportio .c. ad .d. est sicut .a. ad .b. et maior quam .e. ad .f.
+							erit per conversionem diffinitionis incontinuae proportionalitatis si .h. addit super .m. et .g. addat super .l. et per conversionem diffinitionis maioris
+							improportionalitatis quod non sit necesse .k. addere super .n. quia igitur mediantibus .h. et .m. si .g. addit super .l. non est necesse .k. addere super
+							.n. erit per diffinitionem maioris improportionalitatis maior proportio .a. ad .b. quam .e. ad .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;And in a similar way it is proved that if a to b is as c is to d, and c to d is less than e is to f, then a to b will be less than e to f, for since
+							c to d is less than e to f, e to f will be greater than c is to d, therefore, by a conversion of the definition of greater improportionality, if k exceeds
+							n, it is not necessary that h should exceed m, but if h does not exceed m, g does not exceed l, thus if k exceeds n, it is not necessary that g should
+							exceed l, then by the definition of greater improportionality the proportion of e to f is greater than a is to b, hence converted: a to b will be less than
+							e is to f, which is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Simili quoque modo probabis quod si sit .a. ad .b. sicut .c. ad .d. et .c. ad .d. minor quam .e. ad .f. erit .a. ad .b. minor quam .e. ad .f. cum
+							enim sit .c. ad .d. minor quam .e. ad .f. erit .e. ad .f. maior quam .c. ad .d. per conversionem igitur diffinitionis maioris improportionalitatis. si .k.
+							addit super .n. non est necesse quod .h. addat super .m. sed si .h. non addit super .m.g. non addit super .l. ergo si .k. addit super .n. non est neccesse
+							ut .g. addat super .n. [sic] per diffinitionem igitur maioris improportionalitatis maior erit proportio .e. ad .f. quam a. ad .b. ergo econverso: minor erit
+							.a. ad .b. quam .e. ad .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And by the method of demonstration of the <span class="propositio">eighth</span> of <span class="liber">this</span>, and
+							<span class="propositio">this</span>, it will be made manifest that if the first of four quantities is a greater proportion to the second than the third is
+							to the fourth, you may happen to find some equal multiples of the first and third that when compared to any equal multiples of the second and fourth, the
+							multiple of the first will be found to exceed the multiple of the second but the multiple of the third shall not exceed the multiple of the fourth, which is
+							evident:
+						</td>
+						<td class="additio">
+							Ex modo autem demonstrationis <span class="propositio">octavae</span> <span class="liber">huius</span> et <span class="propositio">hae</span>: fiet
+							manifestum quod si fuerit primae quatuor quantitatum ad secundam maior proportio quam tertiae ad quartum continget reperire aliqua aequae multiplicia
+							primae et tertiae. quae cum comparabuntur ad aliqua aequae multiplicia secundae et quartae invenientur multiplex primae addere super multiplex secundae.
+							non autem multiplex tertiae super multiplex quartae: quod si patet:
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Suppose then the proportion of a.b to c is greater than d is to e. If I posit thus, that the proportion a.f to c is as d is to e, and by
+							<span class="propositio">this 12th</span> and by the <span class="propositio">10th</span> a.f will be less than a.b and shall be less by the quantity f.b,
+							which I will multiply so many times that it will end up a quantity greater than c, which shall be g.h, thus making it so d multiplied so many times
+							produces a quantity no less than e, which shall be k. Then I will place l.g that it is a multiple of a.f, as g.h is a multiple of f.b or k is of d, and by
+							the <span class="propositio">first</span> of <span class="liber">this</span> l.h is thus a multiple of a.b as k is of d.
+						</td>
+						<td class="additio">
+							Sit enim maior proportio .a.b. ad .c. quam .d. ad .e. ponam ergo ut sit proportio .a.f. ad .c. sicut .d. ad .e. eritque per <span class="propositio">hanc
+							.12.</span> et per <span class="propositio">.10.</span> a.f. minor .a.b. et sit minor in quantitate .f.b. quam multiplicabo totiens quod proveniat
+							quantitas maior .c. quae sit .g.h. hac conditione. ut .d. totiens multiplicata producat quantitatem non minorem .e. quae sit .k. tunc ponam ut .l.g.sit ita
+							multiplex .a.f. sicut .g.h. est multiplex .f.b. aut .k.d. eritque per <span class="propositio">primam</span> <span class="liber">huius</span> .l.h. ita
+							multiplex .a.b. sicut .k.d.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Then I will suppose that m is the first multiple of e that is greater than k and place n thus, a multiple of c as m is a multiple of e, and by the preceding
+							hypothesis and through a conversion of the definition of incontinuous proportionalities, the quantity n will be the first multiple of c that is greater than
+							l.g, nor will l.g be less than c.
+						</td>
+						<td class="additio">
+							Deinde ponam quod .m. sit prima quantitas multiplex .e. quae sit maior .k. et ponam .n. ita multiplicem .c. sicut .m. est multiplex .e. eritque per
+							praemissas ypotheses et conversionem diffinitionis incontinuae proportionalitatis quantitas .n. prima multiplicium .c. quae erit maior .l.g. nec erit .l.g.
+							minor .c.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							So I will take from n the greatest of the multiples of c, or one equal to it if perchance n is the first of its multiples, that shall be o, and n will be
+							composed from o and c, thus because l.g is not less than o and g.h is greater than c, l.h will be greater than n, and for that k is less than m then the
+							intention is clear.
+						</td>
+						<td class="additio">
+							Sumam ergo sub .n. maximam multiplicium .c. aut sibi aequalem si forsan .n. sit prima multiplicium eius quae sit .o. constabitque .n. ex .o. et .c. quia
+							ergo .l.g. non est minor .o. et .g.h. est maior .c. erit .l.h. maior .n. quare cum .k. sit minor .m. patet propostium.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							We can also demonstrate the converse of this, namely, that if you happen to find any equal multiples of the first and third whose multiple of the first
+							exceeds some multiple of the second and whose multiple of the third does not exceed the multiple of the fourth, then the proportion of first to second will
+							be greater than that of third to fourth, which is thus proved.
+						</td>
+						<td class="additio">
+							¶&nbsp;Conversam quoque huius demonstrare possumus. videlicet quod si contingit reperire aliqua aequae multiplicia primae et tertiae: quarum multiplex
+							primae addat super aliquod multiplex secundae: et multiplex tertiae non addat super mltiplex quartae: maior erit proportio primae ad secundam quam tertiae
+							ad quartam: quod sic probatur.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Suppose there are four quantities, a first, b second, c.d third, and e fourth, and suppose f to a and g to c.d are equal multiples.
+						</td>
+						<td class="additio">
+							Sint quatuor quantitates .a. prima .b. secunda .c.d. tertia .e. quarta. sintque .f. ad .a. et .g. ad .c.d. aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Similarly, h to b and k to e are equal multiples, and f exceeds h, however g does not exceed k. I say that the proportion of a to b is greater than c.d is
+							to e.
+						</td>
+						<td class="additio">
+							Similiter .h. ad .b. et .k. ad .e. aequae multiplicia: et addat .f. super .h. non addat autem .g. super .k. dico quod maior est proportio .a. ad .b. quam
+							.c.d. ad .e.</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							For if they are equal through a conversion of the definition of incontinuous proportionalities, g will exceed k, which is contrary the hypothesis.
+						</td>
+						<td class="additio">
+							Si enim aequalis per conversionem diffinitionis incontinuae proportionalitatis addet .g. super .k. quod est contra ypothesim.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							So if c.l is less to e just as a is to b, it will be by the <span class="propositio">10th</span> of <span class="liber">this</span> that c.l is less than
+							c.d, and is less by the quantity of l.d.
+						</td>
+						<td class="additio">
+							Si autem minor sit .c.l. ad .e. sicut .a. ad .b. eritque per <span class="liber">huius</span> <span class="propositio">.10.</span>c.l. minor .c.d. et sit
+							minor in quantitate .l.d.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Therefore I will assume that n.m thus is a multiple of c.l, and n.p a multiple of l.d as f is a multiple of a, and by the
+							<span class="propositio">first</span> of <span class="liber">this</span> m.p thus is a multiple of c.d as f is a multiple of a, and therefore both of the
+							two quantities m.p and g are equal multiples to the quantities c and d, and so they are equal.
+						</td>
+						<td class="additio">
+							Ponam igitur ut .m.n. sit ita multiplex .c.l. et .n.p. multiplex .l.d sicut .f. est multiplex .a. eritque per <span class="propositio">primam</span>
+							<span class="liber">huius</span> .m.p. ita multiplex .c.d. sicut .f. est multiplex .a. utraque igitur duarum quantitatum .m.p. et .g. est aequae multiplex
+							quantitatis .c.d. ergo ipsae sunt aequales.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Since this illation is demonstrated in the <span class="propositio">7th</span> of <span class="liber">this</span>, and that g is not greater than k, m.p
+							will not be greater than the same. But through a conversion of the definition of incontinuous proportionalities, m.n is greater than k for that f is greater
+							than h, thus m.n is greater than m.p, which is impossible, wherefore the intention relinquished.
+						</td>
+						<td class="additio">
+							Nam haec illatio demonstrata est in  <span class="propositio">.7.</span>  <span class="liber">huius</span>: et quia .g. non est maior .k. non erit .m.p.
+							maior eadem. sed per conversionem diffinitionis incontinuae proportionalitatis .m.n. est maior .k. eo quod .f. est maior .h. ergo .m.n. est maior .m.p.
+							quod est impossibile quare relinquitur propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 13</h1>
+						</td>
+						<td>
+							<h1>Propositio .13.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were any number of quantities to just as many others, the one proportion that is the proportion of the one to the one will also be the same
+							proportion of all these taken equally to all those taken equally.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet quantitatum ad totidem alias proportio una erit quoque quae proportio unius ad unam. eadem proportio harum omnum. pariter
+							acceptarum ad omnes illas pariter acceptas.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;What was first proposed for multiples, this proposes for all proportions, wherefore this is more commonplace than that for that every multiplicity
+							is a proportion, but not vise versa.
+						</td>
+						<td>
+							¶&nbsp;Quod primo proposuit de multiplicibus: hic proponit de omnibus proportionibus: unde haec est communior illa: eo quod omnis multiplicitas est
+							proportio: non autem econverso.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, suppose a to b and c to d and e to f are one proportion. I say that which is the proportion of a to b is the same of that composed from a, c,
+							and e, to that composed from b, d, and f.
+						</td>
+						<td>
+							Sit igitur .a. ad .b. et .c. ad .d. et .e. ad .f. una proportio: dico quod quae est proportio .a. ad .b. eadem est compositi ex .a.c.e. ad conpositum ex
+							.b.d.f.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I will take the equal multiples g to a, and h to c, and k to e.
+						</td>
+						<td>
+							Sumam .g. ad .a. et .h. ad .c. et .k. ad .e. aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise the equal multiples l to b, and m to d, and n to f, and by the first of this, that composed from g, h, and k is thus a multiple of that
+							composed from a, c, and e, just as g is a multiple of a.
+						</td>
+						<td>
+							Itemque .l. ad .b. et .m. ad .d. et .n. ad .f. aequae multiplicia: eritque per primam huius compositum ex .g.h.k. ita multiplex conpositi ex .a.c.e. sicut
+							.g. est multiplex .a.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Similarly through the same, that composed from l, m, and n, will thus be a multiple of that composed from b, d, and f, just as l is a multiple of b, and by
+							a conversion of the definition of incontinuous proportionalities, taken twice, if g exceeds l, then h exceeds m and k exceeds n, and if it diminishes, it
+							diminishes, and if equal, it is equal, then by common conceptions if g exceeds l, that composed from g, h, and k, will exceed that composed from l, m and
+							n, and if it diminishes, it diminishes, and if equal, it is equal, thus by the definition of incontinuous proportionalitities, the proportion of a to b is
+							as that composed from a, c, and e is to that composed from b, d, and f, which is the intention.
+						</td>
+						<td>
+							Similiter per eadem conpositum ex .l.m.n. erit ita multiplex conpositi ex .b.d.f. sicut .l. est multiplex .b. et per conversionem diffinitionis incontinuae
+							proportionalitatis. bis sumptam si .g. addit super .l.h. addit super .m. et .k. super .n. et si minuit minuit: et si aequat aequat: ergo per communem
+							scientiam si .g. addit super .l. compositum ex .g.h.k. addit super compositum ex .l.m.n. et si minuit minuit: et si aequat aequat: ergo per diffinitionem
+							incontinuae proportionalitatis proportio .a. ad .b. est sicut conpositi ex .a.c.e. ad compositum ex .b.d.f. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
