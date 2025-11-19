@@ -12327,6 +12327,72 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 14</h1>
+						</td>
+						<td>
+							<h1>Propositio .14.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four proportional quantities and the first were greater than the third, then it is necessary for the second to be greater than the fourth.
+							But if it is less, then less. And if it is equal, then equal.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor quantitates proportionales. fueritque maior prima tertia necesse est secundam. quarta esse maiorem. Quod si minor et minorem. Si
+							vero aequalis et aequalem esse.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proportion of a to b is as c is to d. I say that if a is greater than c, b will be greater than d, and less if less, and equal if equal.
+						</td>
+						<td>
+							¶&nbsp;Sit proportio .a. ad .b. sicut .c. ad .d. dico quod si .a. est maior .c.b. erit maior .d. et si minor minor. et si aequalis aequalis.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For if a is greater than c, by the first part of the <span class="propositio">8th</span> of <span class="liber">this</span>, a to d will be a greater
+							proportion than c is to d, wherefore a to d will be greater than it is to b, and so by the second part of the <span class="propositio">10th</span> of
+							<span class="liber">this</span>, b will be greater than d, which is the intention.
+						</td>
+						<td>
+							Si enim .a. sit maior .c. erit per primam partem <span class="propositio">.8.</span> <span class="liber">huius</span> maior proportio .a. ad .d. quam .c.
+							ad .d. quare maior erit .a. ad .d. quam ad .b. ergo per secundam partem <span class="propositio">.10.</span> <span class="liber">huius</span> .b. erit
+							maior .d. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But if a is less than c, by the first part of the <span class="propositio">8th</span>, a to d will be a lesser proportion than c is to d, wherefore a will
+							be greater to b than it is to d, and so by the second part of the <span class="propositio">10th</span>, b will be less than d.
+						</td>
+						<td>
+							Quod si .a. sit minor .c. erit per primam partem <span class="propositio">.8.</span> minor proportio .a. ad .d. quam .c. ad .d. quare maior erit .a. ad .b.
+							quam ad .d. per secundam ergo partem <span class="propositio">.10.</span>b. erit minor .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if a equals c, by the first part of the <span class="propositio">7th</span>, a to d will be as c is to d, wherefore a to d is as it is to b, and so by
+							the second part of the <span class="propositio">9th</span>, b will equal d, and in this way the intention is evident.
+						<td>
+							Si autem .a. sit aequalis .c. erit per primam partem <span class="propositio">.7.</span>a. ad .d. sicut .c. ad .d. quare .a. ad .d. sicut ad .b. itaque per
+							secundam partem:<span class="propositio">9.</span>b. erit aequalis .d. sicque patet propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
