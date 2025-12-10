@@ -12393,6 +12393,106 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 15</h1>
+						</td>
+						<td>
+							<h1>Propositio .15.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were equal multiples assigned to any number of quantities, the multiples and submultiples of them will be one proportion.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint aliquibus quantitatibus aequae multiplices assignatae. erit ipsarum multiplicium atque sub multiplicium una proportio.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose c to a and d to b are equal multiples. I say that which is the proportion of a to b is the same as c is to d. Let c be divided according to
+							the quantity a and d according to the quantity b, and there are just as many parts of c as are of d, and because any part of c is to any part of d as is a
+							to b, by the <span class="propositio">13th</span> of <span class="liber">this</span>, c will be to d as a is b, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sint .c. ad .a. et .d. ad .b. aequae multiplices: dico quod quae est proportio .a. ad .b. eadem est .c. ad .d. dividatur .c. secundum quantiatem .a.
+							et .d. secundum quantitatem .b.c. [sic] suntque tot partes .c. quot .d. et quia quaelibet pars .c. ad quamlibet partem .d. se habet sicut .a. ad .b. erit
+							per <span class="propositio">.13.</span> <span class="liber">huius</span> .c. ad .d. sicut .a. ad .b. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							
+						</td>
+						<td>
+							
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 16</h1>
+						</td>
+						<td>
+							<h1>Propositio .16.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four proportional quantities, they will likewise be permutatively proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor quantitates proportionales. permutatim quoque proportionales erunt.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proportion of a to be is as c is to d. I say that a to c will be as b is to d. And this is a mode of argument that is called
+							 <span class="definitio">permuted</span> proportionality, the demonstration of which is evident as follows.
+						</td>
+						<td>
+							¶&nbsp;Sit proportio .a. ad .b. sicut .c. ad .d. dico quod erit .a. ad .c. sicut .b. ad .d. et iste est modus arguendi qui dicitur proportionalitas
+							<span class="definitio">permutata</span>. cuius demonstratio sic patet.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I will take the equal multiples, e to a and f to b, and likewise the equal multiples g to c and h to d, and by the preceding, e to f will be as g is to h,
+							wherefore by the <span class="propositio">14th</span>, if e exceeds g, f also exceeds h, and if it is less than, less than, and if equal, equal, therefore,
+							by the definition of incontinuous proportionalities, a to c will be as b is to d, which is the intention.
+						</td>
+						<td>
+							Sumam .e. ad .a. et .f. ad .b. aequae multiplices itemque .g. ad .c. et .h. ad .d. aequae multiplices: eritque per praemissam .e. ad .f. sicut .g. ad .h.
+							quare per <span class="propositio">.14.</span> si .e. addit supra .g. et .f. addit super .h. et si minuit minuit: et si aequat aequat: per diffinitionem
+							igitur incontinuae proportionalitatis erit .a. ad .c. sicut .b. ad .d. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And it is necessary that in permuted proportionalities, all four quantities should be of the same kind.
+						</td>
+						<td>
+							Necesse est autem ut in permutata proportionalitate sint omnes quatuor quantitates eisudem generis.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
