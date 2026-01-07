@@ -12493,6 +12493,253 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 17</h1>
+						</td>
+						<td>
+							<h1>Propositio .17.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If quantities shall be conjointly proportional, the same are likewise disjointedly proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quantitates coniunctim proportionales: easdem disiunctim quoque proportionales esse.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Having demonstrated the mode of argument that is called permuted proportionality, he demonstrates that which is called
+							<span class="definitio">disjoined</span> proportionality.
+						</td>
+						<td>
+							¶&nbsp;Demonstrato modo arguendi qui dicitur proportionalitas permutata: demonstrat illum qui dicitur proportionalitas
+							<span class="definitio">disiuncta</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And so suppose the proportion a.b to b.c is as d.e is to e.f. I say that a.c to c.b will be as d.f is to f.e.
+						</td>
+						<td>
+							Sit itaque proportio .a.b. ad .b.c. sicut .d.e. ad .e.f. dico quod erit .a.c. ad c.b. sicut d.f. ad .f.e. 
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For I will take the equal multiples g.h to a.c and h.k to c.b, and likewise l.m to d.f and m.n to f.e, and by the first of this, g.k is thus a multiple of
+							a.b as g.h is a multiple of a.c, and l.n is thus a multiple of d.e as l.m is a multiple of d.f, and so by the preceding hypothesis, g.k is thus a multiple
+							of a.b as is l.n of d.e, and I again place equal multiples, k.p to c.b and n.q to f.e, and by the <span class="propositio">second</span>, h.p to c.b and
+							m.q to f.e will be equal multiples, therefore, by a conversion of the definition of incontinuous proportionalities, if g.k exceeds h.p, l.n exceeds m.q, and
+							if it is less than, less than, and if equal, equal, and so by subtracting the commonalities, h.k and m.n, it will be through common conceptions that if g.h
+							exceeds k.p that l.m exceeds n.q, and if less than, less than, and if equal, equal, thus by the definition of incontinuous proportionalities, the proportion
+							a.c to c.b is as d.f is to f.e, which is the intention.
+						</td>
+						<td>
+							Sumam enim .g.h. ad .a.c. et .h.k. ad .c.b. itemque .l.m. ad .d.f. et .m.n. ad .f.e. aequae multiplices: eritque per primam huius .g.k. ita multiplex .a.b.
+							sicut .g.h. est multiplex .a.c. et .l.n. ita multiplex .d.e. sicut .l.m. est multiplex .d.f. et ideo per praemissas ypotheses .g.k. est ita multiplex .a.b.
+							sicut est .l.n.d.e. ponam iterum .k.p. ad .c.b. et .n.q. ad .f.e. aeque multiplices: eruntque per <span class="propositio">secundam</span> .h.p. ad .c.b.
+							et .m.q. ad .f.e. aequae multiplices per conversionem igitur diffinitionis incontinuae proportionalitatis. si g.k. addit super .h.p.l.n. addit super .m.q.
+							et si minnuit minuit: et si aequat aequat. demptis itaque communibus .h.k. et .m.n. erit per communem scientiam: ut si .g.h. addit super .k.p. quod .l.m.
+							addit super .n.q. et si minuit minuit: et si aequat aequat. ergo per diffinitionem incontinuae proportionalitatis proportio .a.c. ad .c.b. est sicut .d.f.
+							ad .f.e. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 18</h1>
+						</td>
+						<td>
+							<h1>Propositio .18.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If quantities were disjointedly proportional, they will likewise be conjoinedly proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quantitates disiunctim proportionales. coniunctim quoque proporitonales erunt.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;He demonstrates the mode of argument that is called conjoined proportionality, and it is a converted mode of the former.
+						</td>
+						<td>
+							¶&nbsp;Demonstrat modum arguendi qui dicitur proportionalitas coniuncta et est modus conversus prioris.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For the demonstration of which, let the disposition of the former be resumed and let all its hypotheses remain, except that the proportion of a.c to c.b is
+							assumed to be as d.f is to f.e. I say that the proportion of a.b to b.c will be as d.e is to f.e, for it follows from this hypothesis and from the one
+							hypothesis former about multiples taken equally, by a conversion of the definition of incontinuous proportionalities, if g.h exceeds k.p, that l.m exceeds
+							n.q, and if it subceeds, subceeds, and if it is equal, equal, therefore by placing h.k and m.n in common it follows by the common conception if g.k exceeds
+							h.p that l.n exceeds m.q, and if it subceeds, subceeds, and if it is equal, equal, wherefore by the definition of incontinuous proportionality, the
+							proportion of a.b to b.c will be as d.e is to e.f, which is the intention.
+						</td>
+						<td>
+							Ad cuius demonstrationem resumatur disposito praemissae. et maneant omnes eius ypotheses: excepto quod ponatur esse proportio .a.c. ad .c.b. sicut .d.f. ad
+							.f.e. dico quod erit proportio .a.b. ad .b.c. sicut .d.e. ad .f.e. sequitur enim ex hac ypothesi et aliis ypothesibus praemissae de multiplicibus
+							aequaliter sumptis per conversionem diffinitionis incontinuae proportionalitatis si .g.h. addit super .k.p. quod .l.m. addat super .n.q. et si minuit
+							minuat: et si aequat aequat ergo positis communibus .h.k. et .m.n. sequitur per communem sciantiam si .g.k. addit super .h.p. quod .l.n. addat super .m.q.
+							et si minuit minuat: et si aequat aequat: quare per diffinitionem incontinuae proportionalitatis erit proportio .a.b. ad .b.c. sicut .d.e. ad .e.f. quod est
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The same otherwise done indirectly is as follows.
+						</td>
+						<td>
+							Aliter idem indirectae sic.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For if the proportion of a.c to c.b were as d.f to f.e, but a.b to b.c were not as d.e to e.f, then suppose the proportion of d.e is to any other quantity
+							as a.b is to b.c, which will either be greater than e.f or less than it, for if it were equal to it then proposition would remain the same.
+						</td>
+						<td>
+							Cum sit proportio .a.c ad .c.b sicut .d.f. ad .f.e. non est .a.b. ad .b.c. sicut .d.e. ad .e.f. sit ergo proportio .d.e. ad aliquam aliam quantitatem sicut
+							.a.b. ad .b.c. quae aut erit maior .e.f. aut minor. si enim esset ei aequalis constaret propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And so first suppose it is greater, and it is e.g, and by the preceding a.c to a.b will be as d.g to g.e, wherefore d.g to g.e will be as d.f to f.e.
+						</td>
+						<td>
+							Sit itaque primo maior et sit .e.g. eritque per praemissam .a.c. ad .c.b. sicut .d.g. ad .g.e. quare d.g. ad .g.e. sicut .d.f. ad .f.e.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Thus it follows by the <span class="propositio">14th</span> that because d.g the first is greater than d.f the third, g.e the second will be less than e.f
+							the fourth, but it was posited that it were to be greater.
+						</td>
+						<td>
+							Sequitur igitur per <span class="propositio">.14.</span> quod cum .d.g. prima sit maior .d.f. tertia erit .g.e. secundam minor .e.f. quarta: sed erat
+							positum quod esset maior.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, the proportion of d.e to the lesser e.f, which is e.h, shall be as a.b is to b.c, and it will be by the preceding that a.c to c.b is as d.h to
+							h.e, wherefore by the <span class="propositio">11th</span>, d.h to h.e is as d.f is to f.e, and because d.h the first is greater than d.f the third, by the
+							<span class="propositio">14th</span>, e.h the second will be greater than e.f the fourth, which because it is impossible, the follows the intention.
+						</td>
+						<td>
+							Sit ergo proportio .d.e. ad minorem .e.f. quae sit .e.h. sicut .a.b. ad .b.c. eritque per praemissam .a.c. ad .c.b sicut .d.h. ad .h.e. quare per
+							<span class="propositio">.11.</span> d.h. ad .h.e sicut .d.f. ad .f.e. et quia .d.h. prima est maior .d.f. tertia erit per
+							<span class="propositio">.14.</span> e.h. secunda maior .e.f. tertia [sic]: quod quia est impossibile. sequitur propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 19</h1>
+						</td>
+						<td>
+							<h1>Propositio .19.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two portions are abscinded from two totals, and the total to total were as the abscinded is to abscinded, then the remainder to remainder will be as
+							the total is to total.</h3>
+						</td>
+						<td>
+							<h3>Si a duobus totis duae portiones abscindantur. fueritque totum ad totum quantum abscisum ad abscisum: erit reliquum ad reliquum quantum totutm ad
+							totum.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;What the <span class="propositio">fifth</span> proposes about multiples, <span class="propositio">this</span> proposes universally about all
+							proportions, hence it is more general than the proportion of multiplicity.
+						</td>
+						<td>
+							¶&nbsp;Quod <span class="propositio">quinta</span> proponit de multiplicibus. <span class="propositio">haec</span> proponit universaliter de omnibus
+							proportionibus. unde est illa tanto communior quanto multiplicitate proportio.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, suppose the two quantities, a.b and c.d, from the which two are abscinded, which are b.e and d.f, and suppose the proportion of the total of a.b
+							to the total of c.d is as the abscinded of b.e is to the abscinded of d.f. I say that the residuary of a.e will be likewise to the residuary of c.f, since
+							the total of a.b is to the total of c.d for that a.b to c.d will be as b.e is to d.f, a.b to b.e will permutatively be as c.d is to d.f, and a.e to e.b
+							will disjointedly be as c.f is to f.d. And again, a.e will permutatively be to c.f as e.b is to f.d, and because it follows as a.b is to c.d, the intention
+							is evident.
+						</td>
+						<td>
+							Sint igitur duae quantitates .a.b. et .c.d. a quibus abscindantur duae quae sint .b.e. et .d.f. sitque proportio totius .a.b. ad totam .c.d. sicut .b.e.
+							abscisae ad .d.f. abscisam. dico quod eadem erit .a.e. residui ad .c.f. residuum quae est totius .a.b. ad totam .c.d. cum enim sit .a.b. ad .c.d. sicut
+							.b.e. ad .d.f. erit permutatim .a.b. ad .b.e. sicut .c.d. ad d.f. et difiunctim .a.e. ad .e.b. sicut .c.f. ad .f.d. cum enim sit .a.b. ad .c.d. sicut .b.e.
+							ad .d.f. erit permutatim .a.b. ad .b.e. sicut .c.d. ad d.f. et disiunctim .a.e. ad .e.b. sicut .c.f. ad .f.d. et iterum permutatim .a.e. ad .c.f. sicut
+							.e.b. ad .f.d. et quia sic erat .a.b. ad .c.d. patet propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;And from <span class="propositio">this 19th</span> and from permuted proportionality, a mode of argument is demonstrated that is called everse
+							proportionality, so that if a.b to b.e is as c.d is to d.f, I say that b.a to a.e will be as c.d is to c.f, since because a.b to b.e is as c.d is to d.f,
+							a.b to c.d will permutatively be as b.e is to d.f, wherefore by <span class="propositio">this 19th</span> b.a to d.c will be as a.e is to c.f, therefore,
+							b.a to a.e will permutatively be as c.d is to c.f, which is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Ex <span class="propositio">hac</span> autem <span class="propositio">.19.</span> et permutata proportionalitate demonstratur modus arguendi qui
+							dicitur proportionalitas eversa. ut si sit .a.b. ad .b.e. sicut .c.d. ad .d.f. dico quod erit .b.a. ad .a.e. sicut .c.d. ad .c.f. quia cum sit .a.b. ad
+							.b.e. sicut .c.d. ad .d.f. erit permutatim .a.b. ad .c.d. sicut .b.e. ad .d.f. quare per <span class="propositio">hanc .19.</span>b.a. ad .d.c. sicut .a.e.
+							ad .c.f. igitur permutatim .b.a. ad .a.e. sicut .c.d. ad .c.f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And converse proportionality, which we demonstrated from the definition of incontinuous proportionality in expounding the principles of the
+							<span class="propositio">fifth</span> of <span class="liber">this</span>, can also be indirectly demonstrated here from permuted proportionality and from
+							the <span class="propositio">9th</span> of <span class="liber">this</span>, so that if the proportion of a to b is as c is to d, I say that b to a will be
+							as d is to c. However, if d is to e as b is to a and because a to b is as c is to d, permutatively a to c will be as b is to d. And again, that b to a is
+							as d is to e, permutatively b to d will be as a is to e, wherefore a to e will be as d is to c. But if e does not equal c, the impossible shall occur
+							contrary the second part of the <span class="propositio">9th</span>, but if it is equal, b to a will be as d is to c, which is the intention.
+						</td>
+						<td class="additio">
+							Conversa quoque proportionalitas quam ex diffinitione incontinuae proportionalitatis demonstravimus in exponendo principia <span class="liber">huius</span>
+							<span class="propositio">quinti</span>. pont hic quoque demonstrari indirectae ex permutata proportionalitate et <span class="propositio">.9.</span>
+							<span class="liber">huius</span> ut si sit proportio .a. ad .b. sicut .c. ad .d. dico quod erit .b. ad .a. sicut .d. ad .c. sin autem sit .d. ad .e. sicut
+							.b. ad .a. et quia .a. ad .b. est sicut .c. ad .d. erit permutatim .a. ad .c. sicut .b. ad .d. et quia iterum .b. ad .a. sicut .d. ad .e. erit quoque
+							permutatim .b. ad .d. sicut .a. ad .e. quare erit .a. ad .e. sicut .d. ad .c. si igitur .e. non sit aequale .c. accidet impossibile et contrarium secundae
+							partis <span class="propositio">.9.</span> si autem aequalis erit .b. ad .a. sicut .d. ad .c. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
