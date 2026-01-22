@@ -12454,7 +12454,7 @@
 					</tr>
 					<tr>
 						<td>
-							<h3>If there were four proportional quantities, they will likewise be permutatively proportional.</h3>
+							<h3>If there were four proportional quantities, they will likewise be permutably proportional.</h3>
 						</td>
 						<td>
 							<h3>Si fuerint quatuor quantitates proportionales. permutatim quoque proportionales erunt.</h3>
@@ -12693,26 +12693,24 @@
 					</tr>
 					<tr>
 						<td>
-							Therefore, suppose the two quantities, a.b and c.d, from the which two are abscinded, which are b.e and d.f, and suppose the proportion of the total of a.b
-							to the total of c.d is as the abscinded of b.e is to the abscinded of d.f. I say that the residuary of a.e will be likewise to the residuary of c.f, since
-							the total of a.b is to the total of c.d for that a.b to c.d will be as b.e is to d.f, a.b to b.e will permutatively be as c.d is to d.f, and a.e to e.b
-							will disjointedly be as c.f is to f.d. And again, a.e will permutatively be to c.f as e.b is to f.d, and because it follows as a.b is to c.d, the intention
-							is evident.
+						Then suppose the quantities, a.b and c.d, from which two are abscinded, which are b.e and d.f, and let the proportion of the total of a.b to the total of c.d
+						be as the abscinded of b.e is to the abscinded of d.f. I say that the residuary of a.e will be likewise to the residuary of c.f that the total of a.b is to
+						the total of c.d, for since a.b to c.d shall be as b.e is to d.f, a.b to b.e will permutably be as c.d to d.f, and a.e to e.b will disjointedly be as c.f to
+						f.d, and again, a.e to c.f will permutably be as e.b to f.d, and that it follows as a.b to c.d, the intention is evident.
 						</td>
 						<td>
-							Sint igitur duae quantitates .a.b. et .c.d. a quibus abscindantur duae quae sint .b.e. et .d.f. sitque proportio totius .a.b. ad totam .c.d. sicut .b.e.
-							abscisae ad .d.f. abscisam. dico quod eadem erit .a.e. residui ad .c.f. residuum quae est totius .a.b. ad totam .c.d. cum enim sit .a.b. ad .c.d. sicut
-							.b.e. ad .d.f. erit permutatim .a.b. ad .b.e. sicut .c.d. ad d.f. et difiunctim .a.e. ad .e.b. sicut .c.f. ad .f.d. cum enim sit .a.b. ad .c.d. sicut .b.e.
-							ad .d.f. erit permutatim .a.b. ad .b.e. sicut .c.d. ad d.f. et disiunctim .a.e. ad .e.b. sicut .c.f. ad .f.d. et iterum permutatim .a.e. ad .c.f. sicut
-							.e.b. ad .f.d. et quia sic erat .a.b. ad .c.d. patet propositum.
+						Sint igitur duae quantitates .a.b. et .c.d. a quibus abscindantur duae quae sint .b.e. et .d.f. sitque proportio totius .a.b. ad totam .c.d. sicut .b.e.
+						abscisae ad .d.f. abscisam. dico quod eadem erit .a.e. residui ad .c.f. residuum quae est totius .a.b. ad totam .c.d. cum enim sit .a.b ad .c.d. sicut .b.e.
+						ad .d.f. erit permutatim .a.b. ad .b.e. sicut .c.d. ad .d.f. et disiunctim .a.e. ad .e.b. sicut .c.f. ad .f.d. et iterum permutatim .a.e. ad .c.f. sicut .e.b.
+						ad .f.d. et quia sic erat .a.b. ad c.d. patet propositum.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
 							¶&nbsp;And from <span class="propositio">this 19th</span> and from permuted proportionality, a mode of argument is demonstrated that is called everse
 							proportionality, so that if a.b to b.e is as c.d is to d.f, I say that b.a to a.e will be as c.d is to c.f, since because a.b to b.e is as c.d is to d.f,
-							a.b to c.d will permutatively be as b.e is to d.f, wherefore by <span class="propositio">this 19th</span> b.a to d.c will be as a.e is to c.f, therefore,
-							b.a to a.e will permutatively be as c.d is to c.f, which is the intention.
+							a.b to c.d will permutably be as b.e is to d.f, wherefore by <span class="propositio">this 19th</span> b.a to d.c will be as a.e is to c.f, therefore,
+							b.a to a.e will permutably be as c.d is to c.f, which is the intention.
 						</td>
 						<td class="additio">
 							¶&nbsp;Ex <span class="propositio">hac</span> autem <span class="propositio">.19.</span> et permutata proportionalitate demonstratur modus arguendi qui
@@ -12723,20 +12721,220 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							And converse proportionality, which we demonstrated from the definition of incontinuous proportionality in expounding the principles of the
+							¶&nbsp;And converse proportionality, which we demonstrated from the definition of incontinuous proportionality in expounding the principles of the
 							<span class="propositio">fifth</span> of <span class="liber">this</span>, can also be indirectly demonstrated here from permuted proportionality and from
 							the <span class="propositio">9th</span> of <span class="liber">this</span>, so that if the proportion of a to b is as c is to d, I say that b to a will be
-							as d is to c. However, if d is to e as b is to a and because a to b is as c is to d, permutatively a to c will be as b is to d. And again, that b to a is
-							as d is to e, permutatively b to d will be as a is to e, wherefore a to e will be as d is to c. But if e does not equal c, the impossible shall occur
+							as d is to c. However, if d is to e as b is to a and because a to b is as c is to d, permutably a to c will be as b is to d. And again, that b to a is
+							as d is to e, permutably b to d will be as a is to e, wherefore a to e will be as d is to c. But if e does not equal c, the impossible shall occur
 							contrary the second part of the <span class="propositio">9th</span>, but if it is equal, b to a will be as d is to c, which is the intention.
 						</td>
 						<td class="additio">
-							Conversa quoque proportionalitas quam ex diffinitione incontinuae proportionalitatis demonstravimus in exponendo principia <span class="liber">huius</span>
-							<span class="propositio">quinti</span>. pont hic quoque demonstrari indirectae ex permutata proportionalitate et <span class="propositio">.9.</span>
-							<span class="liber">huius</span> ut si sit proportio .a. ad .b. sicut .c. ad .d. dico quod erit .b. ad .a. sicut .d. ad .c. sin autem sit .d. ad .e. sicut
-							.b. ad .a. et quia .a. ad .b. est sicut .c. ad .d. erit permutatim .a. ad .c. sicut .b. ad .d. et quia iterum .b. ad .a. sicut .d. ad .e. erit quoque
-							permutatim .b. ad .d. sicut .a. ad .e. quare erit .a. ad .e. sicut .d. ad .c. si igitur .e. non sit aequale .c. accidet impossibile et contrarium secundae
-							partis <span class="propositio">.9.</span> si autem aequalis erit .b. ad .a. sicut .d. ad .c. quod est propositum.
+							¶&nbsp;Conversa quoque proportionalitas quam ex diffinitione incontinuae proportionalitatis demonstravimus in exponendo principia
+							<span class="liber">huius</span> <span class="propositio">quinti</span>. pont hic quoque demonstrari indirectae ex permutata proportionalitate et
+							<span class="propositio">.9.</span> <span class="liber">huius</span> ut si sit proportio .a. ad .b. sicut .c. ad .d. dico quod erit .b. ad .a. sicut .d. ad
+							.c. sin autem sit .d. ad .e. sicut .b. ad .a. et quia .a. ad .b. est sicut .c. ad .d. erit permutatim .a. ad .c. sicut .b. ad .d. et quia iterum .b. ad .a.
+							sicut .d. ad .e. erit quoque permutatim .b. ad .d. sicut .a. ad .e. quare erit .a. ad .e. sicut .d. ad .c. si igitur .e. non sit aequale .c. accidet
+							impossibile et contrarium secundae partis <span class="propositio">.9.</span> si autem aequalis erit .b. ad .a. sicut .d. ad .c. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 20</h1>
+						</td>
+						<td>
+							<h1>Propositio .20.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were however many quantities to any others according to their number, of which any two of the prior are each according to the proportion of
+							two posterior, it is necessary they be of a certain equality in proportionality, so if the first of the prior were greater than the last, the first of the
+							posterior shall be greater than the last. And if less, then less. And if equal, then equal.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet quantitates aliaequam secundum earum numerum quarum quaeque duae priorum secundum proportionem duarum postremarum necesse est in
+							proportionalitate quidam aequalitatis ut si fuerit prima priorum ultima maior. et posteriorum primam ultima esse maiorem. Quod si minor et minorem. Si vero
+							aequalis et aequalem.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Euclid is going to demonstrate a mode of argument that is called equal proportionality, whether the quantities of two orders are directly or
+							perversely proportional, and sets forth two antecedents necessary to demonstrate the intention: through the first of which equal proportionality is
+							demonstrated when the quantities of two orders are proportioned directly, and by the second when they are proportioned perversely, but he proposes
+							these two antecedents for the quantities of two orders be equal in number, whatsoever it is.
+						</td>
+						<td>
+							¶&nbsp;Demonstraturus euclides modum arguendi qui dicitur aequa proportionalitas sive quantitates duorum ordinum directae sive perversim proportionentur:
+							praemittit duo antecedentia ad demonstrandum propositum necessaria: per quorum primum demonstratur aequa proportionalitas cum quantitates duorum ordinum
+							directae proportionantur: per secundum autem cum proportionantur perversim proponit autem haec duo antecedentia de quantitatibus duorum ordinum numero
+							aequalibus quaecumque fuerit.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For, taken universally both quantities according to whatever number have veracity, but it is not necessary that we demonstrate them except by threes, for
+							this is wholly sufficient for the intention, but with regard to more and they too will become clear through equal proportionality, when that has been
+							demonstrated.
+						</td>
+						<td>
+							Universaliter enim sumptis utrobique quantitatibus secundum quemcunque numerum veritatem habent. non est autem necesse ut demonstremus ea nisi solum in
+							tribus hoc enim omnino sufficiens est ad propositum. de pluribus autem quibusque patebit per aequam proportionalitatem cum ipsa demonstrata fuerit.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Suppose then three quantities, a, b, and e, and take three more, which are c, d and f, and let the proportion of a to b be as c is to d, and b to d
+							as d is to f. I say that if a is greater than e, c will be greater than f, and if lesser, lesser, and if equal, equal.
+						</td>
+						<td>
+							¶&nbsp;Sint igitur tres quantitates .a.b.e. sumanturque tres aliae quae sint .c.d.f. et sit proportio .a. ad .b. sicut .c. ad .d. et .b. ad .e. sicut .d.
+							ad .f. dico quod si .a. est maior .e.c. erit maior .f. et si minor minor: et si aequalis aequalis.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For if it is greater, by the first part of the <span class="propositio">8th</span> a to b will be a greater proportion than e to b, wherefore by the
+							<span class="propositio">12th</span> c to d will be greater than e to b, and that by a conversion of proportionality e to b is as f to d, c to d will be
+							greater than f to d, and so by the first part of the <span class="propositio">10th</span> c is greater than f, which is the intention.
+						</td>
+						<td>
+							Si enim est maior erit per primam partem <span class="propositio">.8.</span> maior proportio .a. ad .b. quam .e. ad .b. quare per
+							<span class="propositio">.12.</span> maior erit .c. ad .d. quam .e. ad .b. et quia per conversam proportionalitatem .e. ad .b. est sicut .f. ad .d. erit
+							.c. ad .d. maior quam .f. ad .d. itaque per primam partem <span class="propositio">.10.</span>c. est maior .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if a were less than e, by the same way and same mode c is proven to be less than f, for if the proportion of a to b is less than e to b, by the first
+							part of the <span class="propositio">8th</span>, and so by the <span class="propositio">12th</span>, and by a conversion of proportionality, c to d will be
+							less than f to d, and so by the first part of the 10th c will be less than f, which is the intention.
+						</td>
+						<td>
+							Quod si .a. sit minor .e. per easdem et eodem modo probabitur .c. esse minorem .f. erit enim minor proportio .a. ad .b. quam .e. ad .b. per primam partem
+							<span class="propositio">.8.</span> et ideo per <span class="propositio">.12.</span> et per conversam proportionalitatem minor erit .c. ad .d. quam .f. ad
+							.d. et ideo per primam partem .10. erit .c. minor .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if a were equal to e, by the first part of the <span class="propositio">7th</span> the proportion of a to b will be as e to b, and so by the second of
+							the <span class="propositio">11th</span>, and a conversion of proportionality, c to d will be as f to d, whereby through the first part of the
+							<span class="propositio">9th</span> c is equal to f, which is the intention.
+						</td>
+						<td>
+							Si autem .a. sit aequalis .e. erit per primam partem <span class="propositio">.7.</span> proportio .a. ad .b. sicut .e. ad .b. et ideo per secundam
+							<span class="propositio">.11.</span> et conversam proportionalitatem erit .c. ad .d. sicut .f. ad .d. quare per primam partem
+							<span class="propositio">.9.</span>c. est aequalis .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;However, some have demonstrated this conclusion by proportionality, permutably in this way, that the proportion of a to b is as c is to d, thus a to
+							c is permutably as b is to d, and that again, b to e is as d is to f, b to d will permutably be as e is to f. But b was to d as a is to c, thus by the
+							<span class="propositio">11th</span> a to c will be as e to f, and so by the <span class="propositio">14th</span>, if a the first is greater than e the
+							third, c the second will be greater than f the fourth, and if less, less, and if equal, equal, which is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Quidam autem hanc conclusionem demonstraverunt eam per proportionalitatem permutatim hoc modo. proportio .a. ad .b. est sicut .c. ad .d. ergo
+							permutatim .a. ad .c. sicut .b. ad .d. et quia rursus .b. ad .e. sicut .d. ad .f. erit permutatim .b. ad .d. sicut .e. ad .f. sed erat .b. ad .d. sicut .a.
+							ad .c. ergo per <span class="propositio">.11.</span> erit .a. ad .c. sicut .e. ad .f. itaque per <span class="propositio">.14.</span> si .a. prima est
+							maior .e. tertia. erit .c. secunda. maior .f. quarta: et si minor minor: et si aequalis aequalis: quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;But they erred in their demonstration, for if Euclid's intention was to demonstrate thusly he would not have had to preface this conclusion for an
+							antecedent to equal proportionality: for again, if there is one permutation of proportionality to which we have arrived, which is to be a to c as e to f,
+							it follows that a to e is as c to f, and this is equal proportionality.
+						</td>
+						<td class="additio">
+							¶&nbsp;Isti autem erraverunt in sua demonstratione: quia si esset intentio euclidis sic demonstrare non oporteret ipsum praemittere hanc conclusionem pro
+							antecedente ad aequam proportionalitatem: si enim rursus fiat una permutatio proportionalitatis ad quam deventum est quae est esse .a. ad .c. sicut .e. ad
+							.f. sequitur quod sit .a. ad .e. sicut .c. ad .f. et hoc est aequa proportionalitas.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							Furthermore, their conclusion does not follow unless all the quantities of both orders are of one kind.
+						</td>
+						<td class="additio">
+							Preterea eorum conclusio non sequitur: nisi omnes quantitates amborum ordinum fuerint generis unius.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							For if a, b, and e were lines and c, d, and f superficies, or bodies, or times, then there is no need to permute the proportions, and so they transgress by
+							speaking universally and demonstrating particularly.
+						</td>
+						<td class="additio">
+							Si enim .a.b.e. sint lineae. et .c.d.f. superficies: aut corpora: aut tempora: non erit tunc permutare proporitones: peccant igitur universaliter dictum
+							particulariter demonstrantes.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 21</h1>
+						</td>
+						<td>
+							<h1>Propositio .21.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were however many quantities to any others according to their number, of which any two from the prior and any two from the posterior were each
+							compared perversely according to their proportion, it is likewise necessary in a proportionality of equality that if the first of the prior be greater than
+							the last, then the first of the posterior shall be greater than the last. And if less, then less. And if equal, then equal.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet quantitates aliequem secundum earum numerum quarum quaeque duae ex prioribus quibusque duabus ex posterioribus perversim
+							comparatae secundum proportionem earum fuerint. necesse quoque est ut si fuerint in proportionalitate aequalitatis priorum prima ultima maior. et
+							posteriorum prima ultima esse maiorem. si autem minor et minorem. Si vero aequalis et aequalem.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;To the second antecedent let there be three quantities, a, b, and e, and let three more be taken, which are f, c, and d, and suppose the proportion
+							of a to b is as c to d, and b to e is as f to c. I say that if a is greater than e, f will be greater than d, and if lesser, lesser, and if equal, equal,
+							and this is proven through same means and by the same mode as in the preceding. For if a is greater than e, the proportion of a to b will be greater than e
+							to b, wherefore c to d will be greater than e to b, and so greater than c to f, thus f will be greater than d by the second part of the
+							<span class="propositio">10th</span>, which is the intention. But if a is less than e then c to d will be less than to f, wherefore by the same part of the
+							<span class="propositio">same</span>, f will be less than d.
+						</td>
+						<td>
+							¶&nbsp;Secundum antecedens sint tres quantitates .a.b.e. sumanturque aliae tres quae sunt .f.c.d. et sit proporito .a. ad .b. sicut .c. ad .d. et .b. ad
+							.e. sicut .f. ad .c. dico quod si .a. est maior .e.f. erit maior .d. et si minor minor: et si aequalis. aequalis: hic autem probatur per easdem et eodem
+							modo quo praecedens: si enim .a. sit maior .e. erit maior proportio .a. ad .b. quam .e. ad .b. quare maior .c. ad .d. quam .e. ad .b. et ideo maior quam
+							.c. ad .f. maior igitur .f. quam .d. per secundam partem <span class="propositio">.10.</span> quod est propositum. quod si .a. sit minor .e. erit tandem
+							minor .c. ad .d. quam ad .f. quare per eandem partem <span class="propositio">eiusdem</span> .f. erit minor .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if a is equal to e, it follows that the proportion of c to d will be as c to f, therefore by the second part of the <span class="propositio">9th</span>
+							f will equal d, which is the intention.
+						</td>
+						<td>
+							Si autem .a. sit aequalis .e. sequitur ut sit proportio .c. ad .d. sicut .c. ad .f. igitur per secundam partem <span class="propositio">.9.</span> erit .f.
+							aequalis .d. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
