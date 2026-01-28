@@ -12938,6 +12938,113 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 22</h1>
+						</td>
+						<td>
+							<h1>Propositio .22.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were however many quantities to some others according to their number, of which any two were in equal proportionality according to the proportion
+							of two from the first, they will be proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet quantitates aliaequem secundum earum numerum quarum quaeque duae secundum proportionem duarum ex primis in aequa proportionalitate
+							proportionales erunt.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;After having demonstrated the antecedents to equal proportionality he demonstrates it here, and first is when the quantities of two orders are
+							directly proportional.
+						</td>
+						<td>
+							¶&nbsp;Demonstratis antecedentibus ad aequam proportionalitatem. hic demonstrat eam: et primo cum quantitates duorum ordinum sunt directae proportionales.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							It is not, however, necessary that it is demonstrated except for when there are only three quantities in each of the two orders.
+						</td>
+						<td>
+							Non est autem necesse ut demonstraretur nisi cum in utroque duorum ordinum sunt tantum tres quantitates.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For through this it evidently follows when four quantities are in each of the orders, and so forth, and so its antecedents should not be demonstrated
+							except only when they also have three quantities in each order.
+						</td>
+						<td>
+							Per hoc enim evidenter sequitur cum in utroque ordine fuerint quatuor quantitates et deinceps: et ideo etiam non oportuit eius antecedens demonstrari nisi
+							solum cum in utroque ordine sunt etiam tres quantitates.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Let there then be three quantities, a, b, and e, and suppose three more are taken that are c, d, and f, and let the proportion of a to b be as c to
+							d, and b to e be as d to f. I say that a to e will be as c to f, for I will take the equal multiples, g to a and h to c.
+						</td>
+						<td>
+							¶&nbsp;Sint igitur tres quantitates .a.b.e. sumanturque tres aliae quae sunt .c.d.f. et sit proporito .a. ad .b. sicut .c. ad .d. et .b. ad .c. sicut .d.
+							ad .f. dico quod erit .a. ad .e. sicut .c. ad .f. sumam enim .g. ad .a. et .h. ad .c. aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise, the equals k to b, and l to d, and again, the equals m to e, and n to f, and by the 4th, g to k will be as h to l and k to m as l to n, which
+							is why by the <span class="propositio">20th</span>, if g is greater than m, h will be greater than n, and if less, less, and if equal, equal, therefore, by
+							the definition of incontinuous proportionalities the proportion of a to e is as c is to f, which is the intention.
+						</td>
+						<td>
+							Itemque .k. ad .b. et .l. ad .d. aequae et rursus .m. ad .e. et .n. ad .f. aequae. eritque per .4.g. ad .k. sicut .h. ad .l. et .k. ad .m. sicut .l. ad .n.
+							quare per <span class="propositio">.20.</span> si .g. est maior .m. erit h. maior .n. et si minor minor: et si aequalis aequalis. igitur per diffinitionem
+							incontinuae proportionalitatis proportio .a. ad .e. est sicut .c. ad .f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;This may also be demonstrated by the <span class="propositio">15th</span> of <span class="liber">this</span> by taking the equal multiples g, k, and
+							m, to a, b, and e, and h, l, and n, to c, d, and f, for by the <span class="propositio">15th</span>, g to k will be as h to l, and k to m as l to n, and
+							the rest will be drawn as before.
+						</td>
+						<td>
+							¶&nbsp;Potest quoque hoc demonstrari per <span class="propositio">.15.</span> <span class="liber">huius</span> sumptis .g.k.m. ad .a.b.e. et .h.l.n. ad
+							.c.d.f. aequae multiplicibus: erit enim per <span class="propositio">.15.</span>g. ad .k. sicut .h. ad .l. et .k. ad .m. sicut .l. ad .n. cetera pertracta ut prius.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;But if the quantities in each order were more than threes, such as four, then you add p and q so that e to p shall be as f is to q, and a to p will
+							again be as c is to q since a to e will be as c is to f, for this is demonstrated, therefore, by sublating b and d there will be three quantities, a, e,
+							and p, and the other three, c, f, and q, as proposed, wherefore a to p is as c to q, and as is demonstrated from 4 by three by sublating one in the middle:
+						</td>
+						<td>
+							¶&nbsp;Quod si fuerint quantitates plures tribus in utroque ordine: utpote quatuor additis .p. et .q. ita quod sit .e. ad .p. sicut .f. ad .q. erit iterum
+							.a. ad .p. sicut .c. ad .q. erit enim .a. ad .e. sicut .c. ad .f. hoc enim demonstratum est sublatis igitur .b. et .d. erunt tres quantitates .a.e.p. et
+							aliae tres .c.f.q. ut proponitur: quare .a. ad .p. sicut .c. ad .q. sicutque demonstratur de .4. per tres sublato uno medio.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							The same will be demonstrated from 5 by 4 by sublating two in the middle, and from 6 by 5 by sublating three, and so on for the rest.
+						</td>
+						<td>
+							Eodem modo demonstrabis de .5. per .4. sublatis duobus mediis: et de .6. per .5. sublatis tribus: et sic de ceteris.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
