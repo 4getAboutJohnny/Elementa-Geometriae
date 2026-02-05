@@ -13045,6 +13045,129 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 23</h1>
+						</td>
+						<td>
+							<h1>Propositio .23.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were however many quantities to some others according to their number, of which any two were indirectly proportioned according to the
+							proportion of two from the prior, the proportions will be in equal proportionality.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet quantitates aliaeque secundum earum numerum quarum quaeque duae secundum proportionem duarum ex prioribus indirectae
+							proportionatae in aequae proportionalitate proportiones erunt.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;He demonstrates equal proportionality in quantities of two orders that are indirectly or perversely proportional.
+						</td>
+						<td>
+							¶&nbsp;Demonstrat aequam proportionalitatem in quantitatibus duorum ordinum indirectae sive perversim proportionatis.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Neither is it necessary that it be demonstrated except when there are but three quantities in each of the two orders, for through this it clearly follows
+							for whatever is placed in each order, just as was demonstrated in the preceding with direct proportions.
+						</td>
+						<td>
+							Nec est necesse quod demonstretur nisi cum in utroque duorum ordinum sunt tantum tres quantitates: per hoc enim evidenter sequitur quaecumque ponantur in
+							utroque ordine sicut in praemissa de directae proportionatis demonstratum est.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Suppose then the 3 quantities, a, b, and e, and place 3 more, which are f, c, and d, and let the proportion of a to b be as c is to d, and b to e be as f
+							is to c. I say that a to e will be as f is to d, for I place the equal multiples, g to a, and h to c, and k to f.
+						</td>
+						<td>
+							Sint igitur .3. quantitates .a.b.e. sumanturque aliae .3. quae sint .f.c.d. et sit proportio .a. ad .b. sicut .c. ad .d. et .b. ad .e. sicut .f. ad .c.
+							dico quod erit .a. ad .e. sicut .f. ad .d. sumam enim .g. ad .a. et .h. ad .c. et k. ad .f. aequae multiplicia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And likewise the equals l to b, and m to e, and n to d, and by the <span class="propositio">fourth</span> g to l will be as h to n, and by the
+							<span class="propositio">15th</span> l to m will be as k to h, wherefore by the <span class="propositio">21st</span>, if g exceeds m then k exceeds n. And
+							if it is lesser, lesser, and if it is equal, equal, therefore, by the definition of incontinuous proportionalities, the proportion of a to e is as f to d,
+							which is the intention.
+						</td>
+						<td>
+							Itemque .l. ad .b. et .m. ad .e. et .n. ad .d. aequae: eritque per <span class="propositio">quartam</span> .g. ad .l. sicut .h. ad .n. et per
+							<span class="propositio">.15.</span>l. ad .m. sicut .k. ad .h. quare per <span class="propositio">.21.</span> si .g. addit super .m. et .k. addit super .n.
+							et si minuit minuit: et si aequat aequat: ergo per diffinitionem incontinuae proportionalitatis proportio .a. ad .e. est sicut .f. ad .d. quod est
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And this may also be demonstrated by the <span class="propositio">15th</span> of <span class="liber">this</span>, by taking the equal mltiples g, l, and m,
+							to a, b, and e, and k, h, and n, to f, c, and d, and by the <span class="propositio">15th</span> g to l will be h to n and l to m as k to h, and the rest
+							is drawn as the prior.
+						</td>
+						<td>
+							Potest quoque et hoc demonstrari per <span class="propositio">.15.</span> <span class="liber">huius</span> sumptis .g.l.m. ad .a.b.e. et .k.h.n. ad .f.c.d.
+							aequae multiplicibus: erit enim per <span class="propositio">.15.</span>g. ad .l. sicut .h. ad .n. et .l. ad .m. sicut .k. ad .h. cetera pertracta ut
+							prius.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							However, these and the preceding are more conveniently demonstrated according to the first mode.
+						</td>
+						<td>
+							Convenientius tamen demonstrantur haec et praemissa secundum primum modum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;But if there were more than three quantities in each order, such as four, then you add p and q so that a to b is as d to q, and b to e is as c to d,
+							and e to p is as f to c, and a to p will again be as is f to q for by the preceding demonstration, a to e will be as c to q.
+						</td>
+						<td>
+							¶&nbsp;Quod si plures tribus fuerint quantitates in utroque ordine: utpote quatuor additis .p. et .q. ita quod sit .a. ad .b. sicut .d. ad .q. et .b. ad
+							.e. sicut .c. ad .d. et .e. ad .p. sicut .f. ad .c. erit iterum .a. ad .p. sicut .f. ad .q. erit enim per praedemonstrata .a. ad .e. sicut .c. ad .q.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, by sublating b and d the three quantities, a, e and p, and the three other, f, c, and q, will be as proposed, wherefore a to p is as f to q.
+						</td>
+						<td>
+							Sublatis igitur .b. et .d. erunt tres quantitates .a.e.p. et aliae tres .f.c.q. ut proponitur: quare .a. ad .p. sicut .f. ad .q.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							It is thus demonstrated in this way of 4 by three, by one sublated from the middle.
+						</td>
+						<td>
+							Sic igitur demonstratur de .4. per tres sublato uno medio.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And in the same mode you will demonstrate 5 by four by sublating 2 middles, and 6 by 5 by sublating three, and so on for the rest.
+						</td>
+						<td>
+							Eodem modo demonstrabis de .5. per quatuor sublatis duobus mediis. et de .6. per .5. sublatis tribus: et sic in ceteris.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
