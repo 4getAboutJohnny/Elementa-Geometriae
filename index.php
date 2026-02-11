@@ -13168,6 +13168,59 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 24</h1>
+						</td>
+						<td>
+							<h1>Propositio .24.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportion of the first to second were as third to fourth, and the proportion of the fifth to second were as sixth to fourth, then the proportion
+							of the first and fifth accepted together to the second will be as the sixth and third accepted together to the fourth.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit proportio primi ad secundum tanquam tertii ad quartum. proportio vero quinti ad secundum. tanquam sexti ad quartum: erit proportio primi et
+							quinti pariter acceptorum ad secundum tanquam sexti et tertii pariter acceptorum ad quartum.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;What the <span class="propositio">second</span> proposed for multiples, this proposes universally for all proportions, wherefore it is more
+							commonplace than that, as multiplicity is proportion and this relates to that, just as the <span class="propositio">13th</span> relates to the
+							<span class="propositio">first</span>.
+						</td>
+						<td>
+							¶&nbsp;Quod <span class="propositio">secunda</span> proposuit de multiplicibus haec proponit universaliter de omnibus proportionibus. unde est illa tanto
+							communior quanto multiplicitate proportio et se habet ad illam: quaemadmodum <span class="propositio">.13.</span> ad
+							<span class="propositio">primam.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, let the proportion of a.b to c be as d.e is to f, and likewise b.g to c as e.h is to f. I say that the proportion of a.g to c is as d.h is to f,
+							for by converse proportionality, c to b.g will be as f to e.h, wherefore by the <span class="propositio">22nd</span>, a.b to b.g will be in equal
+							proportionality as e.d is to e.h, therefore, jointly through the <span class="propositio">18th</span> a.g to g.b is as d.h is to h.e, and so by the
+							<span class="propositio">22nd</span> a.g to c will be in equal proportionality as d.h is to f, which is the intention.
+						</td>
+						<td>
+							Sit igitur proportio .a.b. ad .c. sicut .d.e. ad .f. et item .b.g. ad .c. sicut .e.h. ad .f. dico quod proportio .a.g. ad .c. est sicut .d.h. ad .f. erit
+							enim per conversam proportionalitatem .c. ad .b.g. sicut .f. ad .e.h. quare per <span class="propositio">.22.</span> erit in aequae proportionalitate .a.b.
+							ad .b.g. sicut .e.d. ad .e.h. ergo coniunctim per <span class="propositio">.18.</span>a.g. ad .g.b. sicut .d.h. ad .h.e. itaque per
+							<span class="propositio">.22.</span> erit in aequa proportionalitate .a.g. ad .c. sicut .d.h: ad .f. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
