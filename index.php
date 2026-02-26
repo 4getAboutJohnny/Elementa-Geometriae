@@ -13221,6 +13221,158 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 25</h1>
+						</td>
+						<td>
+							<h1>Propositio .25.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were [four] proportional quantities, and the first of them were the greatest and the last were the least, the first and last accepted together are necessarily understood to be greater than the other two.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quantitates proportionales: fueritque prima earum maxima. et ultima minima. primam et ultimam pariter acceptas ceteris duabus maius esse necessario comprobatur.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;What is proposed here has no place except when all four quantities are of the same kind.
+						</td>
+						<td>
+							¶&nbsp;Quod hic proponitur non habet locum nisi cum omnes quatuor quantitates sint eiusdem generis.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, suppose four quantities of the same kind, proportion a.b to c.d as e to f, and a.b is the greatest, and it is not necessary to assume that
+							f is the least, for it follows from <span class="propositio">this</span> that a.b is posited greatest, wherefore the author did not posit that as a
+							position in this conclusion, but rather as a conclusion of the <span class="propositio">preceding</span> position. I say that since this was so, the
+							aggregate from a.b and f will be greater than that from c.d and e.
+						</td>
+						<td>
+							Sint igitur quatuor quantitatum eiusdem generis proportio .a.b. ad .c.d. sicut .e. ad .f. sitque .a.b. maxima: neque oportet ponere quod .f. sit minima:
+							quia ipsum ex <span class="propositio">hoc</span> sequitur quod .a.b. posita est maxima. unde non posuit hoc auctor in conclusione tandem positionem: sed
+							potius tanquam <span class="propositio">preacedentis</span> positionis conclusionem. dico quod cum ita fuerit maius erit aggregatum ex .a.b. et .f. quam ex
+							.c.d. et .e.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For since a.b is greater than e, I will abscind g.b, equal to e, from b.a.
+						</td>
+						<td>
+							Cum enim .a.b. sit maior .e. absicndam ex .b.a.g.b. aequalem .e.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And similarly, because c.d is greater than f I will abscind h.d, equal to f, from c.d, and by the hypothesis, a.b to c.d will be as g.b to h.d,
+							wherefore by the <span class="propositio">19th</span>, the residual a.g to the residual c.h will be as the total a.b to the total c.d, namely, a.b to c.d.
+						</td>
+						<td>
+							¶&nbsp;Similiter quoque quia .c.d. est maior .f. abscindam ex .c.d.h.d. aequalem .f. eritque propter ypothesim .a.b. ad .c.d. sicut .g.b. ad .h.d. quare
+							per <span class="propositio">.19.</span>a.g. residuum ad .c.h. residuum sicut tota .a.b. ad totum .c.d. scilicet .a.b. ad .c.d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, since a.g is itself to c.h as a.b is to c.d but a.b is greater than c.d, then a.g is greater than c.h, therefore you add each to the two
+							quantities, g.b and h.d, and by common knowledge, that aggregated from a.b and h.d is greater than that aggregated from c.d and g.b, and because d.h is
+							posited equal to f, and g.b to e, that aggregated from a.b and f will be greater than that aggregated from c.d and e, which is the intention.
+						</td>
+						<td>
+							Cum ergo .a.g. se habet ad .c.h. sicut .a.b. ad .c.d. sed .a.b. est maior .c.d. quare .a.g. maior est .c.h. additis igitur utrique duabus quantitatibus
+							.g.b. et .h.d. erit per communem scientiam aggregatum ex .a.b. et .h.d. maius aggregato ex .c.d. et .g.b. et quia .d.h. posita est aequalis .f. et .g.b.e.
+							maius erit aggregatum ex .a.b. et .f. quam aggregatum ex .c.d. et .e. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 26</h1>
+						</td>
+						<td>
+							<h1>Propositio .26.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four quantities and the proportion of first to second were greater than third to fourth, contrariwise by conversion the proportion of
+							second to first will be less than fourth to third.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit quatuor quantitatum proportio primae ad secundam maior quam tertiae ad quartam. erit conversim econtrario proportio secundae ad primam minor
+							quam quartae ad tertiam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+						¶&nbsp;Suppose the proportion of a to b is greater than c to d. I say that contrariwise by way of conversion, the proportion of b to a will be less than d to
+						c, for if b to a is the same to which is d to c, a to b will conversely be as c to d, but it is not, indeed it is greater.
+						</td>
+						<td class="additio">
+						¶&nbsp;Sit proportio .a. ad .b. maior quam .c. ad .d. dico quod erit econverso modo contrario minor proportio .b. ad .a. quam .d. ad .c. si enim est eadem .b.
+						ad .a. quae est .d. ad .c. erit econverso .a. ad .b. ut .c. ad .d. sed non est immo maior.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And if b to a is greater than d to c, were e to a as d to c, then from the <span class="propositio">12th</span> e to a will be less than b to a, wherefore
+							from the first part of the <span class="propositio">10th</span>, e is less than b.
+						</td>
+						<td class="additio">
+							At vero si est .b. ad .a. maior quam .d. ad .c. sit .e. ad .a. ut .d. ad .c. eritque ex <span class="propositio">.12.</span>e. ad .a. minor quam .b. ad .a.
+							quare ex prima parte <span class="propositio">.10.</span>e. est minor .b.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And so from the second part of the <span class="propositio">8th</span>, the proportion of a to e will be greater than a to b, and that by a conversion of
+							proportionality a to e is as c to d, then from the <span class="propositio">12th</span>, the proportion of c to d will be greater than a to b. But it is
+							less, thus the intention is forsook.
+						</td>
+						<td class="additio">
+							Ideoque ex secunda parte <span class="propositio">.8.</span> maior erit proportio .a. ad .e. quam .e.[sic] ad .b. et quia per conversam proportionalitatem
+							.a. ad .e. sicut .c. ad .d. erit ex <span class="propositio">.12.</span> proportio .c. ad .d. maior quam .a. ad .b. sed erit minor: relinquitur ergo
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;We may also, if we wish, adstruct the proposition ostensively, for it is manifest from the first part of the <span class="propositio">10th</span>
+							that that quantity of which to b is the same proportion that is c to d is less than a, for that it is posited the proportion of a to b is greater than c to
+							d, therefore, let that quantity be e, and since the proportion of e to b is as c to d, b to e will conversely be as d to c. And it is certain from the
+							second part of the <span class="propositio">8th</span> that the proportion of b to a is less than the proportion of b to e, and so by the
+							<span class="propositio">12th</span>, the proportion of b to a is less than d to c, which is what we wanted.
+						</td>
+						<td class="additio">
+							¶&nbsp;Possumus quoque si libet astruere propositum ostensive: manifestum enim est ex prima parte <span class="propositio">.10.</span> quod illa quantitas
+							cuius ad .b. est. eadem proportio quae est .c. ad .d. est minor .a. eo quod ponitur maior proportio .a. ad .b. quam .c. ad .d. illa ergo quantitas sit .e.
+							cum sit igitur proportio .e. ad .b. ut .c. ad .d. erit econverso .b. ad .e. ut .d. ad .c. Constat autem ex secunda parte
+							<span class="propositio">.8.</span> quod proportio .b. ad .a. minor est quam proportio .b. ad .e. itaque per <span class="propositio">.12.</span> proportio
+							.b. ad .a. est minor quam .d. ad .c. quod voluimus.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
