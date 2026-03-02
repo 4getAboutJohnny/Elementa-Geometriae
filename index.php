@@ -13373,6 +13373,78 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 27</h1>
+						</td>
+						<td>
+							<h1>Propositio .27.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four quantities and the proportion of first to second were greater than third to fourth, then 	permutably the proportion of first to third
+							will be greater than second to fourth.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit quatuor quantitatum maior proportio primae ad secundam. quam tertiae ad quartam. erit permutatim maior proportio primae ad tertiam. quam
+							secundae ad quartam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Suppose here too the proportion of a to b is greater than c to d. I say that permutably, the proportion of a to c will be greater than b to d, for
+							it will not be the same because then a to b would also permutably be as c to d, and neither will it be less.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sit hic quoque proportio .a. ad .b. maior quam .c. ad .d. dico quod erit permutatim maior proportio .a. ad .c. quam .b. ad .d. eadem enim non erit
+							quia tunc quoque esset permutatim .a. ad .b. sicut .c. ad .d. neque minor.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							For if this were supposed, then let e to c be as b to d, and from the <span class="propositio">12th</span>, the proportion of e to c will be greater than a
+							to c, wherefore from the first part of the <span class="propositio">10th</span>, e is greater than a.
+						</td>
+						<td class="additio">
+							Nam si hoc ponatur: sit itaque .e. ad .c. ut .b. ad .d. eritque ex <span class="propositio">.12.</span> maior proportio .e. ad .c. quam .a. ad .c. quare ex
+							prima parte <span class="propositio">.10.</span>e. est maior .a.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And so by the first part of the 8th, the proportion of e to b is greater than a to b, and since the intention is that e to c should be as b to d, permutably
+							e to b will be as c to d, thus, from the <span class="propositio">12th</span>, the proportion of c to d will be greater than a to b. But the opposite was
+							posited, therefore, the proposition is true.
+						</td>
+						<td class="additio">
+							Itaque per primam partem .8. proportio .e. ad .b. est maior quam .a. ad .b. et quia positum est ut sit .e. ad .c. sicut .b. ad .d. erit permutatim .e. ad
+							.b. sicut .c. ad .d. ex <span class="propositio">.12.</span> igitur maior erit proportio .c. ad .d. quam .a. ad .b. sed positum erat oppositum: verum est
+							ergo propositum.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							¶&nbsp;The same may also be done ostensively, just as in the preceding, for if e to b is assumed as c to d, from the first part of the
+							<span class="propositio">10th</span> e will be less than a, then from the first part of the <span class="propositio">8th</span>, a to c will be greater than
+							e to c. But from permuted proportionality e to c is as b to d, and so from the <span class="propositio">12th</span>, a to c is greater than b to d, which
+							is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Ostensive quoque idem quaeadmodum in praemissa: sumpta enim est .e. ad .b. ut .c. ad .d. erit ex prima parte <span class="propositio">.10.</span>e.
+							minor .a. quare ex prima parte <span class="propositio">.8.</span> maior erit .a. ad .c. quam .e. ad .c. sed ex permutata proportionalitate est .e. ad .c.
+							ut .b. ad .d. igitur ex <span class="propositio">.12.</span>a. ad .c. est maior quam .b. ad .d. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
