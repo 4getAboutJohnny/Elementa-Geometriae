@@ -9271,10 +9271,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Thus every part is a submultiple, as is evident by its definition.
+							Thus every part is a <span class="definitio">submultiple</span>, as is evident by its definition.
 						</td>
 						<td class="additio">
-							Nam omnis pars submultiplex: ut patet per eius diffinitionem.
+							Nam omnis pars <span class="definitio">submultiplex</span>: ut patet per eius diffinitionem.
 						</td>
 					</tr>
 				</tbody>
@@ -9313,7 +9313,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							However, proportion is not merely found within quantities, but in weights, in potentials, and in sounds.
+							However, proportion is not found merely within quantities, but in weights, in potentials, and in sounds.
 						</td>
 						<td class="additio">
 							Non enim solum in quantitatibus reperitur proportio. sed in ponderibus: potentiis et sonis.
@@ -9341,8 +9341,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							But in whatsoever thing proportion is found, they participate in nature and property of quantity, and it is not found in any two things unless the one of
-							them is greater or less than the other, or is equal to it.
+							But in whatsoever thing proportion is found, they participate in the nature and property of quantity, for it is not found in any two things unless the one
+							of them is greater or less than the other, or is equal to it.
 						</td>
 						<td class="additio">
 							Sed in quibuscunque proportio reperitur: ea participant naturam proprietatemque quantitatis: non enim reperitur in aliquibus rebus duabus nisi in eo quod
@@ -9351,10 +9351,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;And property of quantity is to be called <span class="definitio">equal</span> or <span class="definitio">unequal</span> according to itself, as
-							Aristotle intends in the Praedicamenta, whence it is clear proportion is found primarily within quantity, and then through that within all other things.
-							Neither shall there be proportion in any thing that is not similar by any quantity, by which Euclid rightly said proportion simply exists within quantity,
-							when he defined it by the mutual relationship of two quantities of the same kind.
+							¶&nbsp;And the property of quantity is to be called <span class="definitio">equal</span> or <span class="definitio">unequal</span> according to itself, as
+							Aristotle intends in the Praedicamenta, whence it is clear proportion is found primarily within quantity, and then through that in all other things.
+							Nor shall there be proportion in any thing that is not similar by any quantity, by which Euclid rightly said proportion simply exists within quantity when
+							he defined it by the mutual relationship of two quantities of the same kind.
 						</td>
 						<td class="additio">
 							¶&nbsp;Quantitatis autem proprium est secundum ipsam <span class="definitio">aequale</span> vel <span class="definitio">inaequale</span> dici. ut vult
@@ -9366,8 +9366,8 @@
 					<tr>
 						<td class="additio">
 							¶&nbsp;The understanding of this definition is that proportion is the habitude of two mutual quantities, which is attended by the fact that the one of them
-							is greater or less than the other, or equal to it, by which it is clear that it is proper for them to be of same kind, such as two numbers, or two
-							lines, or two superficies, or two bodies, or two places, or two times.
+							is greater or less than the other, or equal to it, by which it is clear that it is proper for them to be of same kind, as are two numbers, or two lines, or
+							two superficies, or two bodies, or two places, or two times.
 						</td>
 						<td class="additio">
 							¶&nbsp;Cuius diffinitionis intellectus est: quod proportio est habitudo duarum quantitatum adinvicem quae attenditur in eo quod una earum est maior aut
@@ -9377,7 +9377,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Because a line cannot be said greater or less than a superficies, or a body, nor a time or place; but a line to a line, and superficies to superficies.
+							For a line cannot be said greater or less than a superficies, or a body, nor a time or place; but a line to a line, and superficies to superficies.
 						</td>
 						<td class="additio">
 							Non enim potest dici linea maior aut minor superficie. aut corpore nec tempus loco. sed linea. linea et superficies superficie.
@@ -9425,10 +9425,12 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							And in numbers the less is either part or parts of the greater, as demonstrated in the seventh, therefore, within them all is a certain and known habitude.
+							And in numbers the less is either part or parts of the greater, as demonstrated in the <span class="propositio">seventh</span>, and so in them all is a
+							certain and known habitude.
 						</td>
 						<td class="additio">
-							In numeris autem minor est pars aut partes maiores ut demonstratur in septimo: quare et in eis omnibus est habitudo certa et nota.
+							In numeris autem minor est pars aut partes maiores ut demonstratur in <span class="propositio">septimo</span>: quare et in eis omnibus est habitudo certa
+							et nota.
 						</td>
 					</tr>
 					<tr>
@@ -9444,7 +9446,7 @@
 					<tr>
 						<td class="additio">
 							And all such quantities are said to be <span class="definitio">communicating</span>, because they are necessarily measured by one and the same thing, and so
-							all numbers are communicating for unity measures them all.
+							all numbers are communicating, for they are all measured alike.
 						</td>
 						<td class="additio">
 							Dicunturque omnes tales quantitates <span class="definitio">communicantes</span>: quia eas una et eadem necessario metitur. unde et omnes numeri sunt
@@ -9572,7 +9574,7 @@
 					<tr>
 						<td class="additio">
 							¶&nbsp;And continuous proportionality exists with any of the quantities of the same kind in which the first proportion antecedes the second in the same way
-							each of the following antecedes the next consequent, as when we say just as a is to d, thus b is to c, and c to d, and each of them will be antecedent and
+							each of the following antecedes the next consequent, as when we say just as a is to b, thus b is to c, and c to d, and each of them will be antecedent and
 							consequent excepting the first, which is solely antecedent, and the last, which is only consequent.
 						</td>
 						<td class="additio">
@@ -13389,7 +13391,7 @@
 					</tr>
 					<tr>
 						<td>
-							<h3>If there were four quantities and the proportion of first to second were greater than third to fourth, then 	permutably the proportion of first to third
+							<h3>If there were four quantities and the proportion of first to second were greater than third to fourth, then permutably the proportion of first to third
 							will be greater than second to fourth.</h3>
 						</td>
 						<td>
@@ -13442,6 +13444,135 @@
 							¶&nbsp;Ostensive quoque idem quaeadmodum in praemissa: sumpta enim est .e. ad .b. ut .c. ad .d. erit ex prima parte <span class="propositio">.10.</span>e.
 							minor .a. quare ex prima parte <span class="propositio">.8.</span> maior erit .a. ad .c. quam .e. ad .c. sed ex permutata proportionalitate est .e. ad .c.
 							ut .b. ad .d. igitur ex <span class="propositio">.12.</span>a. ad .c. est maior quam .b. ad .d. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 28</h1>
+						</td>
+						<td>
+							<h1>Propositio .28.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four quantities, of which the proportion of the first to second were greater than the third to fourth, conjunctively too will the proportion
+							of the first and second to the second be greater than the third and fourth to the fourth.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor quantitates quarum primae ad secundam sit maior proportio quam tertiae ad quartam. erit quoque coniunctim maior proportio primae et
+							secundae ad secundam quam tertiae et quartae ad quartam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proportion of a to b is greater than c to d. I say that the total of a.b to b will be greater than the total of c.d to d, because
+							neither will it be equal, nor will it be less. For if they are equal, then disjointedly a to b will be as c to d.
+						</td>
+						<td>
+							¶&nbsp;Sit maior proportio .a. ad .b. quam .c. ad .d. dico quod maior erit totius .a.b. ad .b. quam totius .c.d. ad .d. quia ipsa neque erit aequalis neque
+							minor. Si enim aequalis: tunc erit disiunctim .a. ad .b. ut .c. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if it is less, let e.b to b be as c.d to d, and from the <span class="propositio">12th</span>, the proportion of e.b to b will be greater than a.b to
+							b, and so from the first part of the <span class="propositio">10th</span>, e.b is greater than a.b, and by the conception, e is greater than a, wherefore
+							from the first part of the <span class="propositio">8th</span>, the proportion of e to b is greater than a to b. But e to b is as c to d by disjoined
+							proportionality, because e.b to b was as c.d to d, therefore, by the <span class="propositio">12th</span> c to d is greater than a to b, however, this is
+							contrary the hypothesis.
+						</td>
+						<td>
+							Si autem est minor: sit .e.b. ad .b. ut .c.d. ad .e.[sic] eritque ex <span class="propositio">.12.</span> maior proportio .e.b. ad .b. quam .a.b. ad .b.
+							itaque ex prima parte <span class="propositio">.10.</span>e.b. est maior quam .a.b. et per conceptionem .e. maior quam .a. quare ex prima parte
+							<span class="propositio">.8.</span> maior est proportio .e. ad .b. quam .a. ad .b. sed .e. ad .b. est ut .c. ad .d. per disiunctam proportionalitatem: eo
+							quod erat .e.b. ad .b. ut .c.d. ad .d. ergo per <span class="propositio">.12.</span>c. ad .d. est maior quam .a. ad .b. hoc autem est contra ypothesim.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The same, also ostensively: for when the proposition is that the proportion of a to b is greater than c to d, then let e to b be as c to d and
+							from the first part of the <span class="propositio">tenth</span>, e will be less than a.
+						</td>
+						<td>
+							¶&nbsp;Idem etiam ostensive: cum enim propositum sit quod maior sit proportio .a. ad .b. quam .c. ad .d. sit proportio .e. ad .b. ut .c. ad .d eritque ex
+							prima parte <span class="propositio">decimae</span> .e. minor .a.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And so from common conceptions, e.b will be less than a.b, wherefore by the first part of the <span class="propositio">8th</span>, the proportion of a.b to
+							b will be greater than e.b to b.
+							However the proportion of e.b to b is by conjointed proportionality as c.d to d, for it is posited that e to b is just as c to d, therefore, from the
+							<span class="propositio">12th</span>, a.b to b is greater than c.d to d, which is the intention.
+						</td>
+						<td>
+							Ideoque ex communi scientia .e.b. erit minor. quam .a.b. quare ex prima parte <span class="propositio">.8.</span> maior erit proportio .a.b. ad .b. quam
+							.e.b. ad .b.
+							At vero proportio .e.b. ad .b. est per coniunctam proporitonalitatem sicut .c.d. ad .d. positum enim est ut sit .e. ad .b. tanquam .c. ad .d. igitur ex
+							<span class="propositio">.12.</span> maior est .a.b. ad .b. quam .c.d. ad .d. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 29</h1>
+						</td>
+						<td>
+							<h1>Propositio .29.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four quantities of which the proportion of first and second to the second were greater than third and fourth to the fourth, disjunctively
+							too will the proportion of first to second be greater than third to fourth.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor quantitates quarum primae et secundae ad secundam sit maior proportio quam tertiae et quartae ad quartam. erit quoque disiunctim
+							proporito primae ad secundam maior quam tertiae ad quartam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							Suppose the proportion of a.b to b is greater than c.d to d. I say that disjunctively the proportion of a to b will be greater than c to d, else it will be
+							equal or less. But if it were equal, by conjunctive proportionality a.b to b will be as c.d to d, and if less, c to d will be greater than a to b, and so
+							by the preceding c.d to d will be greater than a.b to b, which is inconvenient, for it is posited that it is less, thus, what is said is true.
+						</td>
+						<td>
+							¶&nbsp;Sit proportio .a.b. ad .b. maior quam .c.d. ad .d. dico quod erit disiunctim proportio .a. ad .b. maior quam .c. ad .d. alioqui erit aequalis vel
+							minor. quod si aequalis erit per coniunctam proportionalitatem .a.b. ad .b. ut .c.d. ad .d. si autem minor erit maior .c. ad .d. quam .a. ad .b. ergo per
+							praemissam maior erit .c.d. ad .d. quam .a.b. ad .b. quod est inconveniens: quia positum est quod minor. verum est ergo quod dicitur.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Which we may also adstruct ostensively in this way, for we will suppose that the proportion of e.b to b is just as the proportion of c.d to d, and from the
+							first part of the <span class="propositio">10th</span>, e.b will be less than a.b, wherefore from common conceptions e is less than a, thus, from the first
+							part of the <span class="propositio">8th</span>, the proportion of e to b is less than a to b. But the proportion of e to b is as c to d from disjunctive
+							proportionalities, and so from the <span class="propositio">12th</span>, the proportion of a to b is greater than c is to d, which is the intention.
+						</td>
+						<td>
+							Quod etiam ostensive astruemus hoc modo ponemus enim ut proportio .e.b. ad .b. sit tanquam proportio .c.d. ad .d. eritque ex prima parte
+							<span class="propositio">.10.</span>e.b. minor quam .a.b. quare ex communi scientia .e. est minor quam .a. minor igitur est ex prima parte
+							<span class="propositio">.8.</span> proportio .e. ad .b. quam sit .a. ad .b. sed proportio .e. ad .b. est sicut .c. ad .d. ex disiuncta proportionalitate:
+							itaque ex <span class="propositio">.12.</span> proportio .a. ad .b. est maior quam sit .c. ad .d. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
