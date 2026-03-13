@@ -13474,24 +13474,24 @@
 				</tbody>
 				<tbody>
 					<tr>
-						<td>
+						<td class="additio">
 							¶&nbsp;Suppose the proportion of a to b is greater than c to d. I say that the total of a.b to b will be greater than the total of c.d to d, because
 							neither will it be equal, nor will it be less. For if they are equal, then disjointedly a to b will be as c to d.
 						</td>
-						<td>
+						<td class="additio">
 							¶&nbsp;Sit maior proportio .a. ad .b. quam .c. ad .d. dico quod maior erit totius .a.b. ad .b. quam totius .c.d. ad .d. quia ipsa neque erit aequalis neque
 							minor. Si enim aequalis: tunc erit disiunctim .a. ad .b. ut .c. ad .d.
 						</td>
 					</tr>
 					<tr>
-						<td>
+						<td class="additio">
 							And if it is less, let e.b to b be as c.d to d, and from the <span class="propositio">12th</span>, the proportion of e.b to b will be greater than a.b to
 							b, and so from the first part of the <span class="propositio">10th</span>, e.b is greater than a.b, and by the conception, e is greater than a, wherefore
 							from the first part of the <span class="propositio">8th</span>, the proportion of e to b is greater than a to b. But e to b is as c to d by disjoined
 							proportionality, because e.b to b was as c.d to d, therefore, by the <span class="propositio">12th</span> c to d is greater than a to b, however, this is
 							contrary the hypothesis.
 						</td>
-						<td>
+						<td class="additio">
 							Si autem est minor: sit .e.b. ad .b. ut .c.d. ad .e.[sic] eritque ex <span class="propositio">.12.</span> maior proportio .e.b. ad .b. quam .a.b. ad .b.
 							itaque ex prima parte <span class="propositio">.10.</span>e.b. est maior quam .a.b. et per conceptionem .e. maior quam .a. quare ex prima parte
 							<span class="propositio">.8.</span> maior est proportio .e. ad .b. quam .a. ad .b. sed .e. ad .b. est ut .c. ad .d. per disiunctam proportionalitatem: eo
@@ -13499,23 +13499,23 @@
 						</td>
 					</tr>
 					<tr>
-						<td>
+						<td class="additio">
 							¶&nbsp;The same, also ostensively: for when the proposition is that the proportion of a to b is greater than c to d, then let e to b be as c to d and
 							from the first part of the <span class="propositio">tenth</span>, e will be less than a.
 						</td>
-						<td>
+						<td class="additio">
 							¶&nbsp;Idem etiam ostensive: cum enim propositum sit quod maior sit proportio .a. ad .b. quam .c. ad .d. sit proportio .e. ad .b. ut .c. ad .d eritque ex
 							prima parte <span class="propositio">decimae</span> .e. minor .a.
 						</td>
 					</tr>
 					<tr>
-						<td>
+						<td class="additio">
 							And so from common conceptions, e.b will be less than a.b, wherefore by the first part of the <span class="propositio">8th</span>, the proportion of a.b to
 							b will be greater than e.b to b.
 							However the proportion of e.b to b is by conjointed proportionality as c.d to d, for it is posited that e to b is just as c to d, therefore, from the
 							<span class="propositio">12th</span>, a.b to b is greater than c.d to d, which is the intention.
 						</td>
-						<td>
+						<td class="additio">
 							Ideoque ex communi scientia .e.b. erit minor. quam .a.b. quare ex prima parte <span class="propositio">.8.</span> maior erit proportio .a.b. ad .b. quam
 							.e.b. ad .b.
 							At vero proportio .e.b. ad .b. est per coniunctam proporitonalitatem sicut .c.d. ad .d. positum enim est ut sit .e. ad .b. tanquam .c. ad .d. igitur ex
@@ -13538,11 +13538,11 @@
 						onclick="doTheSmash(this)">¶</span>]</span></td>
 					</tr>
 					<tr>
-						<td>
+						<td class="additio">
 							<h3>If there were four quantities of which the proportion of first and second to the second were greater than third and fourth to the fourth, disjunctively
 							too will the proportion of first to second be greater than third to fourth.</h3>
 						</td>
-						<td>
+						<td class="additio">
 							<h3>Si fuerint quatuor quantitates quarum primae et secundae ad secundam sit maior proportio quam tertiae et quartae ad quartam. erit quoque disiunctim
 							proporito primae ad secundam maior quam tertiae ad quartam.</h3>
 						</td>
@@ -13550,29 +13550,76 @@
 				</tbody>
 				<tbody>
 					<tr>
-						<td>
+						<td class="additio">
 							Suppose the proportion of a.b to b is greater than c.d to d. I say that disjunctively the proportion of a to b will be greater than c to d, else it will be
 							equal or less. But if it were equal, by conjunctive proportionality a.b to b will be as c.d to d, and if less, c to d will be greater than a to b, and so
 							by the preceding c.d to d will be greater than a.b to b, which is inconvenient, for it is posited that it is less, thus, what is said is true.
 						</td>
-						<td>
+						<td class="additio">
 							¶&nbsp;Sit proportio .a.b. ad .b. maior quam .c.d. ad .d. dico quod erit disiunctim proportio .a. ad .b. maior quam .c. ad .d. alioqui erit aequalis vel
 							minor. quod si aequalis erit per coniunctam proportionalitatem .a.b. ad .b. ut .c.d. ad .d. si autem minor erit maior .c. ad .d. quam .a. ad .b. ergo per
 							praemissam maior erit .c.d. ad .d. quam .a.b. ad .b. quod est inconveniens: quia positum est quod minor. verum est ergo quod dicitur.
 						</td>
 					</tr>
 					<tr>
-						<td>
+						<td class="additio">
 							Which we may also adstruct ostensively in this way, for we will suppose that the proportion of e.b to b is just as the proportion of c.d to d, and from the
 							first part of the <span class="propositio">10th</span>, e.b will be less than a.b, wherefore from common conceptions e is less than a, thus, from the first
 							part of the <span class="propositio">8th</span>, the proportion of e to b is less than a to b. But the proportion of e to b is as c to d from disjunctive
 							proportionalities, and so from the <span class="propositio">12th</span>, the proportion of a to b is greater than c is to d, which is the intention.
 						</td>
-						<td>
+						<td class="additio">
 							Quod etiam ostensive astruemus hoc modo ponemus enim ut proportio .e.b. ad .b. sit tanquam proportio .c.d. ad .d. eritque ex prima parte
 							<span class="propositio">.10.</span>e.b. minor quam .a.b. quare ex communi scientia .e. est minor quam .a. minor igitur est ex prima parte
 							<span class="propositio">.8.</span> proportio .e. ad .b. quam sit .a. ad .b. sed proportio .e. ad .b. est sicut .c. ad .d. ex disiuncta proportionalitate:
 							itaque ex <span class="propositio">.12.</span> proportio .a. ad .b. est maior quam sit .c. ad .d. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 30</h1>
+						</td>
+						<td>
+							<h1>Propositio .30.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four quantities of which the proportion of first and second to the second were greater than third and fourth to the fourth, then
+							eversively the proportion of first and second to the first will be less than third and fourth to the third.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor quantitates quarum primae et secundae ad secundam sit maior proportio quam tertiae et quartae ad quartam: erit eversim minor
+							proportio primae et secundae ad primam quam tertiae et quartae ad tertiam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Suppose the proportion of a.b to b is greater than c.d to d. I say that eversively the proportion of a.b to a will be less than c.d to d, for
+							disjunctively from the <span class="propositio">preceding</span>, the proportion of a to b will be greater than c to d.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sit maior proportio .a.b. ad .b. quam .c.d. ad .d. dico quod eversim minor erit proportio .a.b. ad .a. quam .c.d. ad .d. erit enim disiunctim ex
+							<span class="propositio">praemissa</span> maior proporito .a. ad .b. quam .c. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And so by the <span class="propositio">26th</span>, by conversion b to a will be less than d to c, wherefore by the <span class="propositio">precedent
+							antecedent</span>, conjunctively b.a to a will be less than c.d to c, which is the intention.
+						</td>
+						<td class="additio">
+							Itaque per <span class="propositio">.26.</span> erit econverso minor .b. ad .a. quam .d. ad .c. quare per <span class="propositio">ante praemissam</span>
+							coniunctim minor erit .b.a. ad .a. quam c.d. ad .c. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
