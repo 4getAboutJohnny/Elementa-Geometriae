@@ -9359,7 +9359,7 @@
 						<td class="additio">
 							¶&nbsp;Quantitatis autem proprium est secundum ipsam <span class="definitio">aequale</span> vel <span class="definitio">inaequale</span> dici. ut vult
 							Aristo. in praedicamentis. unde liquet proportionem primo in quantitate reperiri. et per ipsam in omnibus aliis Nec esse in aliquibus rebus proportionem
-							cui similis non sit in aliquibus quantitatibus propter quod bene dixit euclides proporitonem simpliciter esse in quantitate cum eam diffinivit per
+							cui similis non sit in aliquibus quantitatibus propter quod bene dixit euclides proportionem simpliciter esse in quantitate cum eam diffinivit per
 							habitudinem duarum quantitatum eiusdem generis adinvicem:
 						</td>
 					</tr>
@@ -10359,7 +10359,7 @@
 							superficies increases into a solid.
 						</td>
 						<td class="additio">
-							Sed proportionis earum quantitatum denominatio quibus in continua proporitone duo media interponuntur naturam habet solidi: quia provenit ex
+							Sed proportionis earum quantitatum denominatio quibus in continua proportione duo media interponuntur naturam habet solidi: quia provenit ex
 							multiplicatione denominationis duarum primarum primo in se. ex qua multiplicatione producitur superficies: deinde in productum ex qua multiplicatione
 							provenit solidum sive corpus: omne et enim quod ex multiplicatione lineae in superficiem producitur crescit in solidum.
 						</td>
@@ -10394,7 +10394,7 @@
 							proportion of the extremes in the terms of continuous proportions always contain the proportion of the firsts as many times as are all the terms, minus one.
 						</td>
 						<td class="additio">
-							Si enim in tribus terminis proporito extremorum constat ex proportione primorum duplicata: et in quatuor terminis constat ex eadem triplicata: in .5.
+							Si enim in tribus terminis proportio extremorum constat ex proportione primorum duplicata: et in quatuor terminis constat ex eadem triplicata: in .5.
 							terminis constat ex eadem quadruplicata: et in sex ex eadem quincuplicata: unde quemadmodum in tribus terminis continuae proportionalibus proportio
 							extremorum continet proportionem primorum bis et in .4. terminis ter. sic in .5. terminis continebit quater. et in sex quinquies. et ita deinceps. ut
 							semper proportio extremorum in terminis continuae proportionalibus totiens contineat proportionem primorum quot sunt omnes termini minus uno.
@@ -10901,7 +10901,7 @@
 							proportionals whose proportion is one.
 						</td>
 						<td class="additio">
-							¶&nbsp;Igitur oportuit euclidem quae quantitates dicuntur proporitonales: et quae improportionales diffinire. Proportionales autem sunt quarum proportio una
+							¶&nbsp;Igitur oportuit euclidem quae quantitates dicuntur proportionales: et quae improportionales diffinire. Proportionales autem sunt quarum proportio una
 							est.
 						</td>
 					</tr>
@@ -10932,7 +10932,7 @@
 							And if every proportion were known or rational, then it would be easy for the intellect to know which proportions were one and which were diverse.
 						</td>
 						<td class="additio">
-							Et si esset omnis proporito scita sive rationalis. tunc facile esset intellectui cognoscere quae proportionales essent una et quae diverse.
+							Et si esset omnis proportio scita sive rationalis. tunc facile esset intellectui cognoscere quae proportionales essent una et quae diverse.
 						</td>
 					</tr>
 					<tr>
@@ -10993,7 +10993,7 @@
 							terms than the multiplicity of them: nor in the habitudes of terms than the habitude of multiples.
 						</td>
 						<td class="additio">
-							Quia ergo non potuit ut patet ex praemissis diffinire proportionalitatem sive idemptitatem proporitonum. per idemptitatem habitudinum. sive denominationum
+							Quia ergo non potuit ut patet ex praemissis diffinire proportionalitatem sive idemptitatem proportionum. per idemptitatem habitudinum. sive denominationum
 							ipsorum terminorum propter irrationalitatem habitudinum et in convenientiam terminorum coactus est refugere ad terminorum multiplicia. ut ex illorum
 							habitudinibus quantum ad excessum et aequalitatem conideratis aequis numerositatibus sumptorum per quod ad naturam irrationalitatis reductuntur propositam
 							diffinitionem venetur. nihil enim in quocunque inaequalitatis genere terminis magis idem quam eorum multiplicia. nec terminorum habitudinibus. quam
@@ -11057,11 +11057,11 @@
 							incontinuae proportionales. et se habere primam ad secundam sicut tertia se habet ad quartam: quod est primam ad secundam. et tertiam ad quartam similiter
 							se habere in aequando aut addendo aut minuendo. quarum omnes aequae multiplices primae et tertiae ad omnes aequae multiplices secundae et quartae.
 							similiter se habent aut in aequando autem addendo aut minuendo quod est etiam multiplices primae in eadem proportione se habere ad multiplices secundae. in
-							qua multiplices tertiae se habent ad multiplices quartae. quod si hoc alicubi dissonat in multiplicibus. dico non est proporitonem primae ad secundam sicut
+							qua multiplices tertiae se habent ad multiplices quartae. quod si hoc alicubi dissonat in multiplicibus. dico non est proportionem primae ad secundam sicut
 							tertiae ad quartam. quod autem dicit in .8. diffinitione est ac si diceret majorem proportionem voco .4. quantitatum primae ad
 							secundam quam tertiae ad quartam quod est primam magis excedere secundam quam tertia excedat quartam. quarum aliqua ex multiplicibus primae addit super
 							aliquam ex multiplicibus secundae: aliqua ex multiplicibus tertiae sumpta secundum numerationem multiplicis primae non addente super aliquem ex
-							multiplicibus quartae: sumpta secundum numerationem multiplicis secundae. quod est esse maiorem proporitonem multiplicis primae ad multiplicem secundae.
+							multiplicibus quartae: sumpta secundum numerationem multiplicis secundae. quod est esse maiorem proportionem multiplicis primae ad multiplicem secundae.
 							quam multiplicis tertiae ad multiplicem quartae.
 						</td>
 					</tr>
@@ -11125,7 +11125,7 @@
 						</td>
 						<td class="additio">
 							Accepit enim in omnibus ignota similiter tanquam nota. quare non demonstravit. peccavit etiam in secunda demonstratione et in tertia et in quinta. in
-							quarum qualibet arguit ex .8. vel ex .10. huius quae probantur ex diffinitione incontinuae proporitonalitatis.
+							quarum qualibet arguit ex .8. vel ex .10. huius quae probantur ex diffinitione incontinuae proportionalitatis.
 						</td>
 					</tr>
 					<tr>
@@ -11137,7 +11137,7 @@
 						</td>
 						<td class="additio">
 							Arguit enim sic si proportio .a.b. ad .e. est maior quam .g. ad .d. sit ergo .n.b. partis .a.b. ad .e. sicut .g. ad .d. per quod apparet ipsum supponere
-							quod duarum quantitatum .a.b. et .n.b. inaequalium relatarum ad .e. maior maiorem et minor minorem ad ipsam optinet proporitonem vel quod quantitas ad .e.
+							quod duarum quantitatum .a.b. et .n.b. inaequalium relatarum ad .e. maior maiorem et minor minorem ad ipsam optinet proportionem vel quod quantitas ad .e.
 							habebit minorem proportionem quam habeat .a.b. erit minor .a.b. quorum primum demonstrat .8. huius. et secundum .10.
 						</td>
 					</tr>
@@ -11451,7 +11451,7 @@
 							.c. itemque .k. et .l. aequae multiplicia ad .e. et .f. erunt per <span class="propositio">praemissam</span> .k. et .l. aequae multiplicia ad .a. et .c. per
 							<span class="propositio">eandem</span> quoque erunt .m. et .n. aequae multiplicia ad .b. et .d. quare per conversionem diffinitionis incontinuae
 							proportionalitatis .k. ad .m. et .l. ad .n. similiter se habebunt in addendo diminuendo et aequando: quia ergo .k. et .l. sunt aequae multiplicia ad .e. et
-							.f. itemque .m. et .n. aequae multiplicia ad .g. et .h. erit per diffinitionem incontinuae proportionalitiatis proporito .e. ad .g. sicut .f. ad .h. quod
+							.f. itemque .m. et .n. aequae multiplicia ad .g. et .h. erit per diffinitionem incontinuae proportionalitiatis proportio .e. ad .g. sicut .f. ad .h. quod
 							est propositum.
 						</td>
 					</tr>
@@ -12577,7 +12577,7 @@
 							<h3>If quantities were disjointedly proportional, they will likewise be conjoinedly proportional.</h3>
 						</td>
 						<td>
-							<h3>Si fuerint quantitates disiunctim proportionales. coniunctim quoque proporitonales erunt.</h3>
+							<h3>Si fuerint quantitates disiunctim proportionales. coniunctim quoque proportionales erunt.</h3>
 						</td>
 					</tr>
 				</tbody>
@@ -12879,7 +12879,7 @@
 							speaking universally and demonstrating particularly.
 						</td>
 						<td class="additio">
-							Si enim .a.b.e. sint lineae. et .c.d.f. superficies: aut corpora: aut tempora: non erit tunc permutare proporitones: peccant igitur universaliter dictum
+							Si enim .a.b.e. sint lineae. et .c.d.f. superficies: aut corpora: aut tempora: non erit tunc permutare proportiones: peccant igitur universaliter dictum
 							particulariter demonstrantes.
 						</td>
 					</tr>
@@ -12922,7 +12922,7 @@
 							<span class="propositio">same</span>, f will be less than d.
 						</td>
 						<td>
-							¶&nbsp;Secundum antecedens sint tres quantitates .a.b.e. sumanturque aliae tres quae sunt .f.c.d. et sit proporito .a. ad .b. sicut .c. ad .d. et .b. ad
+							¶&nbsp;Secundum antecedens sint tres quantitates .a.b.e. sumanturque aliae tres quae sunt .f.c.d. et sit proportio .a. ad .b. sicut .c. ad .d. et .b. ad
 							.e. sicut .f. ad .c. dico quod si .a. est maior .e.f. erit maior .d. et si minor minor: et si aequalis. aequalis: hic autem probatur per easdem et eodem
 							modo quo praecedens: si enim .a. sit maior .e. erit maior proportio .a. ad .b. quam .e. ad .b. quare maior .c. ad .d. quam .e. ad .b. et ideo maior quam
 							.c. ad .f. maior igitur .f. quam .d. per secundam partem <span class="propositio">.10.</span> quod est propositum. quod si .a. sit minor .e. erit tandem
@@ -12999,7 +12999,7 @@
 							d, and b to e be as d to f. I say that a to e will be as c to f, for I will take the equal multiples, g to a and h to c.
 						</td>
 						<td>
-							¶&nbsp;Sint igitur tres quantitates .a.b.e. sumanturque tres aliae quae sunt .c.d.f. et sit proporito .a. ad .b. sicut .c. ad .d. et .b. ad .c. sicut .d.
+							¶&nbsp;Sint igitur tres quantitates .a.b.e. sumanturque tres aliae quae sunt .c.d.f. et sit proportio .a. ad .b. sicut .c. ad .d. et .b. ad .c. sicut .d.
 							ad .f. dico quod erit .a. ad .e. sicut .c. ad .f. sumam enim .g. ad .a. et .h. ad .c. aequae multiplicia.
 						</td>
 					</tr>
@@ -13518,7 +13518,7 @@
 						<td class="additio">
 							Ideoque ex communi scientia .e.b. erit minor. quam .a.b. quare ex prima parte <span class="propositio">.8.</span> maior erit proportio .a.b. ad .b. quam
 							.e.b. ad .b.
-							At vero proportio .e.b. ad .b. est per coniunctam proporitonalitatem sicut .c.d. ad .d. positum enim est ut sit .e. ad .b. tanquam .c. ad .d. igitur ex
+							At vero proportio .e.b. ad .b. est per coniunctam proportionalitatem sicut .c.d. ad .d. positum enim est ut sit .e. ad .b. tanquam .c. ad .d. igitur ex
 							<span class="propositio">.12.</span> maior est .a.b. ad .b. quam .c.d. ad .d. quod est propositum.
 						</td>
 					</tr>
@@ -13544,7 +13544,7 @@
 						</td>
 						<td class="additio">
 							<h3>Si fuerint quatuor quantitates quarum primae et secundae ad secundam sit maior proportio quam tertiae et quartae ad quartam. erit quoque disiunctim
-							proporito primae ad secundam maior quam tertiae ad quartam.</h3>
+							proportio primae ad secundam maior quam tertiae ad quartam.</h3>
 						</td>
 					</tr>
 				</tbody>
@@ -13609,7 +13609,7 @@
 						</td>
 						<td class="additio">
 							¶&nbsp;Sit maior proportio .a.b. ad .b. quam .c.d. ad .d. dico quod eversim minor erit proportio .a.b. ad .a. quam .c.d. ad .d. erit enim disiunctim ex
-							<span class="propositio">praemissa</span> maior proporito .a. ad .b. quam .c. ad .d.
+							<span class="propositio">praemissa</span> maior proportio .a. ad .b. quam .c. ad .d.
 						</td>
 					</tr>
 					<tr>
@@ -13620,6 +13620,62 @@
 						<td class="additio">
 							Itaque per <span class="propositio">.26.</span> erit econverso minor .b. ad .a. quam .d. ad .c. quare per <span class="propositio">ante praemissam</span>
 							coniunctim minor erit .b.a. ad .a. quam c.d. ad .c. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 31</h1>
+						</td>
+						<td>
+							<h1>Propositio .31.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were three quantities in one order, and also three in another, and the proportion of the first to second of the prior were greater than the
+							first to second of the posterior, and also the second to third of the prior were greater than the second to third of the posterior, then likewise the
+							proportion of the first to third of the prior will be greater than the first to third of the posterior.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint tres quantitates in uno ordine. itemque tres in alio fueritque primae priorum ad secundam maior proportio quam primae posteriorum ad
+							secundam. itemque secundae priorum ad tertiam maior quam secundae posteriorum ad tertiam. erit quoque primae priorum ad tertiam maior proportio quam primae
+							posteriorum ad tertiam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Suppose three quantities, a, b, and c, and also three others, d, e, and f, and let the proportion of a to b be greater than d to e, and likewise, b
+							to c greater than e to f. I say that the proportion of a to c will be greater than d to f, for if g to c is as e to f then from the first part of the
+							<span class="propositio">10th</span> g will be less than b, wherefore from the second part of the <span class="propositio">8th</span> the proportion of a
+							to g is greater than a to b, thus the proportion of a to g is much greater than d to e, and likewise, suppose h to g is as d to e, then from the first part
+							of the <span class="propositio">10th</span> a will be greater than h, wherefore from the first part of the <span class="propositio">8th</span> the
+							proportion of a to c is greater than the proportion of h to c.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sint tres quantitates .a.b.c. itemque aliae tres .d.e.f. sitque maior proportio .a. ad .b. quam .d. ad .e. itemque maior .b. ad .c. quam .e. ad .f.
+							dico quod maior erit proportio .a. ad .c. quam .d. ad .f. sit enim .g. ad .c. ut .e. ad .f. eritque ex prima parte <span class="propositio">.10.</span>.g. 
+							minor .b. quare ex secunda parte <span class="propositio">.8.</span> proportio .a. ad .g. est maior quam .a. ad .b. multo maior ergo est proportio .a. ad
+							.g. quam .d. ad .e. sit itaque .h. ad .g. ut .d. ad .e. eritque ex prima parte <span class="propositio">.10.</span>a. maior .h. quare ex prima parte
+							<span class="propositio">.8.</span> proportio .a. ad .c. maior est quam proportio .h. ad .c.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And moreover, the proportion of h to c is, by equal proportionality, as d to f, for h to g is as d to e and g to c is as e to f, therefore, from the
+							<span class="propositio">12th</span>, the proportion of a to c is greater than d to f, wherefore the intention stands.
+						</td>
+						<td class="additio">
+							At vero proportio .h. ad .c. est per aequam proportionalitatem: sicut .d. ad .f. est enim .h. ad .g. ut .d. ad .e. et .g. ad .c. ut .e. ad .f. igitur ex
+							<span class="propositio">.12.</span> proportio .a. ad .c. est maior quam .d. ad .f. quare constat propositum.
 						</td>
 					</tr>
 				</tbody>
