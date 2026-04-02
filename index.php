@@ -7625,10 +7625,10 @@
 					</tr>
 					<tr>
 						<td>
-							¶&nbsp;The third book begins.
+							¶&nbsp;The fourth book begins.
 						</td>
 						<td>
-							¶&nbsp;Incipit liber tertius.
+							¶&nbsp;Incipit liber quartus.
 						</td>
 					</tr>
 				</tbody>
@@ -10700,10 +10700,10 @@
 				<tbody>
 					<tr>
 						<td class="additio">
-							¶&nbsp;He defines equal proportionality, which is taken from the outside to prove the proposition, and wants that if any quantities are assumed, as a, b,
-							and c, and then just as many others, whether they are of the same kind as the first or of another, as are d, e, and f, and if the second is in proportion to
-							the first, whether in the same order so that a to b is said to be as d is to e, and b to c as e to f, or in converse order, so that a to b is said to be as
-							e is to f and b to c as d to e, and from this it is concluded, therefore, a to b is as d to f, that this mode of argument is called equal proportionality.
+							¶&nbsp;He defines equal proportionality, which is supposed without to prove the intention, and wants that if any quantities are taken, as a, b, and c, and
+							then just as many others, whether they are of the same kind as the first or of another, as are d, e, and f, and if the second is in proportion to the first,
+							whether in the same order so that a to b is said to be as d is to e, and b to c as e to f, or in converse order, so that a to b is said to be as e is to f
+							and b to c as d to e, and from this it is concluded, therefore, a to b is as d to f, that this mode of argument is called equal proportionality.
 						</td>
 						<td class="additio">
 							¶&nbsp;Diffinit aequam proportionalitatem quae ad probandum propositum ad extra sumitur. et vult quod si sumantur quotlibet quantitates. ut .a.b.c. itemque
@@ -10736,8 +10736,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							But in <span class="propositio">22,</span> where the quantities of the two orders are proportionals in the same order, and in
-							<span class="propositio">23</span> where they are proportionals in reverse order.
+							But in <span class="propositio">22</span>, when the quantities of two orders are proportional in the same order, and then in
+							<span class="propositio">23</span> when they are proportional in a converse order.
 						</td>
 						<td class="additio">
 							Sed in <span class="propositio">.22.</span> cum quantitates duorum ordinum eodem ordine sunt proportionales. in <span class="propositio">.23.</span> cum
@@ -10755,9 +10755,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							And everse is clear from permuted together with <span class="propositio">19</span>, as we will assert in addition to the same
-							<span class="propositio">19</span>, but let us now demonstrate how converse proportionality is manifest from the division of incontinuous proportional
-							quantities.
+							And everse is reciprocally clear from the <span class="propositio">19th</span> permuted, as we will mention in addition to the same
+							<span class="propositio">19th</span>, but suppose we now demonstrate how converse proportionality is manifest from the division of incontinuous
+							proportional quantities.
 						</td>
 						<td class="additio">
 							Eversa autem patet ex permutata adinvicem <span class="propositio">.19.</span> ut super eandem <span class="propositio">.19.</span> sumus dicturi. qualiter
@@ -10766,10 +10766,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;Suppose then the proportion of a to b is as c is to d, and I therefore want to demonstrate that b to a will be as d is to c. So e to a and f to c
-							are assumed equal multiples, and similarly g to b and h to d are equal multiples, and by a conversion of the definition of incontinuous proportional
-							quantities, so are e and g, and the same for f and h. And if they comport similarly in addition, diminution, and equality, I know then b is first, a second,
-							d third, and c fourth, thus g and h are assumed to be equal multiples to the first and third.
+							¶&nbsp;Suppose then the proportion of a to b is as c is to d, and I want, therefore, to demonstrate that b to a will be as d is to c. So the equal
+							multiples, e to a and f to c, are taken, and similarly the equal multiples g to b and h to d, and by a conversion of the definition of incontinuous
+							proportional quantities, as e and g shall be, so shall be f and h. And if they comport similarly in addition, diminution, and equality, then I know b is
+							first, a second, d third, and c fourth, and so g and h are assumed to be equal multiples to the first and third.
 						</td>
 						<td class="additio">
 							¶&nbsp;Sit ergo proportio .a. ad .b. sicut .c. ad .d. volo ergo demonstrare quod erit .b. ad .a. sicut .d. ad .c. sumatur .e. ad .a. et .f. ad .c aequae
@@ -10800,34 +10800,31 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							But the principles of this fifth book seem very difficult to many, and some of the conclusions that he demonstrates from them seem greatly distant from the
-							intent.
+							But the principles of this fifth book do seem very difficult to many, and certain conclusions that he demonstrates from them seem greatly distant from the
+							reason.
 						</td>
 						<td class="additio">
-							¶&nbsp;Huius autem quinti libri principia plurimis difficillima esse vedentur. et quibusdam conclusionibus quas ex ipsis demonstrat. magis ab intellectu
+							¶&nbsp;Huius autem quinti libri principia plurimis difficillima esse videntur. et quibusdam conclusionibus quas ex ipsis demonstrat. magis ab intellectu
 							distantia.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							For nothing seems to be close to the immediate point, than when there is one proportion to any third of any two equal quantities, which nevertheless the
-							seventh of this fifth demonstrates from the definition of incontinuous proportionalities, which seems to be as far removed from the first point as possible.
-							For who would not more easily concede that there is the same proportion of two equal quantities to some third, than of four quantities, if the multiples of
-							the first and third taken equally with the multiples of the second and fourth taken equally comport similarly in addition, diminution, and equality, that
-							the proportion of first to second is as third is to fourth.
+						For nothing seems to be close to the immediate point, such as that the proportion of any two equal quantities is one to any third, that even the seventh of this fifth demonstrates from the definition of incontinuous proportionalities, which seems to be very removed from the primary point.
+						For who not easily concede the proportion of two equal quantities to be the same to any third, rather than if of 4 quantities, when the multiples of the first and third taken equally with the multiples of the second and fourth taken equally comport similarly in addition, diminution, and equality, for the proportion of the first to second to be as the third to fourth.
 						</td>
 						<td class="additio">
 							Nihil enim videtur intellectui immediatus adherere. quam quod duarum quarumlibet quantitatum aequalium sit ad tertium quamlibet una proportio: quod tamen
-							huius quinti septima demonstrat ex diffinitione incontinuae proportionalitatis quae ab intellectu primo videtur quam plurimu esse remota. quis enim non
-							facilius duarum quantitatum aequalium ad aliquem tertiam eandem esse proportionem concedat. quam .4. quantitatium si multiplicia primae et tertiae
+							huius quinti septima demonstrat ex diffinitione incontinuae proportionalitatis quae ab intellectu primo videtur quam plurimum esse remota. quis enim non
+							facilius duarum quantitatum aequalium ad aliquem tertiam eandem esse proportionem concedat. quam .4. quantitatum si multiplicia primae et tertiae
 							aequaliter sumpta multiplicibus secundae. et quartae aequaliter sumptis similiter se habuerint in additione diminutione et aequalitate esse proportionem
 							primae ad secundam. sicut tertiae ad quartum.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							But if we look upon it closely, it will be clearly evident for it not to be united to the idea that the proportion of two equal quantities to a third is
-							one, except through what it is to be one proportion.
+							But if we look upon it subtlety, it will be clear that it cannot be united to the notion that the proportion of two equal quantities to a third shall be
+							one except through what it is to be one proportion.
 						</td>
 						<td class="additio">
 							Verum si subtiliter in intuemur liquido constabit non posse uniri intellectui quod proportio duarum quantitatum aequalium ad tertiam sit una. nisi per quid
@@ -10836,8 +10833,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For if someone is ignorant of what it is for one proportion to be the same proportion to another, how will they know that two equal quantities are to be
-							the same proportion to a third.
+							For if someone were ignorant of what it is for one proportion to be the same as another proportion, how will they know two equal quantities are to be the
+							same proportion to a third.
 						</td>
 						<td class="additio">
 							Si enim quis ignoret quid est esse proportionem unam eandem proportionem alteri. quomodo cognoscet duarum quantitatum aequalium esse eandem proportionem ad
@@ -10846,9 +10843,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Therefore the intellect undoubtedly needs before it may apprehend the proposition seems conceivable, knowledge of this thing, which will be had through its
-							own definition, and afterward, whether that definition compares with two equal quantities to a third will be agreed upon, and if the definition is found to
-							agree with those quantities, the proposition will be concluded.
+							Thus, the intellect undoubtedly needs knowledge of this thing before it might apprehend the proposition conceptible, which will be had by learning its
+							definition, and then whether that definition will be suitable for two equal quantities compared to a third, and if the definition is found to agree with those
+							quantities the proposition will be concluded.
 						</td>
 						<td class="additio">
 							Indiget igitur proculdubio intellectus antequam illam quae videbatur conceptibilis propositio apprehendat huius rei quae per ipsius diffinitionem habebitur
@@ -10858,7 +10855,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							But if it is the opposite.
+							But if it were opposite.
 						</td>
 						<td class="additio">
 							Sin autem oppositum.
@@ -10866,7 +10863,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Then it is not an immediate proposition, which superficial apprehension indicated as immediate.
+							Then it is not an immediate proposition that superficial apprehension indicated as immediate.
 						</td>
 						<td class="additio">
 							Non est igitur immediata propositio quam superficialis apprehensio immediatam indicavit.
@@ -10874,31 +10871,32 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;And similarly, the immediate judges the first apprehension to adhere to the idea that for the greater of two equal quantities, the proportion of the
-							greater of them to the other is greater than the proportion of the lesser to the same, as the 8th of this demonstrates, than that of 4 quantities where the
-							proportion of the first to second is as third is to the fourth, with multiples to the first and third taken equally.
+							¶&nbsp;And similarly it judges immediate the primary apprehension to adhere to the idea that of two inequal quantities, the proportion of the greater of
+							them to the other is greater than the proportion of the lesser to the same, as is demonstrated in the <span class="propositio">8th</span> of
+							<span class="liber">this</span>, so that of 4 quantities, the proportion of first to second is greater third to fourth, with multiples to the first and third
+							taken equally.
 						</td>
 						<td class="additio">
 							¶&nbsp;Similiter quoque immediatus iudicat prima apprehensio adhaerere intellectui quod duarum quantitatum inaequalium maior est proportio maioris earum ad
-							aliam quam minoris ad eandem quam demonstrat .8. huius. quam quod .4. quantitatum sit maior proportio primae ad secundam quam tertiae ad quartam. cum
-							multiplicibus ad primam et tertiam aequaliter sumptis.
+							aliam quam minoris ad eandem quam demonstrat <span class="propositio">.8.</span> <span class="liber">huius</span>. quam quod .4. quantitatum sit maior
+							proportio primae ad secundam quam tertiae ad quartam. cum multiplicibus ad primam et tertiam aequaliter sumptis.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							Likewise to the others, equally to the second and fourth, and he adds the multiple of the first over the multiple of the second, and he does not add the
-							multiple of the third over the multiple of the fourth, from which the preceding proposition is demonstrated, but similarly, neither can it be understood
-							except through what it is to be a greater proportion.
+							Likewise for the rest, to the second and fourth, and the multiple of the first equally exceeds the multiple of the second, and the multiple of the third
+							does not exceed the multiple of the fourth from which the predicted is the demonstrated proposition, and similarly, neither can be understood except
+							through what it is to be a greater proportion.
 						</td>
 						<td class="additio">
 							Itemque aliis ad secundam et quartam et aequaliter multiplex primae addit super multiplex secundae. et multiplex tertiae non addit super mutliplex quartae.
-							ex quo quae predicta est propositio demonstratur: sed similiter nec ipsa potest intelligi nisi per quid est esse proportionem maiorem.
+							ex quo quae praedicta est propositio demonstratur: sed similiter nec ipsa potest intelligi nisi per quid est esse proportionem maiorem.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;Thus it was necessary for Euclid to define which quantities are called proportional and to define which are improportional. And there are
-							proportionals whose proportion is one.
+							¶&nbsp;Thus Euclid was required to define which quantities are called proportional, and to define which are improportional. And there are proportionals whose
+							proportion is one. 
 						</td>
 						<td class="additio">
 							¶&nbsp;Igitur oportuit euclidem quae quantitates dicuntur proportionales: et quae improportionales diffinire. Proportionales autem sunt quarum proportio una
@@ -10915,21 +10913,21 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							And so he defined quantites whose proportion is one, and those in which the extremes are connected by undissociated means, which he called continuous
-							proportionals, and he said for this proportionality to exist in at least three terms, for that one means must be taken at least twice, and those in which
-							the interruption of the means will occur, and these are incontinuous proportionals, and this proportionality requires at least four terms because of the
-							assumption of an alternate mean, and he also defined quantities that are improportionate, of which one proportion is greater than the other.
+							And so he defined quantities whose proportion is one, and those in which the extremes are connected by nondissociated means, which he called continuous
+							proportionals, and he said this proportionality will exist in at least three terms, for that one must be taken twice, which is the medium, and those in
+							which an interruption of the medium will occur, and these are incontinuous proportionals, and this proportionality exacts at least four terms because of
+							the assumption of another medium, and he also defined quantities that are improportionate, of which one proportion is greater than the other.
 						</td>
 						<td class="additio">
-							Itaque diffinivit quantitates quarum proportio una. et eas in quibus connectuntur extrema non diffociatis mediis quas vocavit continuae proportionales. et
+							Itaque diffinivit quantitates quarum proportio una. et eas in quibus connectuntur extrema non dissociatis mediis quas vocavit continuae proportionales.  et
 							dixit hanc proportionalitatem in tribus terminis ad minus existere. propter hoc quod unum saltem bis sumendum est medium. et eas in quibus accidit
-							interuptio mediorum: et haec sunt incontinuae proportionales et haec proportionalitas ad minus exgit quatuor terminos propter alterius medii sumptionem et
+							interruptio mediorum: et haec sunt incontinuae proportionales et haec proportionalitas ad minus exigit quatuor terminos propter alterius medii sumptionem et
 							diffinivit etiam quantitates quae sunt improportionales. quarum est maior una proportio quam sit alia.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							And if every proportion were known or rational, then it would be easy for the intellect to know which proportions were one and which were diverse.
+							And if every proportion were known or rational, then it would be facile for the intellect to recognize which proportions were one and which diverse.
 						</td>
 						<td class="additio">
 							Et si esset omnis proportio scita sive rationalis. tunc facile esset intellectui cognoscere quae proportionales essent una et quae diverse.
@@ -10937,7 +10935,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;For those that have one denomination would be one, and those that have diverse, diverse, and this is easily manifest from arithmetic, since the
+							¶&nbsp;For those that have one denomination would be one, and those that have diverse, diverse, and this is facilely manifest from arithmetic, since the
 							proportion of all numbers is known and rational.
 						</td>
 						<td class="additio">
@@ -10947,8 +10945,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Hence Jordanus, in the second part of his Arithmetic, is defining which proportions are the same and which are diverse, and says that they are the same,
-							which receive the same denomination.
+							Hence Jordanus in the second part of his Arithmetic, defining which proportions are the same and which are diverse, says those receiving the same
+							denomination are to be the same.
 						</td>
 						<td class="additio">
 							Unde Jordanus in secundo arismeticae suae diffiniens quae proportiones sunt eadem et quae diversae. dicit easdem esse quae eandem denominationem recipiunt.
@@ -10964,8 +10962,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							But irrational proportions are infinite, the denomination of which is unknowable, therefore, since Euclid considers proportionals in this book generally, he
-							does not restrict them to rational and irrational since he considers the proportion found in continuous things that is common to these.
+							But irrational proportions are infinite, the denomination of which is not knowable, thus, since Euclid considers proportionals in this book collectively,
+							he does not contract them to rational or irrational forasmuch he considers the proportion found in the continuous things, which is common to these.
 						</td>
 						<td class="additio">
 							Sed infinite sunt proportiones irrationales. quarum denominatio scibilis non est. quare cum euclides consideret in hoc libro suo proportionalia communiter
@@ -10974,9 +10972,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							He could not define the identity of proportions through the identity of denominations, just as arithmetic, for, as has been said, the denominations of many
-							proportions are simply unknown and the definitions must be produced from things known, hence the malice of irrational proportions compelled Euclid to posit
-							such definitions.
+							He could not define the idempotency of proportions by the idempotency of of denominations, just as arithmetic, for that the denominations of many
+							proportions are, as has been said, simply unknown, and definitions must be produced from known things, hence the malice of irrational proportions compelled
+							Euclid to posit such definitions.
 						</td>
 						<td class="additio">
 							Non potuit diffinire idemptitatem proportionum per idemptitatem denominationum. sicut arismeticus: eo quod multarum proportionum ut dictum est sunt
@@ -10986,26 +10984,26 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Thus, that he could not, as is clear from the preceding, define proportionality or identity of proportionals through the identity of habitude, or of the
-							denomination of the terms themselves because of the irrationality of habitude and the incongruity of the terms, he was compelled to take refuge in
-							multiplicity of terms, so that from their habitude, insofar as excess and equality, having considered the equal multitude of ones taken by which
-							irrationalities are reduced to their nature, he might arrive at the proposed definition, for in any kind of inequality there is nothing more similar in
-							terms than the multiplicity of them: nor in the habitudes of terms than the habitude of multiples.
+							Thus, that he could not, as is clear from the preceding, define proportionality or the idempotency of proportions by the idempotency of habitude or of the
+							denominations of those terms themselves due to the irrationality of habitudes and the inconformity of the terms, he was compelled to take refuge in a
+							multiplicity of terms, so from their habitudes, as to excess and equality, by considering equal multitudes of the selected by which they are reduced to the
+							nature of irrationality, the purposed definition may be arrived at, for in any kind of inequality nothing is more the same in the terms than the multiples
+							of them, nor in the habitudes of the terms than the habitude of the multiples.
 						</td>
 						<td class="additio">
 							Quia ergo non potuit ut patet ex praemissis diffinire proportionalitatem sive idemptitatem proportionum. per idemptitatem habitudinum. sive denominationum
 							ipsorum terminorum propter irrationalitatem habitudinum et in convenientiam terminorum coactus est refugere ad terminorum multiplicia. ut ex illorum
-							habitudinibus quantum ad excessum et aequalitatem conideratis aequis numerositatibus sumptorum per quod ad naturam irrationalitatis reductuntur propositam
+							habitudinibus quantum ad excessum et aequalitatem consideratis aequis numerositatibus sumptorum per quod ad naturam irrationalitatis reductuntur propositam
 							diffinitionem venetur. nihil enim in quocunque inaequalitatis genere terminis magis idem quam eorum multiplicia. nec terminorum habitudinibus. quam
 							multiplicium habitudo.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							And because proportion is a certain habitude between two quantities of the same kind, considered in that they are equal, or the other is greater, thus the
-							identity of existing proportions between the first of 4 quantities to the second, and the third to the fourth, is a similar equality of first to second and
-							third to fourth, or a similar majority, or a similar minority, and this similar equality, or similar majority, or similar minority, is thus between any
-							four quantities when it is between all of them that are equally multiples of each other.
+							And because proportion is a certain habitude between two quantities of the same kind, considered in that they are equal or another is greater, thus the
+							idempotency of existing proportions between the first of 4 quantities to the second, and third to fourth, is a similar equality of first to second and third
+							to fourth, or a similar majority, or a similar minority, and this similar equality or similar majority or similar minority is then between any four
+							quantities since it is between all of their multiples equally.
 						</td>
 						<td class="additio">
 							Et quia proportio est duarum quantitatum eiusdem generis certa habitudo. considerata in eo quod sunt aequales aut quod altera maior. ideo idemptitas
@@ -11016,10 +11014,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;Therefore, what he says in the fifth definition, about quantities that are said to have continuous proportionality and so on, as if he were saying,
-							"I call all those quantities continuous proportionals," that is, they are similarly to be continuous equals, and similarly continuous to be greaters, and
-							similarly continuous to be lessers, all of which are equal multiples or mutually are similarly continuous equals, or similarly continuous greaters, or
-							similarly continuous lessers, that is, those multiples also are to be continuous proportionals, and if this is dissonant anywhere within the multiples, I
+							¶&nbsp;Therefore, what he says in the fifth definition, quantities that are said to have continuous proportionality and so on, is as if he were saying, "I
+							call all those quantities continuous proportionals," that is, they are all to be similarly continuous equals, and to be similarly continuous majors, and to
+							be similarly continuous minors, all of which are equal multiples or mutually are similarly continuous equals, or similarly continuous majors, or similarly
+							continuous minors, that is, furthermore those multiples are to be continuous proportionals, and if this is dissonant anywhere within the multiples then I
 							say they are not to be continuous proportionals.
 						</td>
 						<td class="additio">
@@ -11040,17 +11038,15 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Quantities which are said to be according to one proportion, the first to the second, and the third to the fourth, and so on, is as if he were to say, "I
-							call all 4 quantities incontinuous proportionals," and that first is related to the second as that third relates to the fourth, that is, first to second and
-							third to fourth is similarly related by equalizing, or adding, or diminuting, of which all equal multiples of the first and third are mutually similar to
-							all equal multiples of the second and fourth, either by equalizing, or adding, or diminuting, that is, the multiples of the first also are to have the same
-							proportion to the multiples of the second, in which the multiples of the third are related to the multiples of the fourth, and if this is dissonant
-							anywhere in the multiples, then I say the proportion of the first to second is not as the third is to fourth. But what he says in the
-							8th definition is as if he were saying, "I call first to second of the 4 quantities a greater proportion than third is to
-							fourth," that is, the first is to exceed the second more than the third shall exceed the fourth, of which some from the multiples of the first he adds over
-							some from the multiples of the second, and some from the multiples of the third are taken according to the enumeration of the multiple of the first, not by
-							adding over some multiples of the forth taken according to the enumeration of the multiple of the second, that is, there is to be a greater proportion of
-							the multiple of the first to the multiple of the second than of the multiple of the third to the multiple of the fourth.
+							Quantities which are said to be according to one proportion, first to second and third to fourth and so on, as if he were to say, "I call all 4 quantities
+							incontinuous proportionals, and the first is related to second as the third relates to fourth," that is, first to second and third to fourth is similarly
+							related by equalizing, or adding, or diminuting, of which all equal multiples of the first and third to all equal multiples of the second and fourth are
+							mutually similar either by equalizing, or adding, or diminuting, and if this is dissonant anywhere in the multiples, then I say the proportion of first to
+							second is not as third to fourth. But what he says in the 8th definition is as if he were saying, "I designate the first to the second of the 4 quantities a
+							greater proportion than the third is to the fourth," that is, the first is to exceed the second more than the third may exceed the fourth, of which any from
+							the multiples of the first exceeds any from the multiples from the second, and any from the multiples of the third taken according to the enumeration of the
+							multiple of the first do not exceed any from the multiples of the fourth taken according to the enumeration of the multiples of the second, that is, there
+							is to be a greater proportion of the multiples of the first to the multiples of the second than the multiples of the third to the multiples of the fourth.
 						</td>
 						<td class="additio">
 							Quantitates quae dicuntur esse secundum proportionem unam prima ad secundam et tertia ad quartam. et cetera ac si diceret. omnes .4. quantitates voco
@@ -11058,17 +11054,17 @@
 							se habere in aequando aut addendo aut minuendo. quarum omnes aequae multiplices primae et tertiae ad omnes aequae multiplices secundae et quartae.
 							similiter se habent aut in aequando autem addendo aut minuendo quod est etiam multiplices primae in eadem proportione se habere ad multiplices secundae. in
 							qua multiplices tertiae se habent ad multiplices quartae. quod si hoc alicubi dissonat in multiplicibus. dico non est proportionem primae ad secundam sicut
-							tertiae ad quartam. quod autem dicit in .8. diffinitione est ac si diceret majorem proportionem voco .4. quantitatum primae ad
-							secundam quam tertiae ad quartam quod est primam magis excedere secundam quam tertia excedat quartam. quarum aliqua ex multiplicibus primae addit super
-							aliquam ex multiplicibus secundae: aliqua ex multiplicibus tertiae sumpta secundum numerationem multiplicis primae non addente super aliquem ex
-							multiplicibus quartae: sumpta secundum numerationem multiplicis secundae. quod est esse maiorem proportionem multiplicis primae ad multiplicem secundae.
-							quam multiplicis tertiae ad multiplicem quartae.
+							tertiae ad quartam. quod autem dicit in .8. diffinitione est ac si diceret majorem proportionem voco .4. quantitatum primae ad secundam quam tertiae ad
+							quartam quod est primam magis excedere secundam quam tertia excedat quartam. quarum aliqua ex multiplicibus primae addit super aliquam ex multiplicibus
+							secundae: aliqua ex multiplicibus tertiae sumpta secundum numerationem multiplicis primae non addente super aliquem ex multiplicibus quartae: sumpta
+							secundum numerationem multiplicis secundae. quod est esse maiorem proportionem multiplicis primae ad multiplicem secundae. quam multiplicis tertiae ad
+							multiplicem quartae.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
 							But these definitions are to be demonstrated by no one, excepting Ametus, son of Joseph, who attempted to demonstrate them in his letter that he composed on
-							proportion and proportionality, and he accepted the three by mode a of position they are as principles, which he says are known per se and require no proof.
+							proportion and proportionality, and he accepted three by mode of position as principles, which he says are known by itself and require no proof. 
 						</td>
 						<td class="additio">
 							Diffinitiones autem istas nisi sunt aliqui demonstrare. quorum ametus filius Ioseph tentavit eas demonstrare in epistola sua quam de proportione et
@@ -11077,9 +11073,9 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							The first of which is that if there are 4 quantities of which the proportion of the first to second is as the third is to fourth, the converse proportion of
-							the second to first will be as the fourth to fifth, and this is the mode of argument which Euclid formerly called converse proportionality, and he erred,
-							inasmuch as he said a proposition is known per se, but the antecedent and consequent of this is unknown.
+							The first of which is that if there were 4 quantities of which the proportion of first to second is as third to fourth, the converse proportion of second to
+							first will be as fourth to third, and this is the mode of argument which Euclid formerly called converse proportionality. And he erred inasmuch he said the
+							proposition is to be known per se, the antecedent and consequent of which are unknown.
 						</td>
 						<td class="additio">
 							Quorum primum est quod si fuerint .4. quantitates. quarum sit proportio primae ad secundam sicut tertiae ad quartam. erit econverso proportio secundae ad
@@ -11089,8 +11085,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For it is unknown what the proportion of the first quantity shall be to the second, as the third is to fourth, wherefore with this unknown posited it is
-							impossible to understand what follows from it, and similarly, that the consequent is unknown, it is impossible to understand what shall antecede it.
+							For it is unknown what the proportion of the first quantity is to be to the second, as the third to the fourth, wherefore by this unknown position it is
+							impossible to understand what follows from it, and similarly, that the consequent is unknown, it is impossible to know what should antecede that.
 						</td>
 						<td class="additio">
 							Ignotum est enim quid sit esse proportionem primae quantitatis ad secundam sicut tertiae ad quartam. quare hoc ignoto posito impossibile est intelligere
@@ -11099,8 +11095,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							¶&nbsp;His second principle was, that if there are 4 quantities of which the proportion of the first to second is as the third is to fourth, if the first
-							shall be greater than the second, then the third will be greater than the fourth, and if lesser, lesser, and if equal, equal.
+							¶&nbsp;His second principle was that if there were 4 quantities of which the proportion of the first to second were as the third is to fourth, if the first
+							is greater than the second, then the third will be greater than the fourth, and if lesser, lesser, and if equal, equal.
 						</td>
 						<td class="additio">
 							¶&nbsp;Secundum principium eius fuit: quod si fuerint .4. quantitates quarum sit proportio primae ad secundam sicut tertiae ad quartam. si prima sit maior
@@ -11109,8 +11105,8 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							The third was that if there are 4 quantities of which the proportion of the first to second is as third is to fourth, the first will be to any multiple of
-							the second as the third to an equal multiple from the multiples of the fourth, and the same error befell him in these two principals, which happened in the
+							The third was that if there were 4 quantities of which the proportion of the first to second were as third to fourth, the first to any multiple of the second
+							will be as the third to an equal multiple from the multiples of the fourth, and the same error befell him in these two principles that befell him in the
 							first.
 						</td>
 						<td class="additio">
@@ -11120,32 +11116,35 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For in all things he accepted the unknown similarly as if known and thus did not demonstrate them. He also erred in the second demonstration, and in the
-							third, and in the fifth, in each of which he argued from 8 or 10 of this, which are proven from the definition of incontinuous proportionality.
+							For in all things he accepted the unknown similarly as though it were known and thus, did not demonstrate them. He also erred in the second
+							demonstration, and in the third, and in the fifth, any in which he argued from the <span class="propositio">8th</span> or from the
+							<span class="propositio">10th</span> of <span class="liber">this</span>, which are proved from the definition of incontinuous proportionality.
 						</td>
 						<td class="additio">
 							Accepit enim in omnibus ignota similiter tanquam nota. quare non demonstravit. peccavit etiam in secunda demonstratione et in tertia et in quinta. in
-							quarum qualibet arguit ex .8. vel ex .10. huius quae probantur ex diffinitione incontinuae proportionalitatis.
+							quarum qualibet arguit ex <span class="propositio">.8.</span> vel ex <span class="propositio">.10.</span> <span class="liber">huius</span> quae probantur
+							ex diffinitione incontinuae proportionalitatis.
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							For he argues thus, if the proportion ab to e is greater than g is to d, then let nb be part of ab to e, as g is to d, by which it appears he supposes
-							that of the two unequal quantities related to e, ab and nb, the greater will have the greater and the lesser will have the lesser proportion to it, or
-							that the quantity to e that will have a lesser proportion than ab will be less than ab The first of which he demonstrates in the 8th of this, and the
-							following 10th.
+							For he argues thus, if the proportion of a.b to e is greater than g to d, then u.b is a part of a.b to e as g is to d, by which it appears he supposes that
+							of the two quantities inequally related to e, a.b and u.b, the greater will obtain a greater proportion to it and the lesser will obtain a lesser, or that
+							the quantity to e will have a lesser proportion than it has to a.b, less than a.b, the first of which he demonstrates by the
+							<span class="propositio">8th</span> of <span class="liber">this</span> and the second by the <span class="propositio">10th</span>.
 						</td>
 						<td class="additio">
-							Arguit enim sic si proportio .a.b. ad .e. est maior quam .g. ad .d. sit ergo .n.b. partis .a.b. ad .e. sicut .g. ad .d. per quod apparet ipsum supponere
-							quod duarum quantitatum .a.b. et .n.b. inaequalium relatarum ad .e. maior maiorem et minor minorem ad ipsam optinet proportionem vel quod quantitas ad .e.
-							habebit minorem proportionem quam habeat .a.b. erit minor .a.b. quorum primum demonstrat .8. huius. et secundum .10.
+							Arguit enim sic si proportio .a.b. ad .e. est maior quam .g. ad .d. sit ergo .u.b. partis .a.b. ad .e. sicut .g. ad .d. per quod apparet ipsum supponere
+							quod duarum quantitatum .a.b. et .u.b. inaequalium relatarum ad .e. maior maiorem et minor minorem ad ipsam optinet proportionem vel quod quantitas ad .e.
+							habebit minorem proportionem quam habeat .a.b. erit minor .a.b. quorum primum demonstrat <span class="propositio">.8.</span>
+							<span class="liber">huius</span>. et secundum <span class="propositio">.10.</span>
 						</td>
 					</tr>
 					<tr>
 						<td class="additio">
-							Thus when you want to take a quantity that is itself related to e in proportion of g to d, I will give you one greater or lesser or equal to ab,
-							indifferently as I wish, but for what reason does he not demonstrate it? Or does the circle feed into itself and the principles are to be more unknown than
-							the conclusions.
+							For when you want to take a quantity that is itself related to e in proportion of g to d, I will give you one greater or lesser or equal to a.b,
+							indifferently as I wish, but wherefore does he not demonstrate it? Or does the circle feed itself, and the principles are to be more unknown than the
+							conclusions.
 						</td>
 						<td class="additio">
 							Nam cum vultis sumere quantitatem quae se habeat ad .e. in proportione .g. ad .d. dabo tibi maiorem aut minorem aut aequalem .a.b. indifferenter sicut
@@ -11154,7 +11153,7 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Therefore, with Euclid the principles are supposed as known, and are not themselves from conclusions, but the conclusions are demonstrated from them.
+							So with Euclid, the principles are supposed as known and are not themselves from conclusions, but conclusions are demonstrated from them.
 						</td>
 						<td class="additio">
 							Supponenda sunt igitur cum euclide principia tanquam nota. et non ipsa ex conclusionibus. sed conclusiones ex ipsis demonstrande sunt.
@@ -13239,10 +13238,12 @@
 					</tr>
 					<tr>
 						<td>
-							<h3>If there were [four] proportional quantities, and the first of them were the greatest and the last were the least, the first and last accepted together are necessarily understood to be greater than the other two.</h3>
+							<h3>If there were [four] proportional quantities, and the first of them were the greatest and the last were the least, the first and last accepted together
+							are necessarily understood to be greater than the other two.</h3>
 						</td>
 						<td>
-							<h3>Si fuerint quantitates proportionales: fueritque prima earum maxima. et ultima minima. primam et ultimam pariter acceptas ceteris duabus maius esse necessario comprobatur.</h3>
+							<h3>Si fuerint quantitates proportionales: fueritque prima earum maxima. et ultima minima. primam et ultimam pariter acceptas ceteris duabus maius esse
+							necessario comprobatur.</h3>
 						</td>
 					</tr>
 				</tbody>
@@ -13676,6 +13677,177 @@
 						<td class="additio">
 							At vero proportio .h. ad .c. est per aequam proportionalitatem: sicut .d. ad .f. est enim .h. ad .g. ut .d. ad .e. et .g. ad .c. ut .e. ad .f. igitur ex
 							<span class="propositio">.12.</span> proportio .a. ad .c. est maior quam .d. ad .f. quare constat propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 32</h1>
+						</td>
+						<td>
+							<h1>Propositio .32.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were three quantities in one order, and also three in another, and the proportion of the second to third of the prior were greater than the
+							first to second of the posterior, and also the first to second of the prior were greater than the second to third of the posterior, the proportion of the
+							first to third of the prior will be greater than the first to third of the posterior.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint tres quantitates in uno ordine. itemque tres in alio fueritque proportio secundae priorum ad tertiam maior quam primae posteriorum ad
+							secundam. Itemque primae priorum ad secundam maior quam secundae posteriorum ad tertiam. erit maior proportio primae priorum ad tertiam quam primae
+							posteriorum ad tertiam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;So suppose three quantities, a, b, and c, are in one order.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sint enim tres quantitates in uno ordine .a.b.c.
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And three in another, d, e, and f, just as in the preceding, and let the proportion of b to c be greater than d to e, and a to b greater than e to f. I say
+							that a to c will be greater than d to f, for if g to c were as d to e, then g will be less than b by the first part of the
+							<span class="propositio">10th</span>, wherefore the proportion of a to g will be greater than to b by the second part of the
+							<span class="propositio">8th</span>, thus a to g is much greater than e to f. And again, if h to g is as e to f, then a will be greater than h from the
+							first part of the <span class="propositio">10th</span>, wherefore the proportion of a to c is greater than h to c from the first part of the
+							<span class="propositio">8th</span>.
+						</td>
+						<td class="additio">
+							Itemque tres in alio .d.e.f. quemadmodum in praemissa: sitque maior proportio .b. ad .c. quam .d. ad .e. et maior .a. ad .b. quam .e. ad .f. dico quod
+							maior erit .a. ad .c. quam .d. ad .f. sit enim .g. ad .c. ut .d. ad .e. eritque .g. minor .b. per primam partem <span class="propositio">.10.</span> quare
+							maior erit proportio .a. ad .g. quam ad .b. per secundam partem <span class="propositio">.8.</span> igitur multo maior est .a. ad .g. quam .e. ad .f. sit
+							itaque .h. ad .g. ut .e. ad .f. eritque .a. maior .h. ex prima parte <span class="propositio">.10.</span> quare proportio .a. ad .c. maior est quam .h. ad
+							.c. ex prima parte <span class="propositio">.8.</span>
+						</td>
+					</tr>
+					<tr>
+						<td class="additio">
+							And moreover from the <span class="propositio">23rd</span>, the proportion of h to c is just as d to f for that g to c is as d to e, and h to g is as e to
+							f, therefore, from the <span class="propositio">12th</span>, the proportion of a to c is as d to f, which is the intention.
+						</td>
+						<td class="additio">
+							At vero ex <span class="propositio">.23.</span> proportio .h. ad .c. est tanquam .d. ad .f. eo quod est .g. ad .c. ut .d. ad .e. et .h. ad .g. ut .e. ad
+							.f. igitur ex <span class="propositio">.12.</span> maior est proportio .a. ad .c. quam .d. ad .f. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 33</h1>
+						</td>
+						<td>
+							<h1>Propositio .33.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If the proportion of the total to total were greater than the abscinded to abscinded, then the proportion of the residuary to residuary will be greater
+							than the total to total.</h3>
+						</td>
+						<td>
+							<h3>Si fuerit proportio totius ad totum maior: quam abscisi ad abscisum erit residui ad residuum maior proportio quam totius ad totum.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Suppose two quantities, a and b, from which c and d are abscinded, and the residuaries are e and f, and the proportion of a to b is greater than
+							c to d. I say that the proportion of e to f will be greater than a to b, for from the <span class="propositio">27th</span>, the proportion of a to c will
+							permutably be greater than b to d, whereby from the <span class="propositio">30th</span>, the proportion of a to e will eversively be less than b to f,
+							then again from the <span class="propositio">27th</span>, a to b will permutably be less than e to f, which is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sint duae quantitates .a. et .b. a quibus abscindantur .c. et .d. et residua sunt .e. et .f. sitque maior proportio .a. ad .b. quam .c. ad .d. dico
+							quod maior erit proportio .e. ad .f. quam .a. ad .b. erit enim ex <span class="propositio">.27.</span> permutatim maior proportio .a. ad .c. quam .b. ad
+							.d. quare ex <span class="propositio">.30.</span> erit eversim minor proportio .a. ad .e. quam .b. ad .f. igitur rursus ex
+							<span class="propositio">.27.</span> permutatim minor erit .a. ad .b. quam .e. ad .f. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 34</h1>
+						</td>
+						<td>
+							<h1>Propositio .34.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If soever many quantities are compared to just as many others and the proportion of any preceding to its relative were greater than of any subsequent
+							to its own, then the proportion of all these accepted together to all those accepted together will be greater than any subsequent comparable to its own,
+							and also of all the accepted together to all the accepted together, but less than the first to the first.</h3>
+						</td>
+						<td>
+							<h3>Si quotlibet quantitates ad totidem alias comparentur fueritque cuiuslibet praecedentis ad suam relativam maior proportio quam alicuius subsequentis ad
+							suam. erit omnium harum pariter acceptarum ad omnes illas pariter acceptas maior proportio quam alicuius subsequentium ad suam comparem aut etiam quam
+							omnium pariter acceptarum ad omnes pariter acceptas: minor autem quam primae ad primam.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td class="additio">
+							¶&nbsp;Suppose the 3 quantities a, b, and c are related to as many others, which are d, e, and f, and the proportion of a to d is greater than b to e, and
+							b to e is greater than c to f. I say that the proportion of a, b, and c accepted together to d, e, and f accepted together is greater than b to e, and
+							greater than c to f, and also it is greater than b and c accepted together to e and f accepted together, and that it is less than a to d, for since a to d
+							is greater than b to e, a to b permutably will be greater than d to e, and conjunctively a.b to b will be greater than d.e to e, and again permutably, a.b
+							to d.e will be greater than b to e, wherefore by the preceding, a to d is greater than a.b to d.e. And by the same mode, b to d is proved to be greater
+							than b.c to e.f, and so the proportion of a to d is greater than b.c to e.f, wherefore permutably a to b.c is greater than d to e.f, and conjunctively
+							a.b.c to b.c is greater than d.e.f to e.f, and again permutably, a.b.c to d.e.f is greater than c.b to e.f, wherefore by the preceding, a to d is greater
+							than a.b.c to d.e.f, which is the intention.
+						</td>
+						<td class="additio">
+							¶&nbsp;Sint .3. quantitates .a.b.c. relatae ad totidem alias quam sint .d.e.f. sitque maior proportio .a. ad .d. quam .b. ad .e. et .b. ad .e. sit maior
+							quam .c. ad .f. dico quod proportio .a.b.c. pariter acceptarum ad .d.e.f. pariter acceptas. est maior quam .b. ad .e. vel maior quam .c. ad .f. et etiam
+							maior. quam .b. et .c. pariter acceptarum ad .e. et .f. pariter acceptas: et quod ipsa est minor quam .a. ad .d. cum sit enim .a. ad .d. maior quam .b. ad
+							.e. erit permutatim .a. ad .b. maior quam .d. ad .e. et coniunctim .a.b. ad .b. maior quam .d.e. ad .e. et iterum permutatim .a.b. ad .d.e. maior quam .b.
+							ad .e. quare per praemissam .a. ad .d. est maior quam .a.b. ad .d.e. eodemque modo probatur maiorem esse .b. ad .e. quam .b.c. ad .e.f. itaque maior
+							proportio est .a. ad .d. quam .b.c. ad .e.f. quare permutatim maior est .a. ad .b.c. quam .d. ad .e.f. et coniunctim maior .a.b.c. ad .b.c. quam .d.e.f. ad
+							.e.f. et iterum permutatim maior .a.b.c. ad .d.e.f. quam .c.b. ad .e.f. quare per praemissam maior est .a. ad .d. quam .a.b.c. ad .d.e.f. quod est
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The fifth book ends.
+						</td>
+						<td>
+							¶&nbsp;Explicit liber quintus.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The sixth book begins.
+						</td>
+						<td>
+							¶&nbsp;Incipit liber Sextus.
 						</td>
 					</tr>
 				</tbody>
