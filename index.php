@@ -13871,6 +13871,102 @@
 				</tbody>
 			</table>
 		</div>
+		<div class="tOc">
+			<h2>Book VI</h2>
+		</div>
+		<div class="mensa">
+			<table id="liber-vi">
+				<tbody class="noli">
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Superficies whose angles of one equal angles of the other and whose sides containing equal angles are proportional, are called
+							<span class="definitio">similar</span>.
+						</td>
+						<td>
+							¶&nbsp;Superficies <span class="definitio">similes</span> dicuntur quarum anguli unius angulis alterius aequales. lateraque aequos angulos continentia
+							proportionalia.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;So if the triangle a.b.c were equiangular to triangle d.e.f, and the angle a were equal to angle d, and the angle b were equal to angle e, and the
+							proportion of a.b to d.e were as a.c to d.f, and b.c to e.f, they will be <span class="definitio">similar</span>.
+						</td>
+						<td>
+							¶&nbsp;Ut si trigonus .a.b.c. fuerit aequiangulus trigono .d.e.f. fueritque angulus .a. aequalis angulo .d. et angulus .b. aequalis angulo .e. et proportio
+							.a.b. ad .d.e. sicut .a.c. ad .d.f. et .b.c. ad .e.f. ipsi erunt <span class="definitio">similes</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;Superficies between whose sides a transitive incontinuous proportionality is had, are of <span class="definitio">mutual sides</span>.
+						</td>
+						<td>
+							¶&nbsp;Superficies <span class="definitio">mutuorum laterum</span> sunt inter quarum latera incontinua proporitonalitas retransitiuae habetur.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;So of two quadrilaterals a.b.c and d.e.f, if the proportion of side a.b of the first to side d.e of the second were as the proportion of side e.f
+							of the second to side b.c of the first, those two quadrilaterals are said to be of <span class="definitio">mutual sides</span>, or <span class="definitio">mutekesia</span>.
+						</td>
+						<td>
+							¶&nbsp;Ut si duorum quadrilaterum .a.b.c.d.e.f. proportio .a.b. lateris primi. ad .d.e. latus secundi fuerit sicut proportio .e:f. lateris secundi. ad
+							.b.c. latus primi: illa duo quadrilatera dicuntur <span class="definitio">mutuorum laterum</span> sive <span class="definitio">mutekesia</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;A line is said to be divided according to a proportion having a <span class="definitio">medium and two extremes</span> when the proportion of the
+							total to its greater section is the same of what is the greater to the lesser.
+						</td>
+						<td>
+							¶&nbsp;Linea dicitur dividi secundum proportionem habentem <span class="definitio">medium et duo extreme</span> quando eadem est proporito totius ad maiorem sui seccionem quae est maioris ad minorem.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 1</h1>
+						</td>
+						<td>
+							<h1>Propositio .1.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3> </h3>
+						</td>
+						<td>
+							<h3> </h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							
+						</td>
+						<td>
+							
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 		<!--suppress JSObjectNullOrUndefined -->
 		<script>
 				const search = "¶\xa0";
