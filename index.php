@@ -270,12 +270,12 @@
 					</tr>
 					<tr>
 						<td>
-							¶&nbsp;<span class="definitio">Equidistant lines</span> are those which are assembled upon the same surface and one or the other extended in either
-							direction shall not come together, even if extended neverendingly.
+							¶&nbsp;<span class="definitio">Equidistant lines</span> are collocated on the same superficies, which extended in either direction shall not convene even
+							when extended in an infinite manner.
 						</td>
 						<td>
 							¶&nbsp;<span class="definitio">Aequidistantes lineae</span> sunt quae in eadem superficie collocatae atque in alterutram partem protractae non conveniunt
-							etiam si in infinium protrahantur.
+							etiam si in infinitum protrahantur.
 						</td>
 					</tr>
 				</tbody>
@@ -13915,7 +13915,8 @@
 					<tr>
 						<td>
 							¶&nbsp;So of two quadrilaterals a.b.c and d.e.f, if the proportion of side a.b of the first to side d.e of the second were as the proportion of side e.f
-							of the second to side b.c of the first, those two quadrilaterals are said to be of <span class="definitio">mutual sides</span>, or <span class="definitio">mutekesia</span>.
+							of the second to side b.c of the first, those two quadrilaterals are said to be of <span class="definitio">mutual sides</span>, or
+							<span class="definitio">mutekesia</span>.
 						</td>
 						<td>
 							¶&nbsp;Ut si duorum quadrilaterum .a.b.c.d.e.f. proportio .a.b. lateris primi. ad .d.e. latus secundi fuerit sicut proportio .e:f. lateris secundi. ad
@@ -13928,7 +13929,8 @@
 							total to its greater section is the same of what is the greater to the lesser.
 						</td>
 						<td>
-							¶&nbsp;Linea dicitur dividi secundum proportionem habentem <span class="definitio">medium et duo extreme</span> quando eadem est proporito totius ad maiorem sui seccionem quae est maioris ad minorem.
+							¶&nbsp;Linea dicitur dividi secundum proportionem habentem <span class="definitio">medium et duo extreme</span> quando eadem est proporito totius ad maiorem
+							sui seccionem quae est maioris ad minorem.
 						</td>
 					</tr>
 				</tbody>
@@ -13948,20 +13950,127 @@
 					</tr>
 					<tr>
 						<td>
-							<h3> </h3>
+							<h3>If there were one altitude of two rectilinear superficies of equidistant sides or of triangles, then either of them will be so much to the other as its
+							base is to the base of the other.</h3>
 						</td>
 						<td>
-							<h3> </h3>
+							<h3>Si duarum rectilinearum superficierum aequidistantium laterum sive triangulorum fuerit altitudo una: tanta erit alterutra earum ad alteram. quanta sua
+							basis ad basim alterius.</h3>
 						</td>
 					</tr>
 				</tbody>
 				<tbody>
 					<tr>
 						<td>
-							
+							¶&nbsp;Suppose the two parallelograms a.b.c and d.e.f are of equal altitudes, then I say the proportion of them to be as b.c is to e.f. I will place those
+							two parallelograms over one line that is g.m, and for that they are of an equal altitude between equidistant lines, of which the other is k.n, then from
+							the line g.m I will take the multiple g.c to b.c, according to whatsoever number I decide, and I will divide it by parts equal to b.c at points h and b,
+							from which, along with point g, I will draw equidistant lines to a.b that are g.k and h.l, and I will complete the superficies of equidistant sides, h.k and
+							l.b, and both of them by the <span class="propositio">36th</span> of the <span class="liber">first</span> will equal a.c, therefore, as the line g.c is a
+							multiple of the line b.c, thus is the superficies c.k of the superficies a.c.
 						</td>
 						<td>
-							
+							¶&nbsp;Sint duo paralellograma .a.b.c.d.e.f. aequalis altitudinis. dico esse proportionem eorum: sicut .b.c. ad .e.f. ponam illa duo paralellograma super
+							lineam unam quae sit .g.m. eruntque propter hoc quod sunt aequalis altitudinis inter lineas aequidistantes quarum sit altera .k.n. deinde ex linea .g.m.
+							sumam .g.c. multiplicem secundum quaecumque numerum volvero .a.d.[sic]b.c. et dividam eam in partes aequales b.c. in punctis .h. et b. a quibus et puncto
+							.g. ducam aequidistantes lineae .a.b. quae sunt .g.k. et .h.l. et complebo superficies aequidistantium laterum .k.h. et .l.b. eritque unaquaeque earum per
+							<span class="propositio">.36.</span> <span class="liber">primi</span> aequalis .a.c. quare sicut linea .g.c. est multiplex lineae .b.c. ita superficies
+							.c.k. superficiei .a.c.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Similarly, from the line g.m I will also take the multiple f.m to the line e.f according to whatsoever number I decide, and will complete the superficies of
+							equidistant sides by drawing the line m.n equidistantly to the line d.e, and the superficies n.f will be such a multiple of the superficies d.f as the line
+							m.f is of the line e.f, and that by the <span class="propositio">36th</span> of the <span class="liber">first</span> if the line g.c is greater than the
+							line f.m, the superficies k.c is greater than the superficies n.f, and lesser if lesser, and equal if equal, then by the definition of incontinuous
+							proportionalities the proportion of the base b.c to the base e.f is the same which is of the superficies a.c to the superficies d.f, which is the intention.
+						</td>
+						<td>
+							Similiter quoque ad lineam .e.f. sumam ex linea .g.m. lineam f.m. multiplicem secundam quaecunque numerum volvero .e.f. et complebo superficiem
+							aequidistantium laterum ducta linea .m.n. aequidistanter lineae .d.e. eritque superficies .n.f. ita multiplex superficiei .d.f. sicut linea .m.f. lineae
+							.e.f. et quia per <span class="propositio">.36.</span> <span class="liber">primi</span> si linea .g.c. est maior linea .f.m. superficies .k.c. est maior
+							superficie .n.f. et si minor minor. et si aequalis aequalis erit per diffinitionem incontinuae proportionalitatis eadem proportio basis .b.c. ad basim .e.f.
+							quae est superficiei .a.c. ad superficiem .d.f. quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;You may prove the same for triangles of equal altitude and in the same way through the <span class="propositio">38th</span> of the
+							<span class="liber">first</span>, by drawing lines from the extremities of those that you will take for the multiple bases, to the vertices of the triangles.
+						</td>
+						<td>
+							¶&nbsp;De triangulis aequalis altitudinis idem probabis: et eodem modo per <span class="propositio">.38.</span> <span class="liber">primi</span> ductis
+							lineis ab extremitatibus earum quas ad bases sumes multiplices ad vertices triangulorum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 2</h1>
+						</td>
+						<td>
+							<h1>Propositio .2.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If a right line cutting two sides of a triangle were equidistant to the remaining, then it is to cut those two sides proportionally. And if it cuts
+							proportionally, it is necessary for it to be equidistant to the remaining side.</h3>
+						</td>
+						<td>
+							<h3>Si linea recta duo trianguli latera secans reliquo fuerit aequidistans: eam duo illa latera proportionaliter secare. Si vero proportionaliter secet eam
+							reliquo lateri aequidistare necesse est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the triangle a.b.c, whose two sides, a.b and a.c, are cut by the line d.e equidistantly to the third side which is b.c. I say that the
+							proportion of a.d to d.b will be as a.e to e.c, and vise versa, for if the proportion of a.d to d.b were as a.e to e.c, the line d.e will be equidistant to
+							the line b.c, and I will protract the two lines e.b and d.c, and by the <span class="propositio">37th</span> of the <span class="liber">first</span>, the
+							triangle e.d.b will equal the triangle d.e.c for that they are both between equidistant lines over the line d.e, and so by the second part of the
+							<span class="propositio">7th</span> of the <span class="liber">fifth</span>, the proportion of the triangle a.d.e to both of them will be one. But its
+							proportion by the <span class="propositio">preceding</span> to the triangle e.d.b is as the line a.d to the line d.b, and for the triangle d.e.c, as the
+							line a.e to the line e.c.
+						</td>
+						<td>
+							¶&nbsp;Sit triangulus .a.b.c. cuius duo latera .a.b. et .a.c. secet linea .d.e. aequidistanter tertio lateri. quod est .b.c. dico quod erit proportio .a.d.
+							ad .d.b. sicut .a.e. ad .e.c. et econverso si fuerit proportio .a.d. ad .d.b. sicut .a.e. ad .e.c. linea .d.e. erit aequidistans lineae .b.c. protraham
+							enim duas lineas .e.b. et .d.c. eritque per <span class="propositio">.37.</span> <span class="liber">primi</span> triangulus .e.d.b. aequalis triangulo
+							.d.e.c. propter id quod ipsi sunt ambo super lineam .d.e. inter lineas aequidstantes. itaque per secundam partem <span class="propositio">.7.</span>
+							<span class="liber">quinti</span>: proportio trianguli .a.d.e. ad utrumque illorum erit una: sed proportio eius per
+							<span class="propositio">praemissam</span> ad triangulum .e.d.b. est sicut lineae .a.d. ad lineam .d.b. et ad triangulum .d.e.c. sicut lineae .a.e. ad
+							lineam .e.c.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Since it is of equal altitude with both of them, thus the proportion of a.d to d.b will be as a.e to e.c, which is the first.
+						</td>
+						<td>
+							Nam ipse cum utroque illorum est aequalis altitudinis: quare erit proportio .a.d. ad .d.b. sicut .a.e. ad .e.c. quod est primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;And if it were by the <span class="propositio">preceding</span> that the proportion of a.d.e to both of them will be one, then by the second part of
+							the <span class="propositio">9th</span> of the <span class="liber">fifth</span> they will be mutually equal. And that they are over the same base, namely,
+							the line d.e, and from the same side, by the <span class="propositio">39th</span> of the <span class="liber">first</span> the line d.e will be equidistant
+							to the line b.c, which is the second.
+						</td>
+						<td>
+							¶&nbsp;Et si hoc fuerit erit per <span class="propositio">praemissam</span> ipsius .a.d.e. utrumque illorum proportio una: quare per secundam partem
+							<span class="propositio">.9.</span> <span class="liber">quinti</span> ipsi sunt adinvicem aequales: et quia ipsi sunt super eandem basim. videlicet lineam
+							.d.e. et ex eadem parte erit per <span class="propositio">.39.</span> <span class="liber">primi</span>: linea .d.e. aequidistans lineae .b.c. quod est
+							secundum.
 						</td>
 					</tr>
 				</tbody>
