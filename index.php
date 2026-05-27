@@ -14074,6 +14074,79 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 3</h1>
+						</td>
+						<td>
+							<h1>Propositio .3.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If a right line drawn from any of the angles of a triangle to the base cuts that angle by equals, the two parts of that base are to be the same
+							proportion to the remaining sides of the triangle. And if the two parts of the base, which the line drawn from the angle divides, were proportional to the
+							remaining sides of the triangle, that line is necessarily proved to divide the angle by equals.</h3>
+						</td>
+						<td>
+							<h3>Si ab aliquo angulorum trianguli linea recta ad basim ducta angulum illum per aequalia secet: duas partes ipsius basis reliquis eiusdem trianguli
+							lateribus proportionales esse. Si vero duae partes basis quas linea ab angulo ducta distinguit reliquis trianguli lateribus proportionales fuerint lineam
+							illam angulum per aequalia dividere necessario comprobatur.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the triangle a.b.c, whose angle a is divided by equals by the line a.d. I say that the proportion of b.d to d.c is as b.a to a.c, and vise
+							versa. For I will protract b.e equidistantly to a.d, and produce c.a until it concurs with b.e at point e, and by the first part of the
+							<span class="propositio">29th</span> of the <span class="liber">first</span>, the angle e.b.a will equal the angle b.a.d, and by the second part of the
+							<span class="propositio">same</span>, angle e will equal angle d.a.c, thus angle e is equal to angle e.b.a, therefore, by the
+							<span class="propositio">6th</span> of the <span class="liber">first</span>, e.a is equal to a.b, and so by the first part of the
+							<span class="propositio">7th</span> of the <span class="liber">fifth</span>, the proportion e.a to a.c is as b.a to a.c. But by the
+							<span class="propositio">preceding</span>, e.a to a.c is as b.d to d.c, therefore, b.a to a.c is as b.d to d.c, which is the first.
+						</td>
+						<td>
+							¶&nbsp;Sit trigonus .a.b.c. cuius angulum .a. dividat linea .a.d. per aequalia: dico quod proportio .b.d. ad .d.c. est sicut .b.a. ad .a.c. et econverso:
+							protraham enim .b.e. aequidistantem .a.d. et producam .c.a. quousque concurrat cum .b.e: in puncto .e. eritque per primam partem
+							<span class="propositio">.29.</span> <span class="liber">primi</span> angulus .e.b.a. aequalis angulo .b.a.d. et per secundam partem
+							<span class="propositio">eiusdem</span> angulus .e. angulo .d.a.c. quare angulus .e. est aequalis angulo .e.b.a. ergo per
+							<span class="propositio">.6.</span> <span class="liber">primi</span> .e.a. est aequalis .a.b. et ideo per primam partem <span class="propositio">.7.</span>
+							<span class="liber">quinti</span> proportio .e.a. ad .a.c. est sicut .b.a. ad .a.c. sed per <span class="propositio">praemissam</span> .e.a. ad .a.c. est
+							sicut .b.d. ad .d.c. ergo .b.a. ad .a.c. sicut .b.d. ad .d.c. quod est primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second part, which is the converse of the first part, will be proved in a converse mode.
+						</td>
+						<td>
+							¶&nbsp;Secunda pars quae est conversa primae partis probabitur converso modo.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For likewise in the remaining disposition, if the proportion of b.a to a.c were as b.d to d.c and then by the <span class="propositio">preceding</span> e.a
+							to a.c is as b.d to d.c, the proportion of e.a to a.c will be the same as what is b.a to a.c, thus, by the first part of the
+							<span class="propositio">9th</span> of the <span class="liber">fifth</span>, e.a and a.b are equal, and so by the <span class="propositio">5th</span> of the
+							<span class="liber">first</span>, the two angles e and e.b.a are equal, therefore, by the first and second part of the <span class="propositio">29th</span>
+							of the <span class="liber">first</span>, angle b.a.d is equal to angle d.a.c, which is the second.
+						</td>
+						<td>
+							Manente enim eadem dispositione si fuerit proportio .b.a. ad .a.c sicut .b.d. ad .d.c. quare per <span class="propositio">praemissam</span> .e.a. ad .a.c.
+							est sicut .b.d. ad .d.c. erit eadem proportio .e.a. ad .a.c. quae est .b.a. ad .a.c. ergo per primam partem <span class="propositio">.9.</span>
+							<span class="liber">quinti</span> .e.a. et .a.b. sunt aequales. quare per <span class="propositio">.5.</span> <span class="liber">primi</span> duo anguli
+							.e. et .e.b.a. sunt aequales. igitur per primam et secundam partem <span class="propositio">.29.</span> <span class="liber">primi</span> angulus .b.a.d.
+							est aequalis angulo .d.a.c. quod est secundum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
