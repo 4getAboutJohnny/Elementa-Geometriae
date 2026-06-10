@@ -14147,6 +14147,116 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 4</h1>
+						</td>
+						<td>
+							<h1>Propositio .4.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Of all two triangles of which the angles of one are equal to the angles of the other, the sides respecting the equal angles are proportional.</h3>
+						</td>
+						<td>
+							<h3>Omnium duorum triangulorum quorum anguli unius angulis alterius sunt aequales: latera aequos angulos respicientia sunt proportionalia.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose two triangles, a.b.c and d.e.f, are equiangular, and let angle a equal angle d, and angle b angle e, and angle c angle f. I say that the
+							proportion of d.e to a.b and d.f to a.c is as e.f to b.c. For I will place both triangles over one line that is e.c so that the two angles of one that will
+							be over this line are equal to the two of the other that will be over the same, that is, not middle to middle or extreme to extreme, but the middle of one
+							to an extreme of the other. And I will place their two medium angles to meet at the same point, and suppose a.f.c is the same triangle that was a.b.c, and
+							because angle a.f.c is equal to angle e, and angle d.f.e angle c by the hypothesis, then by the first part of the <span class="propositio">28th</span> of
+							the <span class="liber">first</span>, the line a.f will be equidistant to d.e, and d.f equidistant to a.c, therefore, by completing the superficies of
+							equidistant sides that is g.f, and by the <span class="propositio">34th</span> of the <span class="liber">first</span>, g.a will equal d.f, and g.d will
+							equal a.f. Therefore, that by the <span class="propositio">second</span> of <span class="liber">this</span> g.a to a.c is as e.f to f.c, and by the
+							<span class="propositio">same</span> e.f to f.c is as e.d to d.g, by the <span class="propositio">7th</span> of the <span class="liber">5th</span> d.f to
+							a.c, and by the <span class="propositio">same</span> e.d to f.a will be as e.f to f.c, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sunt duo trianguli .a.b.c.d.e.f. aequianguli. sitque angulus .a. aequalis angulo .d. et angulus .b. angulo .e. et angulus .c. angulo .f. dico quod
+							proportio .d.e. ad .a.b. et .d.f. ad .a.c. est sicut .e.f. ad .b.c. ponam enim ambos triangulos super lineam unam quae sit .e.c. ita quod duo anguli unius
+							qui erunt super hanc lineam sint aequales duobus alterius qui erunt super eandem. non quidem medius medio aut extremus extremo. sed medius unius extremo
+							alterius. et ponam duos eorum medios angulos in eodem puncto coire. sitque .a.f.c. ipse idem triangulus qui erat .a.b.c. et quia angulus .a.f.c. est
+							aequalis angulo .e. et angulus .d.f.e. angulo .c. per ypothesim: erit per primam partem <span class="propositio">.28.</span>
+							<span class="liber">primi</span> linea .a.f. aequidistans .d.e. et .d.f. aequidistans .a.c. complebo igitur superficiem aequidistantium laterum quae sit
+							.g.f. eritque per <span class="propositio">.34.</span> <span class="liber">primi</span> .g.a. aequalis .d.f. et .g.d. aequalis .a.f. quia. ergo per
+							<span class="propositio">secundum</span> <span class="liber">huius</span> .g.a. ad .a.c. sicut .e.f. ad .f.c. et per <span class="propositio">eandem</span>
+							.e.f. ad .f.c. sicut .e.d. ad .d.g. erit per <span class="propositio">.7.</span> <span class="liber">quinti</span> .d.f. ad .a.c. et per
+							<span class="propositio">eandem</span> .e.d. ad .f.a. sicut .e.f. ad .f.c. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 5</h1>
+						</td>
+						<td>
+							<h1>Propositio .5.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Of all two triangles among which every of the sides respecting one another are one proportion, the angles contained by those proportional sides are
+							proved to be mutually equal.</h3>
+						</td>
+						<td>
+							<h3>Omnium duorum triangulorum quorum cunctorum laterum sese respicientium est proportio una anguli lateribus proportionalibus contenti aequi sibi invicem
+							esse probantur.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;This is a conversion of the prior, but from this and the preceding he did not produce one conclusion as he did in the
+							<span class="propositio">second</span> and <span class="propositio">third</span> of <span class="liber">this</span>, for neither is it demonstrated by the
+							same figure nor by the same means as the preceding.
+						</td>
+						<td>
+							¶&nbsp;Haec est conversa prioris nec fecit ex ea et praemissa unam conclusionem sicut fecit in <span class="propositio">secunda</span> et
+							<span class="propositio">tertia</span> <span class="liber">huius</span>: quia nec eadem figuratione nec eisdem mediis demonstratur quibus praecedens.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And so suppose the two triangles are a.b.c and d.e.f, and let the proportion of a.b to d.e and a.c to d.f be as b.c to e.f. I say that angle a is equal to
+							angle d, and angle b to angle e, and angle c to angle f. I will constitute over the line e.f, on the opposite side of the triangle d.e.f, angle f.e.g equal
+							to angle b, and angle e.f.g equal to angle c, and by the <span class="propositio">32nd</span> of the <span class="liber">first</span>, angle g will equal
+							angle a. Therefore, by the <span class="propositio">preceding</span>, the proportion of a.b to e.g and a.c to f.g is as b.c to e.f, wherefore a.b to d.e is
+							as to e.g, and a.c to d.f is as to f.g, then by the second part of the <span class="propositio">ninth</span> of the <span class="liber">fifth</span>, d.e is
+							equal to e.g, and by the <span class="propositio">same</span>, d.f is equal to f.g, so by the <span class="propositio">8th</span> of the
+							<span class="liber">first</span>, the two triangles d.e.f and g.e.f are equiangular, and then because the triangle g.e.f is also equiangular to the triangle
+							a.b.c, the intention stands.
+						</td>
+						<td>
+							Sint itaque duo trianguli .a.b.c.d.e.f. sitque proportio .a.b. ad .d.e. et .a.c. ad .d.f. sicut .b.c. ad .e.f. dico quod angulus .a. est aequalis anglo .d.
+							et anuglus .b. angulo .e. et angulus .c. angulo .f. constituam super lineam .e.f. in opposita parte trianguli .d.e.f. angulum .f.e.g. aequalem angulo .b.
+							et angulum .e.f.g. aequalem angulo .c. eritque per <span class="propositio">.32.</span> <span class="liber">primi</span>: angulus .g. aequalis angulo .a.
+							ergo per <span class="propositio">praemissam</span> proporito .a.b. ad .e.g. et .a.c. ad .f.g. sicut .b.c. ad .e.f. quare .a.b ad .d.e. sicut ad .e.g. et
+							.a.c. ad .d.f. sicut ad .f.g. igitur per secundam partem <span class="propositio">none</span> <span class="liber">quinti</span> .d.e. est aequalis .e.g. et
+							per <span class="propositio">eandem</span> .d.f. aequalis .f.g. quare per <span class="propositio">.8.</span> <span class="liber">primi</span>: duo
+							trianguli .d.e.f. et .g.e.f. sunt aequianguli: quare ergo triangulus .g.e.f. est etiam aequiangulus triangulo .a.b.c. constat propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
