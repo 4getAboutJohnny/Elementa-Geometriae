@@ -14251,9 +14251,149 @@
 							et anuglus .b. angulo .e. et angulus .c. angulo .f. constituam super lineam .e.f. in opposita parte trianguli .d.e.f. angulum .f.e.g. aequalem angulo .b.
 							et angulum .e.f.g. aequalem angulo .c. eritque per <span class="propositio">.32.</span> <span class="liber">primi</span>: angulus .g. aequalis angulo .a.
 							ergo per <span class="propositio">praemissam</span> proporito .a.b. ad .e.g. et .a.c. ad .f.g. sicut .b.c. ad .e.f. quare .a.b ad .d.e. sicut ad .e.g. et
-							.a.c. ad .d.f. sicut ad .f.g. igitur per secundam partem <span class="propositio">none</span> <span class="liber">quinti</span> .d.e. est aequalis .e.g. et
-							per <span class="propositio">eandem</span> .d.f. aequalis .f.g. quare per <span class="propositio">.8.</span> <span class="liber">primi</span>: duo
+							.a.c. ad .d.f. sicut ad .f.g. igitur per secundam partem <span class="propositio">nonae</span> <span class="liber">quinti</span> .d.e. est aequalis .e.g.
+							et per <span class="propositio">eandem</span> .d.f. aequalis .f.g. quare per <span class="propositio">.8.</span> <span class="liber">primi</span>: duo
 							trianguli .d.e.f. et .g.e.f. sunt aequianguli: quare ergo triangulus .g.e.f. est etiam aequiangulus triangulo .a.b.c. constat propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 6</h1>
+						</td>
+						<td>
+							<h1>Propositio .6.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>All two triangles, among which an angle of the one equals an angle of the other and the sides containing those two equal angles are proportional, are
+							between themselves mutually equiangular.</h3>
+						</td>
+						<td>
+							<h3>Omnes duo trianguli quorum unus angulus unius uni angulo alterius aequalis. lateraque illos duos aequos angulos continentia proportionalita sunt inter
+							se invicem aequianguli.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;If the <span class="propositio">prior disposition</span> remains, and solely angle b were equal to angle d.e.f, and the proportion of a.b to d.e
+							were as b.c to e.f, I still say the two triangles a.b.c and d.e.f are to be equiangular. For when by the <span class="propositio">4th</span> of
+							<span class="liber">this</span>, following the hypotheses of the <span class="propositio">preceding</span> conclusion, a.b to e.g is as b.c to e.f, a.b to
+							d.e will be as a.b to e.g, wherefore by the second part of the <span class="propositio">ninth</span> of the <span class="liber">fifth</span>, d.e is equal
+							to e.g, therefore, because the two sides d.e and e.f of the triangle d.e.f are equal to the two sides e.g and e.f of the triangle g.e.f, and angle e of one
+							equals angle e of the other since each is equal to angle b, by the <span class="propositio">fourth</span> of the <span class="liber">first</span> they will
+							be equiangular, and because e.g.f is also equiangular to a.b.c the intention is clear.
+						</td>
+						<td>
+							¶&nbsp;Maneat <span class="propositio">prior dispositio</span>. et sit solum angulus .b. aequalis angulo .d.e.f. et proportio .a.b. ad .d.e. sicut .b.c. ad
+							.e.f. dico adhuc duos triangulos .a.b.c.d.e.f. esse aequiangulos: cum enim sit per <span class="propositio">.4.</span> <span class="liber">huius</span>
+							propter ypotheses <span class="propositio">praemissae</span> conclusionis .a.b. ad .e.g. sicut .b.c. ad .e.f. erit .a.b. ad .d.e. sicut .a.b. ad .e.g.
+							quare per secundam partem <span class="propositio">nonae</span> <span class="liber">quinti</span> .d.e. est aequalis .e.g. quia ergo duo latera .d.e. et
+							.e.f. trigoni .d.e.f. sunt aequalia duobus lateribus .e.g. et .e.f. trigoni .g.e.f. et angulus .e. unius angulo .e. alterius: quia uterque est aequalis
+							angulo .b. ipsi erunt per <span class="propositio">quartam</span> <span class="liber">primi</span> aequianguli et quia .e.g.f. est etiam aequiangulus
+							.a.b.c. patet propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 7</h1>
+						</td>
+						<td>
+							<h1>Propositio .7.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were two triangles of which one angle of the one were equal to one angle of the other, and two of their remaining angles were contained by
+							proportional sides, and lastly, both or neither of the remaining two are less than a right angle, it is necessary for those two triangles to be mutually
+							equiangular between themselves in all their angles.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint duo trianguli quorum unus angulus unius uni angulo alterius aequalis: duoque suorum reliquorum angulorum lateribus proportionalibus
+							contenti: duorum vero demum reliquorum uterque aut neuter recto angulo minor necesse est illos duos triangulos omnibus suis angulis inter se invicem
+							aequiangulos esse.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Let the two triangles be a.b.c and d.e.f, and suppose angle a equals angle d, and the proportion of a.c to d.f is as c.b to f.e, and both or neither
+							of the angles b and e are less than right, then I say they are to be equiangular.
+						</td>
+						<td>
+							¶&nbsp;Sint duo trianguli .a.b.c.d.e.f. sitque angulus .a. aequalis angulo .d. et proportio .a.c. ad .d.f. sicut .c.b. ad .f.e. et uterque duorum angulorum
+							.b. et .e. aut neuter sit minor recto: dico eos esse aequiangulos.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For if angle c of one is equal to angle f of the other, the intention is clear by the <span class="propositio">preceding</span>.
+						</td>
+						<td>
+							Si enim angulus .c. unius est aequalis angulo .f. alterius: patet propositum per <span class="propositio">praemissam</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							If, however, c is greater and angle a.c.g is made equal to the same, then by the <span class="propositio">32nd</span> of the
+							<span class="liber">first</span>, the triangle a.g.c will be equiangular to the triangle d.e.f, and so by the <span class="propositio">fourth</span> of
+							<span class="liber">this</span>, the proportion a.c to d.f is as g.c to e.f, but thus was b.c to e.f, therefore, by the <span class="propositio">9th</span>
+							of the <span class="liber">fifth</span> g.c and b.c are equal, then by the <span class="propositio">fifth</span> of the <span class="liber">first</span>,
+							angle b is equal to angle b.g.c, so if neither of the two angles b and e were less than right then two angles of one triangle will happen to be less than
+							two right angles, which cannot be by the <span class="propositio">32nd</span> of the <span class="liber">first</span>.
+						</td>
+						<td>
+							Sin autem sit .c. maior fiatque angulus .a.c.g. aequalis eidem: eritque per <span class="propositio">.32.</span> <span class="liber">primi</span> triangulus
+							.a.g.c. aequiangulus triangulo .d.e.f. quare per <span class="propositio">quartam</span> <span class="liber">huius</span> proportio .a.c. ad .d.f. sicut
+							.g.c. ad .e.f. sed sic fuit .b.c. ad .e.f. ergo per <span class="propositio">.9.</span> <span class="liber">quinti</span> .g.c. et .b.c. sunt aequales.
+							ergo per <span class="propositio">quintam</span> <span class="liber">primi</span> angulus .b. est aequalis angulo .b.g.c. si ergo neuter duorum angulorum
+							.b. et .e. fuerint minor recto: accidet duos angulos unius trianguli non esse minores duobus rectis: quod esse non potest per
+							<span class="propositio">.32.</span> <span class="liber">primi</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But if each were less than right, then angle a.g.c will be greater than right by the <span class="propositio">13th</span> of the
+							<span class="liber">first</span>, and then angle e, equal to it, is also greater than right, which is contrary the hypothesis, and so with the opposite
+							destroyed, the intention remains. But both or neither of the remaining angles are to be less than right, since it is possible in the same triangle, as in
+							triangle a.b.c, for the line g.c to be equal to b.c, and so a.c will be one proportion to each of them by the <span class="propositio">7th</span> of the
+							<span class="liber">fifth</span>. However the triangles a.g.c and a.b.c will not be equiangular even when one angle of one is equal to one angle of the
+							other, indeed the same as angle a, and the proportion of the line a.c as the greater side is to a.c as the lesser side, is just as b.c the greater side is
+							to g.c the lesser side, for both are equal, and this is for that angle g of the lesser is greater than right, and angle b of the greater is less.
+						</td>
+						<td>
+							Quod si uterque fuerit minor recto: erit angulus .a.g.c. maior recto per <span class="propositio">.13.</span> <span class="liber">primi</span>: quare et
+							angulus .e. sibi aequalis est etiam recto maior quod est contra ypothesim quare destructo opposito remanet propositum: oportet autem utrumque angulorum
+							reliquorum aut neutrum esse minorem recto. possibile enim est in eodem triangulo ut in triangulo .a.b.c. lineam .g.c. esse aequalem .b.c. et ideo erit
+							.a.c. ad utramque earum una proportio per <span class="propositio">.7.</span> <span class="liber">quinti</span>.
+							Nec tamen erunt trianguli .a.g.c. et .a.b.c. aequianguli quamvis unus angulus unius sit aequalis uni angulo alterius immo idem ut angulus .a. et proportio
+							lineae .a.c. prout est latus magni ad .a.c. prout est latus parvi sicut .b.c. latus magni. ad .g.c. latus parvi. utraque enim aequalis: et hoc est propter
+							hoc quod angulus .g. minoris est maior recto: et angulus .b. maioris minor.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For in every triangle of two equal sides, each of the angles that are at the base are less than right.
+						</td>
+						<td>
+							Nam in omni triangulo duum aequalium laterium uterque angulorum qui sunt ad basim est minor recto.
 						</td>
 					</tr>
 				</tbody>
