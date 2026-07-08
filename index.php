@@ -541,7 +541,7 @@
 					<tr>
 						<td>
 							¶&nbsp;It will be over the given right line a.b that I wish to construct an equilateral triangle on one extremity of it, namely, at point a. There I will
-							place the immobile foot of the compass and I will extend the other movable foot up 'til b, and I will draw out the circle c.b.d.f following the length of
+							place the immobile foot of the compass and I will extend the other mobile foot up 'til b, and I will draw out the circle c.b.d.f following the length of
 							that given line by the <span class="petitiones">second petition</span>. In turn, its other end, namely point b, I will make the center. And by the
 							<span class="petitiones">same petition</span> and according to same the extent, I will draw the circle c.a.d.h, wherewith the circles will intersect
 							themselves at two points, which are c and d, and one of the two sections, as section d, I will connect to both ends of the given line with the extended
@@ -3322,7 +3322,7 @@
 					</tr>
 					<tr>
 						<td>
-							<h3>In every right-angled triangle, the quadrate that is drawn from the side opposite the right angle is itself equal to the two quadrates which are drawn
+							<h3>In every rectangular triangle, the quadrate that is drawn from the side opposite the right angle is itself equal to the two quadrates which are drawn
 							out from the two remaining sides.</h3>
 						</td>
 						<td>
@@ -3667,7 +3667,7 @@
 							I will also extend from points d and e the lines d.h and e.k, equidistant to the sides a.f and b.g, and both of them will be equal to c by the
 							<span class="propositio">34th</span> of the <span class="liber">first</span>, and each of them is equal to a.f. And so by definition, the rectangle a.d.f.h
 							is produced from c according to a.d, and is said to be <span class="definitio">contained</span> by them, and the rectangle d.g and e.k from c according to
-							d.e and the rectangle e.k.b.g from c according to e.b, and that these rectangles are jointed together and are equal to the whole rectangle a.f.b.g, it is
+							d.e and the rectangle e.k.b.g from c according to e.b, and that these rectangles are jointed together and are equal to the total rectangle a.f.b.g, it is
 							evident the intent is true.
 						</td>
 						<td>
@@ -7028,7 +7028,7 @@
 					</tr>
 					<tr>
 						<td>
-							And because the right angle is a part of the first and the second is a part of the right, both are clearly evident, whence the whole conclusion to this
+							And because the right angle is a part of the first and the second is a part of the right, both are evidently clear, whence the whole conclusion to this
 							five-parter is manifest.
 						</td>
 						<td>
@@ -14394,6 +14394,102 @@
 						</td>
 						<td>
 							Nam in omni triangulo duum aequalium laterium uterque angulorum qui sunt ad basim est minor recto.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 8</h1>
+						</td>
+						<td>
+							<h1>Propositio .8.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If a line perpendicular to the base is drawn from the right angle of an orthogonal, two partial triangles will be made, similar to the total triangle
+							and to each other, whence it is also manifest that in every rectangular triangle, if a perpendicular is drawn from its right angle to the base, that
+							perpendicular is proportional between the two sections of the base itself and, likewise, each side between the total base and the portion of the base
+							conterminate to it.</h3>
+						</td>
+						<td>
+							<h3>Si ab orthogonii angulo recto ad basim linea perpendicularis ducatur. fient duo trianguli partiales toti triangulo et sibi invicem similes. Unde etiam
+							manifestum est quia in omni triangulo rectangulo si ab eius angulo recto ad basim perpendicularis ducatur. erit ipsa perpendicularis inter duas sectiones
+							ipsius basis proportionalis. Itemque utrumque latus inter totam basim atque sibi conterminalem basis portionem.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose a.b.c an orthogonal triangle of which angle a is right, from which the perpendicular a.d is drawn to the base. I say that both of the
+							partial triangles that are a.b.d and a.d.c are similar to the total triangle a.b.c, and one of them to the other, for each of them is equiangular to the
+							total by the <span class="propositio">32nd</span> of the <span class="liber">first</span> since each is orthogonal and communicate with the total at one
+							angle, and then they are mutually equiangular to each other for that angle b is equal to angle d.a.c, and angle b.a.d to angle c, and the two angles that
+							are at d are mutually equal to each other, and equal to the total of a, wherefore by the <span class="propositio">4th</span> of
+							<span class="liber">this</span>, the sides respecting those equal angles are proportional, and so by definition they are similar, which is the intention.
+							And from this both corollaries are evidently apparent.
+						</td>
+						<td>
+							¶&nbsp;Sit trigonus .a.b.c orthogonius eiusque angulus .a. rectus a quo ducatur .a.d. perpendicularis ad basim. dico quod uterque duorum triangulorum
+							partialium qui sunt .a.b.d.a.d.c. similis est totali triangulo .a.b.c. et unus eorum alteri. est enim uterque ipsorum aequiangulus totali per
+							<span class="propositio">.32.</span> <span class="liber">primi</span>. eo quod uterque est orthogonius et in uno angulo communicat cum totali: quare et
+							sibi invicem sunt aequianguli. ita quod angulus .b. est aequalis angulo .d.a.c. et angulus .b.a.d. angulo .c. et duo anguli qui sunt. ad .d. sibi invicem
+							et angulo .a. totali aequales: quare per <span class="propositio">.4.</span> <span class="liber">huius</span> latera aequos eorum angulos respicientia.
+							sunt proportionalita: ergo per diffinitionem sunt similes: quod est propositum: utrumque correllarium ex his evidenter apparet.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 9</h1>
+						</td>
+						<td>
+							<h1>Propositio .9.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Unto two lines proposed, to place a third between them within continuous proportionality.</h3>
+						</td>
+						<td>
+							<h3>Duabus lineis propositis tertiam inter eas sub proportionalitate continua collocare.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two proposed lines are a.b and c, between which I wish to place one line in continuous proportionality.
+						</td>
+						<td>
+							¶&nbsp;Sint duae lineae propositae .a.b. et .c. inter quas volo unam lineam in proportionalitate continua collocare.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							I will adjoin one to the other, and let the total composed from them be a.d so that b.d is equal to c, and over the total I describe the semicircle a.e.d
+							and produce e.b up until the circumference, perpendicular to the line a.d. I say the line b.e is what we enquire for, for I produce the lines e.a and e.d,
+							and by the <span class="propositio">30th</span> of the <span class="liber">third</span>, the total angle e will be right, wherefore by the first part of the
+							<span class="propositio">previous correlary</span>, the proportion of a.b to b.e is as b.e to b.d, which is the intention.
+						</td>
+						<td>
+							Adiungam unam earum alteri sitque tota ex eis composita .a.d. ita quod .b.d. sit aequale .c. et super totam describo semicirculum .a.e.d. et produco .e.b.
+							usque ad circumferentiam perpendicularem ad lineam .a.d. dico lineam .b.e. esse quae quaerimus: produco enim lineas .e.a. et .e.d. eritque per
+							<span class="propositio">.30.</span> <span class="liber">tertii</span> angulus .e. totalis rectus: quare per primam partem correlarium.
+							<span class="propositio">praemissae proportio</span> .a.b. ad .b.e. sicut .b.e. ad .b.d. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
