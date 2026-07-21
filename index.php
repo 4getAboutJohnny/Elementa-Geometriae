@@ -14493,6 +14493,105 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 10</h1>
+						</td>
+						<td>
+							<h1>Propositio .10.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Unto two given lines, to subjoin a third to them in continuous proportionality.</h3>
+						</td>
+						<td>
+							<h3>Duabus lineis datis tertiam eis in continua proportionalitate subiungere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two proposed lines are a.b and c, to which I want to subjoin a third in continuous proportionality. I conjoin line c so it comes into
+							contact with the line a.b angularly, and so a.d is equal to it, and produce the line a.b up to e until b.e becomes equal to a.d, and by the protracted line
+							b.d, I draw a line from point e equidistant to it, to which I also produce the line a.d, until they concur at point f. I say, then, the line d.f is what we
+							enquire for, for by the <span class="propositio">second</span> of <span class="liber">this</span>, the proportion of a.b to b.e is as a.d to d.f, but a.b
+							to b.e is as a.b to a.d by the 2nd part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, wherefore a.b to a.d is as a.d
+							to d.f, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sint duae lineae propositae .a.b. et .c. quibus volo tertiam in continua proportionalitate subiungere: coniungo lineam .c. angulariter ut contingit
+							cum linea .a.b. sitque .a.d. sibi aequalis. et produco lineam .a.b. usque ad .e. donec fiat .b.e. aequalis .a.d. et protracta linea .b.d. a puncto .e. duco
+							lineam sibi aequidistantem quam et lineam .a.d. produco quousque concurrant in puncto .f. dico igitur lineam .d.f. esse quae quaerimus. est enim per
+							<span class="propositio">secundam</span> <span class="liber">huius</span> proportio .a.b. ad .b.e. sicut .a.d. ad .d.f. sed .a.b. ad .b.e: est sicut .a.b.
+							ad .a.d. per .2. partem <span class="propositio">.7.</span> <span class="liber">quinti</span>: quare .a.b. ad .a.d. sicut .a.d. ad .d.f. quod est
+							propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But if unto three proposed lines we would like to find a fourth, to which the proportion of third is as first is to second, then make one line out from the
+							first and second, and the third is adjoined angularly to the total composite, and a line is drawn from the common terminus of the first and second to the
+							extremity of the third, and from the other terminus of the second, a line is drawn equidistant to this until it, extended in a continuous and right manner,
+							concurs with the third, and by the <span class="propositio">second</span> of <span class="liber">this</span>, the line that this equidistant will abscind
+							is what is sought, just as if in this figure a.b were first, b.e second, and a.d third, then d.f will be fourth.
+						</td>
+						<td>
+							Quod si propositis tribus lineis velimus invenire quartam. ad quam sit proportio tertiae sicut primae ad secundam: ex prima et secunda fiat linea una et
+							toti composite tertia: angulariter adiungatur et a communi termino primae et secundae: ducatur linea ad extremitatem tertiae: et ab altero termino secundae
+							ducatur huic lineae aequidistans: quousque concurrat cum tertia in continuum rectumque protracta: eritque per <span class="propositio">secundam</span>
+							<span class="liber">huius</span> linea quam haec aequidistans abscindet quae quaeritur: quemadmodum si in hac figura fuerit prima .a.b. secunda .b.e. tertia
+							.a.d. erit quarta .d.f.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 11</h1>
+						</td>
+						<td>
+							<h1>Propositio .11.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>From an assigned line, to abscind whatsoever part you are prescribed.</h3>
+						</td>
+						<td>
+							<h3>Ab assignata linea quotamcumque iubearis partem abscindere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the assigned line is a.b, from which I want to abscind some part as a third. I conjoin it angularly so it contacts the line of indefinite
+							quantity that is a.c, from which I resect three equal portions, which are a.d, d.e, and e.c, and I produce the lines c.b and d.f equidistant to each other.
+							I say a.f is to be the third of a.b, for by the <span class="propositio">second</span> of <span class="liber">this</span>, the proportion of c.d to d.a is
+							as b.f to f.a, wherefore conjunctively c.a to d.a is as b.a to f.a, therefore, when c.a is triple to d.a, clearly a.f is to be a third of a.b, which is the
+							intention.
+						</td>
+						<td>
+							¶&nbsp;Sit .a.b. linea assignata ab ea volo aliquotam partem utpote tertiam abscindere: coniungo ei angulariter ut contingit lineam indefinitae quantitatis
+							quae sit .a.c. a qua resecto tres aequas portiones. quae sint .a.d.d.e. et .e.c. et produco lineas .c.b. et .d.f. sibi aequidistantes. dico .a.f. esse
+							tertiam .a.b. est enim per <span class="propositio">secundam</span> <span class="liber">huius</span> proportio .c.d. ad .d.a. sicut .b.f. ad .f.a. quare
+							coniunctim .c.a. ad .d.a. sicut .b.a. ad .f.a. cum igitur .c.a. sit tripla. ad .d.a. patet .a.f. esse tertiam .a.b. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
