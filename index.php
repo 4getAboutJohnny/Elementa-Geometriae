@@ -2334,7 +2334,7 @@
 					</tr>
 					<tr>
 						<td>
-							Thus suppose the given point is a, outside the line b.c whence it behooves to extend a line equidistant to b.c. I draw out the line a.d howsoever it may
+							Thus suppose the given point is a, outside the line b.c whence it behoves to extend a line equidistant to b.c. I draw out the line a.d howsoever it may
 							contact, and at point a, which is an extremity of the line a.d, I constitute the angle e.a.d, by means of the <span class="propositio">23rd</span>
 							doctrine, equal to the angle b.d.a, coalternate itself, and e.a will be equidistant to b.c by the <span class="propositio">27th</span>, which is the
 							intent.
@@ -14589,6 +14589,62 @@
 							quae sit .a.c. a qua resecto tres aequas portiones. quae sint .a.d.d.e. et .e.c. et produco lineas .c.b. et .d.f. sibi aequidistantes. dico .a.f. esse
 							tertiam .a.b. est enim per <span class="propositio">secundam</span> <span class="liber">huius</span> proportio .c.d. ad .d.a. sicut .b.f. ad .f.a. quare
 							coniunctim .c.a. ad .d.a. sicut .b.a. ad .f.a. cum igitur .c.a. sit tripla. ad .d.a. patet .a.f. esse tertiam .a.b. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 12</h1>
+						</td>
+						<td>
+							<h1>Propositio .12.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>Unto two proposed lines, one undivided and the other divided by parts, to divide the undivided according to the mode of the divided.</h3>
+						</td>
+						<td>
+							<h3>Duabus lineis propositis altera indivisa altera per partes divisa: indivisam quidem ad modum divisae dividere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose I conjoin angularly, however it may happen, two lines that are a.b and a.c, and a.b is divided in three (or however many portions) by points
+							d and e marked on it. I want to divide the line a.c according to the same portions, therefore, when I will have conjoined them angularly, I shall protract
+							the line b.c, and d.f and e.g equidistant to it. I say those equidistant lines are to divide the line a.c in parts proportional to the parts of a.b, for I
+							shall protract f.h equidistant to a.b, which cuts e.g at point k, and by the <span class="propositio">second</span> of <span class="liber">this</span>, the
+							proportion of g.f to f.a is as e.d to d.a, and c.g to g.f is as h.k to k.f, wherefore it is also as b.e to e.d by the <span class="propositio">34th</span>
+							of the <span class="liber">first</span> and by the second part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, which is
+							the intention.
+						</td>
+						<td>
+							¶&nbsp;Sint duae lineae quas angulariter ut continget coniungam .a.b. et .a.c. sitque .a.b. divisa in tres vel qualescumque portiones signatis in ea
+							punctis .d. et .e. volo secundum easdem portiones dividere lineam .a.c. cum igitur ipsas angulariter coniunxero. protraham lineam .b.c. et aequidistantes.
+							ei .d.f. et .e.g. dico istas aequidistantes dividere lineam .a.c. in partes proportionales partibus .a.b. protraham enim .f.h. aequidistantem .a.b. quae
+							secet .e.g. in puncto .k. eritque per <span class="propositio">secundam</span> <span class="liber">huius</span> proportio .g.f. ad .f.a. sicut .e.d. ad
+							.d.a. et .c.g. ad .g.f. sicut .h.k. ad .k.f. quare et sicut .b.e. ad .e.d. per <span class="propositio">.34.</span> <span class="liber">primi</span>. et
+							secundam partem <span class="propositio">.7.</span> <span class="liber">quinti</span> quod est propositum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							However, it behoves to repeat the <span class="propositio">second</span> of <span class="liber">this</span> as many times as there are parts of the line
+							a.b, minus one. But for the <span class="propositio">34th</span> of the <span class="liber">first</span> and the <span class="propositio">seventh</span> of
+							the <span class="liber">fifth</span>, minus two.
+						</td>
+						<td>
+							Oportet autem <span class="propositio">secundam</span> <span class="liber">huius</span> totiens repetere quot erunt partes lineae .a.b. minus una. At vero
+							<span class="propositio">.34.</span> <span class="liber">primi</span>. et <span class="propositio">septimi</span> <span class="liber">quinti</span> minus
+							duabus.
 						</td>
 					</tr>
 				</tbody>
