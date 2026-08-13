@@ -14648,6 +14648,133 @@
 						</td>
 					</tr>
 				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 13</h1>
+						</td>
+						<td>
+							<h1>Propositio .13.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two superficies of equidistant sides, of which the one angle of one equals the one angle of the other, were equal, the sides containing the two
+							equal angles are to be mutekesia. And if the sides containing two equal angles were mutekesia, it is necessary for the two superficies to be equal.</h3>
+						</td>
+						<td>
+							<h3>Si duae superficies aequidistantium laterum quarum unus angulus unius uni angulo alterius aequalis aequales fuerint latera duos aequos angulos
+							continentia mutekesia esse. Si vero latera duos aequos angulos continentia mutekesia fuerint duas superficies aequales esse necesse est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two superficies a.b.c.d and c.e.f.g are of equidistant sides and are equal, and let the angle c of one equal the angle c of the other. I
+							say the proportion of b.c to c.g is to be as e.c to c.d, and if the proportion of b.c to c.g were as e.c to c.d and the aforesaid angles were yet equal, I
+							say those two superficies of equidistant sides are to be equal. For I conjoin them angularly, that is, the angle c of the one with the angle c of the other,
+							so that the two sides of them, which are b.c and c.g, form one line, and similarly the two remaining sides, d.c and c.e, will be one line, otherwise it
+							would follow by the present hypothesis, which is angle c of one is to equal angle c of other, and by the <span class="propositio">15h</span> of
+							the <span class="liber">first</span>, for the part to be equal to the total, and so I will complete the superficies of equidistant sides by producing lines a.d
+							and f.g until they concur at h, and by the first part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, the proportion of
+							each superficies, a.c and c.f, to the superficies c.h, is one, and that by the <span class="propositio">first</span> of <span class="liber">this</span> the
+							proportion of the superficies a.c to the superficies c.h is as the line b.c to the line c.g, and the superficies c.f to the same superficies c.h is as e.c to
+							c.d, the first part of the proposed conclusion is manifest.
+						</td>
+						<td>
+							¶&nbsp;Sint duae superficies .a.b.c.d. et .c.e.f.g. aequidistantium laterum et aequales. sitque angulus .c. unius aequalis angulo .c. alterius. dico
+							proportionem .b.c. ad .c.g. esse sicut .e.c. ad .c.d. et si proportio .b.c. ad .c.g. fuerit sicut .e.c. ad .c.d. et praedicti anguli fuerint adhuc
+							aequales: dico illas duas superficies aequidistantium laterum esse aequales. coniungam enim eas angulariter videlicet angulum .c. unius cum angulo .c.
+							alterius ita quod duo latera earum quae sunt .b.c. et .c.g. fiant linea una: eruntque similiter duo reliqua latera .d.c. et .c.e. linea una. alioquin
+							sequeretur per presentem ypothesim. quae est angulum .c. unius: esse aequalem angulo .c. alterius. et per <span class="propositio">.15.</span>
+							<span class="liber">primi</span>: partem esse aequalem toti. conplebo itaque superficiem aequidistantium laterum productis lineis .a.d. et .f.g. quousque
+							concurrant in .h. eritque per primam partem <span class="propositio">.7.</span> <span class="liber">quinti</span> utriusque superficiei .a.c. et .c.f. ad
+							superficiem .c.h. proportio una: et quia per <span class="propositio">primam</span> <span class="liber">huius</span> proportio superficiei .a.c. ad
+							superficiem .c.h. sicut lineae .b.c. ad lineam .c.g. et superficiei .c.f. ad eandem superficiem .c.h. sicut .e.c. ad .c.d. manifesta est prima pars propositae
+							conclusionis.
+					</tr>
+					<tr>
+						<td>
+							And the second part is clear in this way, for by the <span class="propositio">first</span> of <span class="liber">this</span>, the proportion b.c is to c.g
+							is as a.c to c.h, and e.c to c.d is as c.f to the same c.h, and since it is posited that the proportion of b.c is to c.g as e.c is to c.d, each of the two
+							superficies a.c and e.g will be one proportion to the superficies c.h, therefore, by the first part of the <span class="propositio">9th</span> of the
+							<span class="liber">fifth</span>, a.c is equal to c.f, and thus is the second part evident.
+						</td>
+						<td>
+							Secunda pars sic patet. per <span class="propositio">primam</span> enim <span class="liber">huius</span> est proportio .b.c. ad .c.g. sicut .a.c. ad .c.h.
+							et .e.c. ad .c.d. sicut .c.f. ad eandem .c.h. et quia positum est quod proportio .b.c. est ad .c.g. sicut .e.c. ad .c.d. erit utriusque duarum superficierum
+							.a.c. et .e.g. ad superficiem .c.h. una proportio. ergo per primam partem <span class="propositio">.9.</span> <span class="liber">quinti</span> .a.c. est
+							aequalis .c.f. sicque patet secunda pars.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 14</h1>
+						</td>
+						<td>
+							<h1>Propositio .14.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If two triangles, of which the one angle of one equals the one angle of the other, were equal, the sides containing the two equal angles will be
+							mutekesia. And if the sides containing two equal angles were mutekesia, the two triangles are understood to be equal.</h3>
+						</td>
+						<td>
+							<h3>Si duo trianguli quorum unus angulus unius uni angulo alterius aequalis aequales fuerint: latera duos angulos aequos continentia erunt mutekesia. Si
+							vero latera duos aequos angulos continentia fuerint mutekesia duo trianguli aequales esse comprobantur.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two triangles, a.b.c and c.d.e, are equal, and let the angle c of one equal the angle c of the other. I say the proportion of a.c to c.e
+							is to be as d.c to c.b, and if the proportion of a.c to c.e were as d.c to c.b and the aforesaid angles were yet equal, I say those two triangles are to be
+							equal. For I will conjoin them angularly so that the sides a.c and c.e form one line, and similarly, b.c and c.d will be one line, otherwise it would
+							follow for the part to be equal to the total by the <span class="propositio">15th</span> of the <span class="liber">first</span>, and I will protract the
+							line b.e, and by the first part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, both of the stated triangles will be one
+							proportion to the triangle c.b.e, and that by the <span class="propositio">first</span> of <span class="liber">this</span> the first of them to that is as
+							a.c to c.e, and the second of them to the same is as d.c to c.b, the first part of the proposed conclusion is manifest.
+						</td>
+						<td>
+							¶&nbsp;Sint duo trianguli .a.b.c.c.d.e. aequales: sitque angulus .c. unius aequalis angulo .c. alterius: dico proportionem .a.c. ad .c.e. esse sicut .d.c.
+							ad .c.b. et si fuerit proporito .a.c. ad .c.e. sicut .d.c. ad .c.b. et praedicti anguli fuerint adhuc aequales: dico illos duos triangulos esse aequales:
+							coniungam enim eos angulariter ita quod latera .a.c. et .c.e. fiant linea una. erunt similiter .b.c. et .c.d. linea una. aliter sequeretur partem esse
+							aequalem toti. per <span class="propositio">.15.</span> <span class="liber">primi</span>: et protraham lineam .b.e. eritque per primam partem
+							<span class="propositio">.7.</span> <span class="liber">quinti</span> utriusque dictorum triangulorum ad triangulum .c.b.e. proportio una: et quia per
+							<span class="propositio">primam</span> <span class="liber">huius</span> primi eorum ad ipsum est sicut .a.c. ad .c.e. et secundi eorum ad eumdem sicut
+							.d.c. ad .c.b. manifesta est prima pars propositae conclusionis.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second part is proved conversly, since a.c to c.e is as the first triangle to the triangle b.c.e, and d.c to c.b is as the second to the same by
+							the <span class="propositio">first</span> of <span class="liber">this</span>, and since it is posited that a.c is to c.e as d.c to c.b, both of the stated
+							triangles will be one proportion to the triangle b.c.e, wherefore by the first part of the <span class="propositio">9th</span> of the
+							<span class="liber">fifth</span>, they are equal, and thus is the second part evident.
+						</td>
+						<td>
+							¶&nbsp;Secunda pars econverso probatur. quia .a.c. ad .c.e. est sicut primi trianguli ad triangulum .b.c.e. et .d.c. ad .c.b. sicut secundi ad eundem per
+							<span class="propositio">primam</span> <span class="liber">huius</span>: et quia positum est ut sit .a.c. ad .c.e. sicut .d.c. ad .c.b. erit utriusque
+							dictorum triangulorum ad triangulum .b.c.e. una proportio: quare per primam partem <span class="propositio">.9.</span> <span class="liber">quinti</span>
+							ipsi sunt aequales. sicque patet secunda pars.
+						</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 		<!--suppress JSObjectNullOrUndefined -->
