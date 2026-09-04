@@ -10214,8 +10214,8 @@
 					</tr>
 					<tr>
 						<td>
-							<h3 class="definitio">If there were three continuous proportional quantities, the proportion of the first to the third will be called <span>duplicate</span>
-							the proportion of the first to the second.</h3>
+							<h3 class="definitio">If there were three continuous proportional quantities, the proportion of the first to the third will be called <span>double</span> the
+							proportion of the first to the second.</h3>
 						</td>
 						<td>
 							<h3 class="definitio">Si fuerint tres quantitates continuae proportionales dicetur proportio primae ad tertiam. proportio primae ad secundam
@@ -10227,8 +10227,8 @@
 					<tr>
 						<td class="additio">
 							¶&nbsp;He defines proportion that is between the extreme terms of continuous proportionalities constituted by three terms, and says that if the proportion
-							of first to second were as second to third, then the proportion of first to third will be as duplicate the first to second, that is, composed from two such
-							or, which is the same, the proportion of first to third will be as duplicate the first to second, that is, multiplied by itself. For example, in numbers:
+							of first to second were as second to third, then the proportion of first to third will be double the first to second, that is, composed from two such or,
+							which is the same, the proportion of first to third will be double the first to second, that is, multiplied by itself. For an example, in numbers:
 						</td>
 						<td class="additio">
 							¶&nbsp;Diffinit proportionem quae est inter extremos terminos continuae proportionalitatis in tribus terminis constitutae. et dicit quod si fuerit proportio
@@ -10238,10 +10238,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							Suppose 3 numbers are continuous proportionals and let them be continuous duplicates, as 2, 4, and 8, and the proportion of first to third will be as the
-							proportion of first to second, multiplied by itself, and the proportion of first to second is duplicate. But a duple multiplied by itself produces quadruple,
-							namely, a duple of a duple, or according to the prior exposition, the proportion of extremes is as duplicate the proportion of first to second, because
-							quadruple is from two duple.
+							Suppose 3 numbers are continuous proportionals and let them be continuous duples, as 2, 4, and 8, and the proportion of first to third will be as the
+							proportion of first to second, multiplied by itself, and the proportion of first to second is duple. But a duple multiplied by itself produces quadruple,
+							namely, a duple of a duple, or according to the prior exposition, the proportion of extremes is double the proportion of first to second, because quadruple
+							is from two duple.
 						</td>
 						<td class="additio">
 							Sint .3. numeri continuae proportionales: sintque continuae dupli: ut .2.4.8. proportio primi ad tertium erit sicut proportio primi ad secundum in se
@@ -10389,11 +10389,10 @@
 					</tr>
 					<tr>
 						<td class="additio">
-							For if in three terms the proportion of the extremes is duplicate from the proportion of the first, and in four terms is triplicate from the same, then in 5
-							terms it is quadruple from the same, and in six, quintuple from the same. And so just as in three terms of continuous proportionality the proportion of the
-							extremes contains twice the proportion of the first, and thrice in 4 terms, so in 5 terms it will contain frice, and five in six, and so on, that the
-							proportion of the extremes in terms of continuous proportionality shall always contain the proportion of the first as many times as there are all the terms,
-							minus one.
+							For if in three terms the proportion of the extremes is double the proportion of the first, and in four terms is triple the same, then in 5 terms it is
+							quadruple the same, and in six, quintuple the same. And so just as in three terms of continuous proportionality the proportion of the extremes contains
+							twice the proportion of the first, and thrice in 4 terms, so in 5 terms it will contain frice, and five in six, and so on, that the proportion of the
+							extremes in terms of continuous proportionality shall always contain the proportion of the first as many times as there are all the terms, minus one.
 						</td>
 						<td class="additio">
 							Si enim in tribus terminis proportio extremorum constat ex proportione primorum duplicata: et in quatuor terminis constat ex eadem triplicata: in .5.
@@ -14681,9 +14680,9 @@
 							say those two superficies of equidistant sides are to be equal. For I conjoin them angularly, that is, the angle c of the one with the angle c of the other,
 							so that the two sides of them, which are b.c and c.g, form one line, and similarly the two remaining sides, d.c and c.e, will be one line, otherwise it
 							would follow by the present hypothesis, which is angle c of one is to equal angle c of other, and by the <span class="propositio">15h</span> of
-							the <span class="liber">first</span>, for the part to be equal to the total, and so I will complete the superficies of equidistant sides by producing lines a.d
-							and f.g until they concur at h, and by the first part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, the proportion of
-							each superficies, a.c and c.f, to the superficies c.h, is one, and that by the <span class="propositio">first</span> of <span class="liber">this</span> the
+							the <span class="liber">first</span>, for the part to be equal to the total, and so I will complete the superficies of equidistant sides by producing lines
+							a.d and f.g until they concur at h, and by the first part of the <span class="propositio">7th</span> of the <span class="liber">fifth</span>, the proportion
+							of each superficies, a.c and c.f, to the superficies c.h, is one, and that by the <span class="propositio">first</span> of <span class="liber">this</span> the
 							proportion of the superficies a.c to the superficies c.h is as the line b.c to the line c.g, and the superficies c.f to the same superficies c.h is as e.c to
 							c.d, the first part of the proposed conclusion is manifest.
 						</td>
@@ -14772,6 +14771,230 @@
 							<span class="propositio">primam</span> <span class="liber">huius</span>: et quia positum est ut sit .a.c. ad .c.e. sicut .d.c. ad .c.b. erit utriusque
 							dictorum triangulorum ad triangulum .b.c.e. una proportio: quare per primam partem <span class="propositio">.9.</span> <span class="liber">quinti</span>
 							ipsi sunt aequales. sicque patet secunda pars.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 15</h1>
+						</td>
+						<td>
+							<h1>Propositio .15.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were four proportional lines, the rectangle that is contained by the first and last will be equal to that [contained] by the remaining two. And
+							if the rectangle contained by the first and last were equal to that contained by the remaining two, then the four lines will convene to be proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quatuor lineae proportionales quod sub prima et ultima rectangulum continetur: aequum erit ei quod sub duabus reliquis. Si vero quod sub
+							prima et ultima continetur aequum fuerit ei quod sub duabus reliquis continetur rectangulum: quatuor lineas proportionales esse convenit.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the four lines a, b, c, and d are proportional.
+						</td>
+						<td>
+							¶&nbsp;Sint quatuor lineae .a.b.c.d. proportionales:
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And suppose the proportion of a to b is as c to d. I say that the superficies contained by a and d is equal to the superficies contained by b and c, and if
+							the superficies contained by a and d is equal to the superficies contained by b and c, I say that the proportion of a to b is as c to d.
+						</td>
+						<td>
+							Sitque proportio .a. ad .b. sicut .c. ad .d. dico quod superficies contenta sub .a. et .d. aequalis est superficiei contentae sub .b. et .c. et si superficies
+							contenta sub .a. et .d. est aequalis superficiei contentae sub .b. et .c. dico quod proportio .a. ad .b. est sicut .c. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For the superficies contained by a and d, and the superficies contained by b and c, are made.
+						</td>
+						<td>
+							Fiant enim superficies contenta sub .a. et .d. et superficies contenta sub .b. et .c.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							If, therefore, the proportion of a to b is as c is to d, the sides of those superficies will be mutekesia. But the angles contained by them are also equal,
+							since each is of right angles, wherefore by the second part of the <span class="propositio">13th</span> of <span class="liber">this</span>, they are equal,
+							which is the first.
+						</td>
+						<td>
+							Si ergo est proportio .a. ad .b. sicut .c. ad .d. latera illarum superficierum erunt mutekesia. sed et anguli ab eis contenti aequales: quia utraque est
+							rectorum angulorum: quare per secundam partem <span class="propositio">.13.</span> <span class="liber">huius</span> ipsi sunt aequales quod est primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second is evident by the first part of the <span class="propositio">same</span>, for if they are equal, because all the angles of them are right,
+							then the sides of them will be mutekesia, wherefore the proportion of a to b is as c to d, which is the second.
+						</td>
+						<td>
+							¶&nbsp;Secundam patet per primam partem <span class="propositio">eisudem</span>. si enim ipsae sunt aequales. quia omnes anguli earum sunt recti: latera
+							earum erunt mutekesia: quare proporito .a. ad .b. sicut .c. ad .d. quod est secundum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 16</h1>
+						</td>
+						<td>
+							<h1>Propositio .16.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were three proportional lines, the rectangle that is contained by the first and third will be equal to the quadrate that is described from the
+							second. And if that contained by the first and third is equal to the quadrate that is produced from the second, then those three lines will be proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint tres lineae proportionales quod sub prima et tertia rectangulum continetur: aequum erit ei quod a secunda quadrato describitur. Si vero quod
+							sub prima et tertia continetur aequum est ei quadrato quod a secunda producitur: ipsae tres lineae proportionales erunt.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the proportion of line a to line b is as line b to line c. I say that the superficies contained by a and c is equal to the quadrate b, and if
+							the superficies contained by a and c is equal to the quadrate b, I say that the proportion of a to b is as b to c. And this is evident through the
+							<span class="propositio">preceding</span>, by positing another line, which is equal to b, so that b is in the ratio of the second and third.
+						</td>
+						<td>
+							¶&nbsp;Sit proporito lineae .a. ad lineam .b. sicut lineae .b ad lineam .c. dico quod superficies contenta sub .a. et .c. aequalis est quadrato .b. et si
+							superficies contenta sub .a. et .c. est aequais quadrato .b. dico quod proportio .a. ad .b. est sicut .b. ad .c. hoc autem est evidens per
+							<span class="propositio">praecedentem</span> posita alia linea quae sit aequalis .b. ita quod .b. sit in ratione secundae et tertiae.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 17</h1>
+						</td>
+						<td>
+							<h1>Propositio .17.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were two similar triangles, the proportion of one to the other is double the proportion of any of its sides to the related side of the other.
+							And from this it is manifest that of all continuous proportionals of three lines, howsoevermuch first is to third, so shall be the superficies constituted
+							over the first to the superficies constituted over the second, while it will be similar to it in lineament and in creation.
+						</td>
+						<td>
+							<h3>Si fuerint duo trianguli similes, proportio alterius ad alterum est tanquam proportio cuiuslibet sui lateris ad suum relatiuum latus alterius
+							duplicata. Manifestum etiam ex hoc quia omnium trium linearum continuae proportionalium quanta est prima ad tertiam tanta erit superficies constituta super
+							primam ad superficiem constitutam super secundam. cum fuerit ei similis in lineatione et creatione.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the two triangles a.b.c and d.e.f are similar, and so by definition are equiangular and are of proportional sides.
+						</td>
+						<td>
+							¶&nbsp;Sint duo trianguli .a.b.c. et .d.e.f. similes eruntque per diffinitionem aequianguli et laterum proportionalium.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Therefore, let angle a equal angle d, and angle b angle e, and angle c angle f, and suppose the proportion of a.b to d.e, and of a.c to d.f, will be as b.c
+							to e.f. I say that the proportion of the triangle a.b.c to the triangle d.e.f is double the proportion of b.c to e.f.
+						</td>
+						<td>
+							Sit ergo angulus .a. aequalis angulo .d. et angulus .b. angulo .e. et angulus .c. angulo .f. eritque proportio .a.b. ad .d.e. et .a.c. ad .d.f. sicut .b.c.
+							ad .e.f. dico quod proportio trianguli .a.b.c. ad trinagulum .d.e.f. est sicut proportio .b.c. ad .e.f. duplicata.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For, according to the <span class="propositio">10th</span> doctrine of <span class="liber">this</span>, to the two lines b.c and e.f a third is subjoined
+							in continuous proportionality, which is c.g, and c.b is either protracted or resected supposing c.g were greater or lesser than it, and the line g.a is
+							produced, and by the second part of the <span class="propositio">14th</span> of <span class="propositio">this</span>, the triangle a.g.c equals the
+							triangle d.e.f for that the proportion of a.c to d.f is as e.f to c.g, and angle c equals angle f, wherefore by the second part of the
+							<span class="propositio">7th</span> of the <span class="liber">fifth</span>, triangle a.b.c will be one proportion to both of them. But by the
+							<span class="propositio">first</span> of <span class="liber">this</span>, the proportion of triangle a.b.c to triangle a.g.c is as b.c to g.c, and moreover,
+							the proportion of b.c to c.g is double b.c to e.f by the <span class="definitio">10th</span> description of the <span class="liber">fifth</span>, therefore,
+							the proportion of triangle a.b.c to triangle d.e.f is double the proportion of b.c to d.f, which is the intention. If, however, c.g is equal to b.c, by the
+							second part of the <span class="propositio">14th</span> of <span class="liber">this</span>, triangle a.b.c will equal triangle d.e.f, and an equal
+							proportion is composed from an equal duplicated, or triplicated, or taken howsoevermuch.
+						</td>
+						<td>
+							Subiungatur enim secundum doctrinam <span class="propositio">.10.</span> <span class="liber">huius</span> duabus lineis .b.c. et .e.f. tertia in continua
+							proportionalitate quae sit .c.g. protracta aut resecta .c.b. si .c.g. fuerit ea maior aut minor et producatur linea .g.a. eritque per secundam partem
+							<span class="propositio">.14.</span> <span class="liber">huius</span> triangulus .a.g.c. aequalis triangulo .d.e.f. propter id quod propprtio .a.c. ad
+							.d.f. est sicut .e.f. ad .c.g. et angulus .c. aequalis angulo .f. quare per secundam partem <span class="propositio">.7.</span>
+							<span class="liber">quinti</span> trianguli .a.b.c. ad utrunque illorum erit una proportio: sed per <span class="propositio">primam</span>
+							<span class="liber">huius</span> proportio trianguli .a.b.c. ad triangulum .a.g.c. est sicut .b.c. ad .g.c. At vero proportio .b.c. ad .c.g. sicut .b.c. ad
+							.e.f. duplicata per <span class="definitio">.10.</span> descriptionem <span class="liber">quinti</span>: ergo proportio trianguli .a.b.c. ad triangulum
+							.d.e.f. est sicut proportio .b.c. ad .d.f. duplicata quod est propositum. Si autem .c.g. sit aequalis .b.c. erit per secundam partem
+							<span class="propositio">.14.</span> <span class="liber">huius</span> triangulus .a.b.c. aequalis triangulo .d.e.f. aequalis autem proportio componitur ex
+							aequali duplicata vel triplicata vel quotienscumque sumpta.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							We would be able to demonstrate this same phenomenon in the same way and by the same means from similar superficies of equidistant sides merely by assuming
+							the <span class="propositio">13th</span> of the <span class="liber">present</span> in place for the <span class="propositio">14th</span>.
+						</td>
+						<td>
+							Istam eandem passionem possemus eodem modo et per eadem media demonstrare de superficiebus aequidistantium laterum similibus sumpta solum
+							<span class="propositio">.13.</span> <span class="liber">praesentis</span> loco <span class="propositio">.14.</span>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							But he does not demonstrate it, for it is demonstrated universally for all superficies by the following.
+						</td>
+						<td>
+							Non demonstrat autem eam. quia per sequentem demonstratur universaliter de omnibus superficiebus similibus.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Wherefore by corollary, what is universally proposed for all similar superficies is not yet evident excepting of triangles, but with the following
+							demonstrated it will be evident for all of them.
+						</td>
+						<td>
+							Quare per correlarium. quod universaliter proponitur de omnibus superficiebus similibus nondum patet nisi de triangulis. sed demonstrata sequente patens
+							erit de omnibus.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Though he put this here and not subsequently, for it is a corollary of this and not of the subsequent for its veracity is manifest from the mode of this
+							demonstration, not from the mode of the other.
+						</td>
+						<td>
+							Posuit autem ipsum hic et non insequente quia est correlarium. huius. non autem sequentis: ex modo enim demonstrationis huius sua veritas manifesta est.
+							non ex modo illius.
 						</td>
 					</tr>
 				</tbody>
