@@ -6439,8 +6439,8 @@
 						<td>
 							¶&nbsp;And note that while it's proposed to be not possible for similar, inequal portions to be made on one line from the same side, it is yet true that
 							neither may it be proved from the opposite side; the smaller, which is from one side, superimposed over the larger, which is from the other. For through
-							<span class="conceptiones">common knowledge</span> it will be necessary that the smaller is to be exceeded by the larger, and so they are not similar by this, the
-							<span class="propositio">22nd</span>.
+							<span class="conceptiones">common knowledge</span> it will be necessary that the smaller is to be exceeded by the larger, and so they are not similar by
+							this, the <span class="propositio">22nd</span>.
 						</td>
 						<td>
 							¶&nbsp;Et nota quod licet proponatur super lineam unam non posse fieri portiones similes inaequales ex eadem parte. verum est tamen quod nec ex diversis
@@ -14905,7 +14905,7 @@
 						<td>
 							<h3>If there were two similar triangles, the proportion of one to the other is double the proportion of any of its sides to the related side of the other.
 							And from this it is manifest that of all continuous proportionals of three lines, howsoevermuch first is to third, so shall be the superficies constituted
-							over the first to the superficies constituted over the second, while it will be similar to it in lineament and in creation.
+							over the first to the superficies constituted over the second, while it will be similar to it in lineament and in creation.</h3>
 						</td>
 						<td>
 							<h3>Si fuerint duo trianguli similes, proportio alterius ad alterum est tanquam proportio cuiuslibet sui lateris ad suum relatiuum latus alterius
@@ -14995,6 +14995,339 @@
 						<td>
 							Posuit autem ipsum hic et non insequente quia est correlarium. huius. non autem sequentis: ex modo enim demonstrationis huius sua veritas manifesta est.
 							non ex modo illius.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 18</h1>
+						</td>
+						<td>
+							<h1>Propositio .18.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>All two similar multiangular superficies are divisible into triangles both similar and equal in number. And the proportion of one of them to the other
+							is the duplicate proportion of any side of the one to its relative side of the other.</h3>
+						</td>
+						<td>
+							<h3>Omnes duae superficies similes multiangulae sunt divisibiles in triangulos similes atque numero aequales. Estque proportio alterius earum ad alteram
+							sicut cuiuslibet sui lateris ad suum relatiuum latus alterius proportio duplicata.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose, for example, the two pentagons a.c.d and f.h.k are similar. I say that they are divisible into similar triangles equal in number, and that
+							the proportion of one to the other is the duplicate proportion of a.b to f.g, for the two lines a.c and a.d are drawn, and likewise, f.h and f.k, and by
+							the <span class="propositio">preceding</span> hypothesis and by the <span class="propositio">6th</span> of <span class="liber">this</span>, triangle a.b.c
+							is equiangular to triangle f.g.h, and triangle a.e.d to triangle f.l.k.
+						</td>
+						<td>
+							¶&nbsp;Sint gratia exempli duo penthagoni .a.c.d.f.h.k. similes. dico quod ipsi sunt divisibiles in triangulos similes numero aequales. et quod proportio
+							alterius eorum ad alterum est sicut .a.b. ad .f.g. proportio duplicata. ducantur enim lineae duae .a.c. et .a.d. itemque .f.h. et .f.k. eritque per
+							<span class="propositio">praesentem</span> ypothesim: et per <span class="propositio">.6.</span> <span class="liber">huius</span> triangulus .a.b.c.
+							aequiangulus triangulo .f.g.h. et triangulus .a.e.d. triangulo .f.l.k.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly through this <span class="conceptiones">common knowledge</span>:
+						</td>
+						<td>
+							Similiter quoque per hanc <span class="conceptiones">communem scientiam</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							If from equals you were to demonstrate that that which remains is equal, the triangle a.c.d will be equiangular to triangle f.h.k.
+						</td>
+						<td>
+							Si ab aequalibus aequalia demas quae relinquuntur aequa sunt: erit triangulus a.c.d. aequiangulus triangulo f.h.k.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Since those pentagons are posited equiangular and of proportional sides, and because the triangles into which they are divided are mutually equiangular, as
+							is proved, and will also be similar by the <span class="propositio">4th</span> of <span class="liber">this</span> and by the definition of similar
+							superficies, then while they are equal in number the first is evident.
+						</td>
+						<td>
+							Nam ipsi penthagoni positi sunt aequianguli. et laterum proporitonalium: et quia trianguli in quos dividuntur sunt adinvicem aequianguli: ut probatum est.
+							erunt etiam et similes per <span class="propositio">.4.</span> <span class="liber">huius</span> et diffinitionem similium superficiem: quare cum ipsi sint
+							numero aequales patet primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second is as follows: b.d is drawn out, which cuts a.c at point m, and g.k, which cuts f.h at point n, and the triangle b.c.d will be
+							equiangular to the triangle g.h.k by the <span class="propositio">6th</span> of <span class="liber">this</span> and by the present hypothesis, and so the
+							triangle a.b.m to the triangle f.g.n, and a.m.d to f.n.k, therefore, by the <span class="propositio">4th</span> of <span class="liber">this</span>, the
+							proportion of b.m to g.n is as a.m to f.n, and a.m to f.n is as m.d to n.k, and by the <span class="propositio">11th</span> of the
+							<span class="liber">fifth</span>, b.m to g.n is as m.d to n.k, thus permutatively b.m to m.d is as g.n to n.k. But by the
+							<span class="propositio">first</span> of <span class="liber">this</span>, a.b.m to a.m.d and b.c.m to c.m.d is as b.m to m.d, and by the
+							<span class="propositio">same</span>, f.g.n to f.n.k and g.n.h to h.n.k is as g.n to n.k, therefore, by the <span class="propositio">13th</span> of the
+							<span class="liber">fifth</span>, a.b.c to a.c.d is as f.g.h to f.h.k, and so permutatively a.b.c to f.g.h is as a.c.d to f.h.k. By the same rationale you
+							will also prove that as a.e.d to f.l.k, and so by the <span class="propositio">13th</span> of the <span class="liber">fifth</span> the total pentagon to the
+							total pentagon, is as a.b.c to f.g.h, then by the <span class="propositio">preceding</span> the proportion of the pentagon a.c.d to the pentagon f.h.k is
+							double the proportion of a.b to f.g, which is the intention, and from this, again, the corollary of the <span class="propositio">preceding</span> is
+							evident.
+						</td>
+						<td>
+							¶&nbsp;Secundum sic. protrahantur .b.d. quae secet .a.c. in puncto .m. et .g.k quae secet .f.h. in puncto .n. eritque triangulus .b.c.d. aequiangulus
+							triangulo .g.h.k. per <span class="propositio">.6.</span> <span class="liber">huius</span> et praesentem ypothesim. quare et triangulus .a.b.m. triangulo
+							.f.g.n. et .a.m.d.f.n.k. ergo per <span class="propositio">.4.</span> <span class="liber">huius</span> proportio .b.m. ad .g.n. est sicut .a.m. ad .f.n. et
+							.a.m. ad .f.n. sicut .m.d. ad .n.k. quare per <span class="propositio">.11.</span> <span class="liber">quinti</span> .b.m. ad .g.n. sicut .m.d. ad .n.k.
+							ergo permutatim .b.m. ad .m.d. sicut .g.n. ad .n.k. sed per <span class="propositio">primam</span> <span class="liber">huius</span> .a.b.m. ad .a.m.d. et
+							.b.c.m. ad .c.m.d. sicut .b.m. ad .m.d. et per <span class="propositio">eandem</span> .f.g.n. ad .f.n.k. et .g.n.h. ad .h.n.k. sicut .g.n. ad .n.k. ergo
+							per <span class="propositio">.13.</span> <span class="liber">quinti</span> .a.b.c. ad .a.c.d. sicut .f.g.h. ad .f.h.k. quare permutatim .a.b.c. ad .f.g.h.
+							sicut .a.c.d. ad .f.h.k. eadem ratione probabis quod et sicut .a.e.d. ad .f.l.k. ergo per <span class="propositio">.13.</span>
+							<span class="liber">primi</span> [sic] <span class="liber">quinti</span> totius penthagoni ad totum penthagonum sicut .a.b.c. ad .f.g.h. per
+							<span class="propositio">praemissam</span> igitur est proportio penthagoni .a.c.d. ad penthagonum .f.h.k. sicut proportio .a.b. ad .f.g. duplicata quod est
+							propositum: ex quo rursus patet correlarium. <span class="propositio">praecedentis</span>.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second may be demonstrated another way, for when the triangles into which the pentagon are divided are mutually similar, then by the
+							<span class="propositio">preceding</span>, the proportion of a.b.c to f.g.h is double b.c to g.h, and a.c.d to f.h.k is double c.d to h.k, and a.e.d to
+							f.l.k is double d.e to k.l, therefore, because all of these duplicate proportions are equal, for that it is posited for the simples to be equal, then by
+							the <span class="propositio">13th</span> of the <span class="liber">fifth</span>, the total pentagon to the total pentagon will be double the proportion of
+							the side of one to the relative side of the other.
+						</td>
+						<td>
+							¶&nbsp;Aliter potest demonstrari secundum. cum enim trianguli in quos penthagoni dividuntur sint adinvicem similes: erit per
+							<span class="propositio">praecedentem</span> proportio .a.b.c. ad .f.g.h. sicut .b.c. ad .g.h. duplicata. et .a.c.d. ad .f.h.k. sicut .c.d. ad .h.k.
+							duplicata. et .a.e.d. ad .f.l.k. sicut .d.e. ad .k.l. duplicata. quia igitur omnes hae proportiones duplicate sunt aequales propter hoc quod positum est 
+							simplas esse aeuqales: erit per <span class="propositio">.13.</span> <span class="liber">quinti</span> totius penthagoni ad totum penthagonum sicut lateris
+							unius ad suum relatium. latus alterius proportio duplicata.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 19</h1>
+						</td>
+						<td>
+							<h1>Propositio .19.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>To describe a superficies similar to a given superficies over a given line.</h3>
+						</td>
+						<td>
+							<h3>Supra datam lineam datae superficiei similem superficiem describere.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose the given line is a.b, over which I want to constitute a superficies similar to a given superficies, which is a pentagon, and is c.d.e.f.g. I
+							divide this pentagon into triangles by drawing lines d.f and d.g, and over point a I constitute an angle equal to angle c by drawing line a.h, and over
+							point b I constitute another angle, which is a.b.h, equal to angle c.d.g, by protracting line b.h until it shall concur with a.h at point h, and by the
+							<span class="propositio">32nd</span> of the <span class="liber">first</span>, angle a.h.b is equal to angle c.g.d, and so by the
+							<span class="propositio">4th</span> of <span class="liber">this</span>, the sides of the two triangles g.c.d and h.a.b are proportional. Then I also make
+							angle h.b.k by drawing line b.k equal to angle g.d.f, and angle k.b.l by drawing line b.l equal to angle f.d.e, and angle b.h.k by drawing line h.k equal
+							to angle d.g.f, and angle b.k.l by drawing line k.l equal to angle d.f.e, and the pentagon that is to be constituted over the line a.b will be perfected,
+							for it is equiangular to the given pentagon on account of the equality of the angles of the triangles into which each is divided, but also on account of
+							the proportional sides, due to the proportionality of the sides of the triangles themselves, which from the <span class="propositio">4th</span> of
+							<span class="liber">this</span> is evidently apparent, wherefore by the definition of similar superficies the pentagon constituted over the line a.b is
+							similar to the given pentagon, which is the intention.
+						</td>
+						<td>
+							¶&nbsp;Sit data linea .a.b. supra quam volo constituere superficiem similem datae superficiei quae sit penthagona: et sit .c.d.e.f.g. divido hunc penthagonum
+							in triangulos ductis lineis .d.f. et .d.g. et super punctum .a. constituo angulum aequalem angulo .c. ducta linea .a.h. et super punctum .b. constituo
+							alium angulum: qui sit .a.b.h. aequalem angulo .c.d.g. protracta linea .b.h. quousque concurrat cum .a.h. in puncto .h. eritque per
+							<span class="propositio">.32.</span> <span class="liber">primi</span> angulus .a.h.b. aequalis angulo .c.g.d. et ideo per
+							<span class="propositio">.4.</span> <span class="liber">huius</span> latera duorum triangulorum .g.c.d. et .h.a.b. proportionalia: facio quoque angulum
+							.h.b.k. ducta linea .b.k. aequalem angulo .g.d.f. et angulum k.b.l. ducta linea .b.e. [sic] aequalem angulo .f.e.d. [sic] et angulum .b.h.k. ducta linea
+							.h.k. aequalem angulo .d.g.f. et angulum .b.k.l. ducta linea .k.l. aequalem angulo .d.f.e. eritque perfectus penthagonus qui constituendus erat super
+							lineam .a.b. est enim aequiangulus dato penthagono propter aequalitatem angulorum triangulorum in quos est uterque divisus sed et laterum proportionalium
+							propter proporitonalitatem laterum ipsorum triangulorum quae ex <span class="propositio">.4.</span> <span class="liber">huius</span> evidenter apparet:
+							quare per diffinitionem similium superficierum penthagonus constitutus super lineam .a.b. est similis penthagono dato quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 20</h1>
+						</td>
+						<td>
+							<h1>Propositio .20.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If any superficies were similar to one superficies, it is necessary they be mutually similar to one another.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint uni superficiei similes quaslibet superficies sibiinvicem similes esse necesse est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose both pentagons, a.b.c and d.e.f, are similar to pentagon g.h.k. I say they are to be mutually similar to one another.
+						</td>
+						<td>
+							¶&nbsp;Sit uterque penthagonorum .a.b.c.d.e.f. similis penthagono .g.h.k. dico eos esse similes sibi invicem.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For each of them is equiangular to pentagon g.h.k, wherefore by a conversion of the definition of similar superficies, they are then mutually equiangular.
+						</td>
+						<td>
+							Est enim uterque eorum aequiangulus penthagono .g.h.k. per conversionem diffinitionis similium superficierum: quare sunt aequianguli adinvicem.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And similarly by a conversion of the same definition, the proportion of a.b to g.h is as a.c to g.k, and g.h to d.e is as g.k. to d.f, and so through equal
+							proportionality, a.b to d.e is as a.c to d.f. In the same way you will prove the remaining sides of the pentagon a.b.c and d.e.f, containing equal angles,
+							to be proportional, and by the definition of similar superficies, they are then mutually similar, which is the intention.
+						</td>
+						<td>
+							Similiter quoque per conversionem eiusdem diffinitionis proportio .a.b. ad .g.h. sicut .a.c. ad .g.k. et .g.h. ad .d.e. sicut .g.k. ad .d.f. ergo per aequam
+							proportionalitatem .a.b. ad .d.e. sicut .a.c. ad .d.f. eodem modo probabis reliqua latera penthagonorum .a.b.c. et .d.e.f. continentia aequos angulos esse
+							proportionalia. per diffinitionem itaque similium superficierum ipsi sunt similes adinvicem. quod est propositum.
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="noli">
+					<tr>
+						<td>
+							<h1>Proposition 21</h1>
+						</td>
+						<td>
+							<h1>Propositio .21.</h1>
+						</td>
+					</tr>
+					<tr>
+						<td>[English] <span class="langNav"><span onclick="document.body.classList.add('campanus')">Latin</span></span></td>
+						<td><span class="langNav"><span onclick="document.body.classList.remove('campanus')">English</span></span> [Latin]<span class="bracket">[<span class="ptoggle"
+						onclick="doTheSmash(this)">¶</span>]</span></td>
+					</tr>
+					<tr>
+						<td>
+							<h3>If there were however many proportional lines and similar superficies were designated over them two by two, then those superficies will also be
+							proportional. And if the similar superficies constituted over them two by two will be proportional, then it is also necessary for those lines to be
+							proportional.</h3>
+						</td>
+						<td>
+							<h3>Si fuerint quotlibet lineae proportionales atque super binas et binas similes superficies designentur: ipsae quoque superficies erunt proportionales.
+							Si vero super binas et binas similes superficies constitutae fuerint proportionales: ipsas quoque lineas proporitonales esse necesse est.</h3>
+						</td>
+					</tr>
+				</tbody>
+				<tbody>
+					<tr>
+						<td>
+							¶&nbsp;Suppose there are four proportional lines, a, b, c, and d, and the proportion of a to b is as c to d. I say that if similar superficies are
+							constituted over a and b, such as two similar pentagons, and similar others are constituted over c and d, such as two similar triangles, then the
+							proportion of pentagons will be as the proportion of triangles.
+						</td>
+						<td>
+							¶&nbsp;Sint quatuor lineae proporitonales .a.b.c.d. sitque proportio .a. ad .b. sicut .c. ad .d. dico quod si superficies similes constituantur super .a. et
+							.b. utpote duo penthagoni similes et aliae similes constituantur super .c. et .d. utpote duo trianguli similes: erit proportio penthagonorum sicut
+							triangulorum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And if the similar pentagons and similar triangles were also similar, and the proportion of pentagon to pentagon will be as triangle to triangle, then I
+							say that the proportion of a to b will be as c to d.
+						</td>
+						<td>
+							Quod si fuerint penthagoni similes et similiter etiam trianguli similes: fueritque proportio penthagoni ad penthagonum: sicut trianguli ad triangulum: dico
+							quod erit proportio .a. ad .b. sicut .c. ad .d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							For e is subjoined to lines a and b, and f to c and d, in continuous proportionality as the <span class="propositio">10th</span> of
+							<span class="liber">this</span> demonstrates, and by the <span class="propositio">22nd</span> of the <span class="liber">fifth</span> and by equal
+							proportionality, a to e is as c to f, and since by the corollary of the <span class="propositio">17th</span> of <span class="liber">this</span> the
+							proportion of the pentagons is as a to e, and that of the triangles is as c to f, then the proportion of pentagons will be as the proportion of triangles,
+							and this is the first.
+						</td>
+						<td>
+							Subiungatur enim lineis .a. et .b.e. et lineis .c. et .d.f. in continua proportionalitate: sicut docet <span class="propositio">.10.</span>
+							<span class="liber">huius</span>. eritque per <span class="propositio">.22.</span> <span class="liber">quinti</span> et per aequam proportionalitatem .a.
+							ad .e. sicut .c. ad .f. quia ergo per correlarium <span class="propositio">.17.</span> <span class="liber">huius</span> proportio penthagonorum: est sicut
+							.a. ad .e. et triangulorum sicut .c. ad .f. erit proportio penthagonorum sicut triangulorum: et hoc est primum.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							¶&nbsp;The second is as follows.
+						</td>
+						<td>
+							¶&nbsp;Secundum sic patet.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							Suppose two pentagons are similar, and two triangles are similar, and the proportion of the pentagons is as that of the triangles. I say that the
+							proportion of a to b is as c to d.
+						</td>
+						<td>
+							Sint duo penthagoni similes et duo trianguli similes. sitque proportio penthagonorum sicut triangulorum. dico quod proporito .a. ad .b. est sicut .c. ad
+							.d.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							So were c to g as a to b, for how this is done is stated above in the <span class="propositio">10th</span> of <span class="liber">this</span>, and over g a
+							superficies similar to that which is constituted over line c is made, as stated in the <span class="propositio">19th</span> of this, and by the
+							<span class="propositio">preceding</span>, it is similar to that which is constituted over line d, and also by the first part of
+							<span class="propositio">this 21st</span>, that the proportion of pentagon a to pentagon b will be the same as that of triangle c to triangle g, but it
+							will also be the same as triangle c to triangle d, therefore, by the second part of the <span class="propositio">9th</span> of the
+							<span class="liber">fifth</span>, triangle d is equal to triangle g.
+						</td>
+						<td>
+							Sit enim .c. ad .g. sicut .a. ad .b. hoc enim qualiter fiat. dictum est supra <span class="propositio">.10.</span> <span class="liber">huius</span>. et
+							super .g. fiat sicut docet <span class="propositio">.19.</span> <span class="liber">huius</span>. superficies similis illi quae est constituta super lineam
+							.c. eritque per praemissam similis ei quae constituta est super lineam .d. eritque etiam per primam partem <span class="propositio">huius .21.</span> quae
+							proporito penthagoni .a. ad penthagonum .b. eadem trianguli .c. ad triangulum .g. sed eadem erat etiam trianguli .c. ad triangulum .d. ergo per secundam
+							partem <span class="propositio">.9.</span> <span class="liber">quinti</span> triangulus .d. est aequalis triangulo .g.
+						</td>
+					</tr>
+					<tr>
+						<td>
+							And because they are similar, then line g will equal line d by the first part of the <span class="propositio">17th</span> of <span class="liber">this</span>
+							when over the lines c, d, and e, there are triangles, or by the second part of the <span class="propositio">18th</span> when there will be any other
+							multiangular figures, for equality is not produced from any duplicate proportion, or triplicate, or howsoevermuch taken, if not from equals, and so c to d
+							will be as a to b, which is the intention.
+						</td>
+						<td>
+							Et quia sunt similes: erit linea .g. aequalis lineae .d. per primam partem <span class="propositio">.17.</span> <span class="liber">huius</span> cum super
+							lineas .c.d. et .g. sint trianguli: vel per secundam partem <span class="propositio">.18.</span> cum fuerint quaelibet aliae figurae mutliangulae:
+							aequalitas enim non producitur ex aliqua proportione duplicata vel triplicate vel quotienslibet sumpta nisi ex aequali. erit itaque .c. ad .d. sicut .a.
+							ad .b. quod est propositum.
 						</td>
 					</tr>
 				</tbody>
